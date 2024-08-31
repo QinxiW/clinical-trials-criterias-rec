@@ -1,0 +1,601 @@
+,nctId,eligibilityCriteria,healthyVolunteers,sex,genderBased,minimumAge,maximumAge,stdAges,studyPopulation,samplingMethod,eligibilityCriteria_cleaned,studyPopulation_cleaned
+0,NCT06533865,"Inclusion Criteria:
+
+For functional hypothalamic amenorrhea and controls:
+
+* Female, age 14-25 years, skeletally mature with bone age ≥ 14 years (only 2% of growth left)
+* For women of reproductive age, agree to use an effective non-hormonal contraceptive method or a progestin releasing intrauterine device (no evidence of systemic skeletal effects) for the study duration
+* Negative βHCG (pregnancy test)
+* TSH, prolactin, potassium, magnesium within the normal range
+* Serum ALT ≤ 3 times upper limit of normal, LDL ≤ 190 mg/dl
+* eGFR ≥ 30ml/minute
+
+Additional inclusion criteria for functional hypothalamic amenorrhea:
+
+* Less than 3 menses in the preceding 6 months
+* BMD Z-score \< -1.0 at ≥ 1 skeletal site
+* Dental check-up within the past year
+
+Exclusion Criteria:
+
+For functional hypothalamic amenorrhea and controls
+
+* Disease other than FHA known to affect bone, including untreated thyroid dysfunction, Cushing's disease, renal failure, diabetes mellitus
+* Use of bisphosphonates
+* Use of other medications known to affect bone metabolism within 3 months of the study (other than calcium and vitamin D supplementation).
+* Substance abuse disorder; current smoker
+* History of malignancy or Paget disease of bone
+* Pregnant, planning to become pregnant within 12 months after the end of treatment and/or breastfeeding
+
+Additional exclusion criteria for functional hypothalamic amenorrhea
+
+* Cardiovascular: Myocardial infarction or stroke; history of hypertension or use of anti-hypertensive medications
+* Immunodeficiency or taking immunosuppressive therapy
+* Other conditions that can cause oligo-amenorrhea such as PCOS, premature ovarian insufficiency
+* Dental: Osteonecrosis of the jaw (ONJ) or risk factor for ONJ, such as invasive dental procedures (tooth extraction, dental implants, oral surgery in the past 3 months), poor oral hygiene, periodontal and/or pre-existing dental disease, and current use of corticosteroids
+* Planned invasive dental procedure over the next 12 months (the duration of the study)
+* Known sensitivity or absolute contraindication to any of the products or components of the medications to be administered (romosozumab, zoledronic acid, transdermal estradiol, micronized progesterone, calcium or vitamin D supplements)
+
+Additional exclusion criteria for normal-weight healthy controls
+
+• BMD Z-score \<-2.5 (who we will refer for evaluation)",True,FEMALE,,14 Years,25 Years,"['CHILD', 'ADULT']",,,inclusion criteria   for functional hypothalamic amenorrhea and controls     female  age 14 25 years  skeletally mature with bone age   14 years  only 2  of growth left    for women of reproductive age  agree to use an effective non hormonal contraceptive method or a progestin releasing intrauterine device  no evidence of systemic skeletal effects  for the study duration   negative βhcg  pregnancy test    tsh  prolactin  potassium  magnesium within the normal range   serum alt   3 times upper limit of normal  ldl   190 mg dl   egfr   30ml minute  additional inclusion criteria for functional hypothalamic amenorrhea     less than 3 menses in the preceding 6 months   bmd z score     1 0 at   1 skeletal site   dental check up within the past year  exclusion criteria   for functional hypothalamic amenorrhea and controls    disease other than fha known to affect bone  including untreated thyroid dysfunction  cushing s disease  renal failure  diabetes mellitus   use of bisphosphonates   use of other medications known to affect bone metabolism within 3 months of the study  other than calcium and vitamin d supplementation     substance abuse disorder  current smoker   history of malignancy or paget disease of bone   pregnant  planning to become pregnant within 12 months after the end of treatment and or breastfeeding  additional exclusion criteria for functional hypothalamic amenorrhea    cardiovascular  myocardial infarction or stroke  history of hypertension or use of anti hypertensive medications   immunodeficiency or taking immunosuppressive therapy   other conditions that can cause oligo amenorrhea such as pcos  premature ovarian insufficiency   dental  osteonecrosis of the jaw  onj  or risk factor for onj  such as invasive dental procedures  tooth extraction  dental implants  oral surgery in the past 3 months   poor oral hygiene  periodontal and or pre existing dental disease  and current use of corticosteroids   planned invasive dental procedure over the next 12 months  the duration of the study    known sensitivity or absolute contraindication to any of the products or components of the medications to be administered  romosozumab  zoledronic acid  transdermal estradiol  micronized progesterone  calcium or vitamin d supplements   additional exclusion criteria for normal weight healthy controls    bmd z score    2 5  who we will refer for evaluation,
+1,NCT05410886,"Inclusion Criteria:
+
+* Any woman 18-58 years of age
+* Secondary amenorrhea defined by either menstrual cycle interval persistently exceeding 45 days and/or those with period loss for 3 months or more
+
+Exclusion Criteria:
+
+* Women who never had periods (primary amenorrhea).",False,FEMALE,,18 Years,58 Years,['ADULT'],All women referred by their GP with amenorrhea to the Endocrinology or Reproductive Medicine clinics at Imperial College Healthcare NHS Trust hospitals and participating NHS organisations.,NON_PROBABILITY_SAMPLE,inclusion criteria     any woman 18 58 years of age   secondary amenorrhea defined by either menstrual cycle interval persistently exceeding 45 days and or those with period loss for 3 months or more  exclusion criteria     women who never had periods  primary amenorrhea,all women referred by their gp with amenorrhea to the endocrinology or reproductive medicine clinics at imperial college healthcare nhs trust hospitals and participating nhs organisations
+2,NCT02697136,"Main Inclusion Criteria:
+
+* Male and female patients, aged 18 and above.
+* ApoA-I \< 70 mg/dL
+* Symptomatic or asymptomatic cardiovascular disease
+* Diagnosis of genetically confirmed HDL-c deficiency due to defects in genes coding for ABCA1 and/or ApoA-1
+* Stable doses of lipid lowering therapies for at least 6 weeks prior to baseline procedures
+
+Main Exclusion Criteria:
+
+* Females of childbearing potential
+* Patients with LCAT mutations
+* Patients who experienced recent cardiovascular or cerebrovascular events
+* Hypertriglyceridemia (\>500 mg/dL)
+* Severe anemia (Hgb \< 10 g/dL)
+* Uncontrolled diabetes (HbA1c \>10%)
+* Congestive heart failure (NYHA class II or higher)
+* Contraindication for MRI scanning (e.g., implanted metal objects, claustrophobia)",False,ALL,,18 Years,,"['ADULT', 'OLDER_ADULT']",,,main inclusion criteria     male and female patients  aged 18 and above    apoa i    70 mg dl   symptomatic or asymptomatic cardiovascular disease   diagnosis of genetically confirmed hdl c deficiency due to defects in genes coding for abca1 and or apoa 1   stable doses of lipid lowering therapies for at least 6 weeks prior to baseline procedures  main exclusion criteria     females of childbearing potential   patients with lcat mutations   patients who experienced recent cardiovascular or cerebrovascular events   hypertriglyceridemia    500 mg dl    severe anemia  hgb    10 g dl    uncontrolled diabetes  hba1c   10     congestive heart failure  nyha class ii or higher    contraindication for mri scanning  e g   implanted metal objects  claustrophobia,
+3,NCT00453219,"Inclusion Criteria:
+
+* Inclusion criteria for participation are a gynecological age (age since menarche) \> 5 and \< 25 years, and chronological age \> 18 years, within 90-110% of ideal body weight as determined by the 1983 Metropolitan height and weight table for women, and exercise \< 10 h/wk and run \< 10 mi/wk, day-awake/night-asleep schedule.
+* Women in the FHA and PCOS groups have to fulfill the diagnostic criteria of FHA or PCOS and to have all other causes of amenorrhea and anovulation excluded.
+
+Exclusion Criteria:
+
+* Exclusion criteria are smoking, medications, including psychotropic or illicit drugs, medical, neurological, or ophthalmologic disease except acuity problems, a weight loss or gain of \> 10 lb within a year preceding or since the onset of amenorrhea, a major Axis I disorder other than depression, parturition in the last 12 months and/or lactating in the last 6 months.",True,FEMALE,,18 Years,35 Years,['ADULT'],Women ages 18-35,NON_PROBABILITY_SAMPLE,inclusion criteria     inclusion criteria for participation are a gynecological age  age since menarche     5 and    25 years  and chronological age    18 years  within 90 110  of ideal body weight as determined by the 1983 metropolitan height and weight table for women  and exercise    10 h wk and run    10 mi wk  day awake night asleep schedule    women in the fha and pcos groups have to fulfill the diagnostic criteria of fha or pcos and to have all other causes of amenorrhea and anovulation excluded   exclusion criteria     exclusion criteria are smoking  medications  including psychotropic or illicit drugs  medical  neurological  or ophthalmologic disease except acuity problems  a weight loss or gain of    10 lb within a year preceding or since the onset of amenorrhea  a major axis i disorder other than depression  parturition in the last 12 months and or lactating in the last 6 months,women ages 18 35
+4,NCT00870350,"Inclusion Criteria:
+
+* healthy subject
+* 14-15 years old
+* eligible for their school-leaving booster for DTP
+* received a complete primary vaccination with a 5-component acellular pertussis vaccine (DT5aP-IPV-Hib) at 3, 5 and 12 months of age and vaccinated with a 5-component acellular pertussis vaccine (Td5aP-IPV or Td5aP + IPV) as a booster at 5½ years of age
+* informed consent form signed by the subject and parent(s)/legal representative
+* subject understand and comply with the study procedures (i.e. able to read and write Swedish)
+* female must provide an agreement that they are either sexually continent or practice adequate contraceptive methods (intra-uterine contraceptive device (IUCD), hormonal contraceptives, condoms or other adequate barrier contraception).
+
+Exclusion Criteria:
+
+* acute febrile illness or axillary temperature ≥38.0°C at the time of vaccination
+* receipt of immunoglobulin within the previous 3 months, immunosuppression (e g evidence of impaired cell mediated immunity, receipt of immunosuppressant drugs within the previous 3 months or receipt of systemic corticosteroids given daily or on alternate days at ≥20 mg/day prednisone equivalent during \>14 days within the past 30 days)
+* receipt of a non-study vaccine in the past 30 days
+* evolving encephalopathy not attributable to another identifiable cause within 7 days of administration of a previous dose of any vaccine
+* booster vaccination with tetanus, low dose diphtheria and acellular pertussis vaccine since the booster vaccination at 5½ years of age
+* previous clinical or bacteriological diagnosis of diphtheria, tetanus or pertussis
+* hypersensitivity to any component of any of the study vaccines
+* current participation in any other clinical trial or participation in any clinical trial in the previous month
+* inability to adhere to the protocol, including plans to move from the area
+* severe chronic disease
+* family history of congenital or hereditary immunodeficiency
+* any sever thrombocytopenia or any other coagulation disorder that would contraindicate intramuscular injection
+* any medical condition, which in the opinion of the investigator, might interfere with the evaluation of the study objectives.",True,ALL,,14 Years,15 Years,['CHILD'],,,inclusion criteria     healthy subject   14 15 years old   eligible for their school leaving booster for dtp   received a complete primary vaccination with a 5 component acellular pertussis vaccine  dt5ap ipv hib  at 3  5 and 12 months of age and vaccinated with a 5 component acellular pertussis vaccine  td5ap ipv or td5ap   ipv  as a booster at 5½ years of age   informed consent form signed by the subject and parent s  legal representative   subject understand and comply with the study procedures  i e  able to read and write swedish    female must provide an agreement that they are either sexually continent or practice adequate contraceptive methods  intra uterine contraceptive device  iucd   hormonal contraceptives  condoms or other adequate barrier contraception    exclusion criteria     acute febrile illness or axillary temperature  38 0 c at the time of vaccination   receipt of immunoglobulin within the previous 3 months  immunosuppression  e g evidence of impaired cell mediated immunity  receipt of immunosuppressant drugs within the previous 3 months or receipt of systemic corticosteroids given daily or on alternate days at  20 mg day prednisone equivalent during   14 days within the past 30 days    receipt of a non study vaccine in the past 30 days   evolving encephalopathy not attributable to another identifiable cause within 7 days of administration of a previous dose of any vaccine   booster vaccination with tetanus  low dose diphtheria and acellular pertussis vaccine since the booster vaccination at 5½ years of age   previous clinical or bacteriological diagnosis of diphtheria  tetanus or pertussis   hypersensitivity to any component of any of the study vaccines   current participation in any other clinical trial or participation in any clinical trial in the previous month   inability to adhere to the protocol  including plans to move from the area   severe chronic disease   family history of congenital or hereditary immunodeficiency   any sever thrombocytopenia or any other coagulation disorder that would contraindicate intramuscular injection   any medical condition  which in the opinion of the investigator  might interfere with the evaluation of the study objectives,
+5,NCT00456274,"Inclusion Criteria:
+
+* Healthy women between the ages of 16-45 years
+* Negative pregnancy test
+* On no gonadal steroid preparations for at least 3 months, with the exception of the idiopathic hypogonadotropic hypogonadism (IHH) group, they should be off gonadal steroid for at least 4 weeks
+
+The following test will be performed if they had not been done in the last 2 months
+
+* Normal blood count
+* Normal thyroid function test
+
+Exclusion Criteria:
+
+* Hemoglobin levels less than 11 gm/dL
+* Positive pregnancy test
+* Abnormal thyroid function
+* Abnormal MRI (IHH)",False,FEMALE,,16 Years,45 Years,"['CHILD', 'ADULT']",,,inclusion criteria     healthy women between the ages of 16 45 years   negative pregnancy test   on no gonadal steroid preparations for at least 3 months  with the exception of the idiopathic hypogonadotropic hypogonadism  ihh  group  they should be off gonadal steroid for at least 4 weeks  the following test will be performed if they had not been done in the last 2 months    normal blood count   normal thyroid function test  exclusion criteria     hemoglobin levels less than 11 gm dl   positive pregnancy test   abnormal thyroid function   abnormal mri  ihh,
+6,NCT01185782,"Inclusion Criteria:
+
+* Women aged 20 to 39 years (inclusive) who hope to bear children
+* Subjects who failed to achieve ovulation or pregnancy despite 2 cycles or more of anti-estrogen therapies (clomiphene citrate, cyclofenil, etc.)
+* Subjects who exhibited withdrawal bleeding in a progesterone test (Includes spontaneous menstruation in subjects with anovulatory cycles.)
+* Subjects having a body mass index between 17.0 and 28.0 at the time of baseline tests
+* Subjects who voluntarily consented in writing to participate in the clinical trial
+
+Exclusion Criteria:
+
+* Subjects with ovarian tumors
+* Subjects with ovarian enlargement not due to PCOS
+* Subjects with genitourinary hemorrhage of unknown cause
+* Subjects who were or may be pregnant, or who were lactating
+* Subjects with history of allergic reaction or hypersensitivity to gonadotropin
+* Subjects with dysfunction of heart, lungs, kidneys, or cardiovascular systems of Grade 2 or higher (in compliance with the Pharmaceutical and Medical Safety Bureau Notification Yakuan No. 80 \[issued 29 June 1992\])
+* Subjects with serum progesterone (P4) level ≥ 5 ng/mL in baseline tests
+* Subjects with malignant tumors
+* Subjects with uterine amenorrhea
+* Subjects with elevated levels of serum gonadotropin due to premature ovarian failure (FSH ≥ 20 mIU/mL)
+* Subjects who were infertile due to known adrenal or thyroid dysfunction
+* Subjects who were diagnosed as having hyperprolactinemia
+* Subjects who had been documented or suspected of having intracranial lesions (e.g., pituitary tumors)
+* Infertile subjects involving gynecological factors other than amenorrhea I or anovulatory cycles, and for whom ovulation induction therapy was found to be contraindicated
+* Subjects who had participated in another clinical study within 6 months prior to start of the IMP administration
+* Subjects who had been administered SJ-0021 in the past
+* Subjects whose participation in this clinical trial was otherwise deemed inappropriate by the investigator or sub-investigator",False,FEMALE,,20 Years,39 Years,['ADULT'],,,inclusion criteria     women aged 20 to 39 years  inclusive  who hope to bear children   subjects who failed to achieve ovulation or pregnancy despite 2 cycles or more of anti estrogen therapies  clomiphene citrate  cyclofenil  etc     subjects who exhibited withdrawal bleeding in a progesterone test  includes spontaneous menstruation in subjects with anovulatory cycles     subjects having a body mass index between 17 0 and 28 0 at the time of baseline tests   subjects who voluntarily consented in writing to participate in the clinical trial  exclusion criteria     subjects with ovarian tumors   subjects with ovarian enlargement not due to pcos   subjects with genitourinary hemorrhage of unknown cause   subjects who were or may be pregnant  or who were lactating   subjects with history of allergic reaction or hypersensitivity to gonadotropin   subjects with dysfunction of heart  lungs  kidneys  or cardiovascular systems of grade 2 or higher  in compliance with the pharmaceutical and medical safety bureau notification yakuan no  80   issued 29 june 1992      subjects with serum progesterone  p4  level   5 ng ml in baseline tests   subjects with malignant tumors   subjects with uterine amenorrhea   subjects with elevated levels of serum gonadotropin due to premature ovarian failure  fsh   20 miu ml    subjects who were infertile due to known adrenal or thyroid dysfunction   subjects who were diagnosed as having hyperprolactinemia   subjects who had been documented or suspected of having intracranial lesions  e g   pituitary tumors    infertile subjects involving gynecological factors other than amenorrhea i or anovulatory cycles  and for whom ovulation induction therapy was found to be contraindicated   subjects who had participated in another clinical study within 6 months prior to start of the imp administration   subjects who had been administered sj 0021 in the past   subjects whose participation in this clinical trial was otherwise deemed inappropriate by the investigator or sub investigator,
+7,NCT06471582,"Inclusion Criteria:
+
+* participates in structured running or cycling exercise for at least 30 minutes on 3 or more days per week
+* accustomed to exercising for 90 minutes or more
+* has regular periods every 21-35 days
+* have not taken hormonal contraceptives for at least the past 6 months
+* is not currently or trying to become pregnant or breastfeeding, and has not been pregnant or breastfeeding in the past 12 months
+* does not currently have a diagnosis of a major menstrual cycle disorder (i.e., amenorrhea, polycystic ovary syndrome \[PCOS\], endometriosis, ovarian cancer, ovarian insufficiency, uterine or endometrial cancer)
+* does not currently have a metabolic disease (i.e., hypothyroidism, hyperthyroidism, Cushing disease, Addison's disease, diabetes, congenital adrenal hyperplasia)
+* does not currently have a major cardiovascular or respiratory disease
+
+Exclusion Criteria:
+
+* miss more than 7 consecutive days of aerobic activity (i.e., running, cycling, cross training)
+* demonstrate clinical low energy availability as defined as energy availability \<30 kcal/kg fat free mass
+* report menstrual cycle lengths \<21 or \>35 days in the first 2 months of at-home monitoring
+* do not demonstrate an anticipated rise in luteinizing hormone and progesterone in the first 2 months of at-home monitoring
+* begin taking a hormonal contraceptive
+* become pregnant
+* are diagnosed with a menstrual cycle disorder (i.e., amenorrhea, polycystic ovary syndrome \[PCOS\], endometriosis, ovarian cancer, ovarian insufficiency, uterine, or endometrial cancer)
+* are diagnosed with a metabolic disease (i.e., hypothyroidism, hyperthyroidism, Cushing disease, Addison's disease, diabetes)
+* are diagnosed with a major cardiovascular or respiratory disease
+* are unable to follow instructions for any of the procedures",True,FEMALE,,18 Years,40 Years,['ADULT'],,,inclusion criteria     participates in structured running or cycling exercise for at least 30 minutes on 3 or more days per week   accustomed to exercising for 90 minutes or more   has regular periods every 21 35 days   have not taken hormonal contraceptives for at least the past 6 months   is not currently or trying to become pregnant or breastfeeding  and has not been pregnant or breastfeeding in the past 12 months   does not currently have a diagnosis of a major menstrual cycle disorder  i e   amenorrhea  polycystic ovary syndrome   pcos    endometriosis  ovarian cancer  ovarian insufficiency  uterine or endometrial cancer    does not currently have a metabolic disease  i e   hypothyroidism  hyperthyroidism  cushing disease  addison s disease  diabetes  congenital adrenal hyperplasia    does not currently have a major cardiovascular or respiratory disease  exclusion criteria     miss more than 7 consecutive days of aerobic activity  i e   running  cycling  cross training    demonstrate clinical low energy availability as defined as energy availability   30 kcal kg fat free mass   report menstrual cycle lengths   21 or   35 days in the first 2 months of at home monitoring   do not demonstrate an anticipated rise in luteinizing hormone and progesterone in the first 2 months of at home monitoring   begin taking a hormonal contraceptive   become pregnant   are diagnosed with a menstrual cycle disorder  i e   amenorrhea  polycystic ovary syndrome   pcos    endometriosis  ovarian cancer  ovarian insufficiency  uterine  or endometrial cancer    are diagnosed with a metabolic disease  i e   hypothyroidism  hyperthyroidism  cushing disease  addison s disease  diabetes    are diagnosed with a major cardiovascular or respiratory disease   are unable to follow instructions for any of the procedures,
+8,NCT05633966,"Inclusion Criteria:
+
+* Acquired hypogonadotropic hypogonadism (hypothalamic amenorrhea, aka functional hypothalamic amenorrhea)
+
+  • Confirmed diagnosis by medical provider supported by low sex steroids in the setting of low or inappropriately normal gonadotropins\]
+* Normal blood pressure (systolic BP \< 140 mm Hg, diastolic \< 90 mm Hg)
+* Laboratory Studies:
+
+  * Hemoglobin no less than 0.5 g/dL below the lower limit of the reference range for normal women
+  * Negative serum hCG pregnancy test at screening (additional urine pregnancy test will be conducted prior to drug administration)
+* Not using hormonal replacement or willing to complete an appropriate washout for that particular medication and method of administration
+* No current or recent use of a medication that, in the opinion of a study investigator, can modulate the reproductive axis or willing to complete an appropriate washout for that particular medication and method of administration
+
+Exclusion Criteria:
+
+* Any condition (medical, mental, or behavioral) that, in the opinion of a study investigator, would likely interfere with participation in/completion of the protocol
+* Excessive alcohol consumption (\>10 drinks/week) and/or active use of illicit drugs
+
+  • Any active use of marijuana will be evaluated by a study medical professional to determine if it may impact study participation. Individuals who regularly use marijuana may be asked to washout as referenced in the medication washout section below
+* Pregnant or trying to become pregnant
+* Breast feeding
+* History of bilateral oophorectomy (ovaries were removed)",False,FEMALE,,18 Years,45 Years,['ADULT'],,,inclusion criteria     acquired hypogonadotropic hypogonadism  hypothalamic amenorrhea  aka functional hypothalamic amenorrhea       confirmed diagnosis by medical provider supported by low sex steroids in the setting of low or inappropriately normal gonadotropins     normal blood pressure  systolic bp    140 mm hg  diastolic    90 mm hg    laboratory studies       hemoglobin no less than 0 5 g dl below the lower limit of the reference range for normal women     negative serum hcg pregnancy test at screening  additional urine pregnancy test will be conducted prior to drug administration    not using hormonal replacement or willing to complete an appropriate washout for that particular medication and method of administration   no current or recent use of a medication that  in the opinion of a study investigator  can modulate the reproductive axis or willing to complete an appropriate washout for that particular medication and method of administration  exclusion criteria     any condition  medical  mental  or behavioral  that  in the opinion of a study investigator  would likely interfere with participation in completion of the protocol   excessive alcohol consumption    10 drinks week  and or active use of illicit drugs      any active use of marijuana will be evaluated by a study medical professional to determine if it may impact study participation  individuals who regularly use marijuana may be asked to washout as referenced in the medication washout section below   pregnant or trying to become pregnant   breast feeding   history of bilateral oophorectomy  ovaries were removed,
+9,NCT01674426,"Inclusion Criteria:
+
+* women with functional hypothalamic amenorrhea
+* day awake / night asleep schedule
+
+Exclusion Criteria:
+
+* eating disorders, depression, excessive exercise or any other cause of amenorrhea and anovulation other than functional hypothalamic amenorrhea
+* weight loss greater than 10 pounds when amenorrhea developed
+* running more than 10 miles per week or exercising more than 10 hours per week",False,FEMALE,,18 Years,35 Years,['ADULT'],,,inclusion criteria     women with functional hypothalamic amenorrhea   day awake   night asleep schedule  exclusion criteria     eating disorders  depression  excessive exercise or any other cause of amenorrhea and anovulation other than functional hypothalamic amenorrhea   weight loss greater than 10 pounds when amenorrhea developed   running more than 10 miles per week or exercising more than 10 hours per week,
+10,NCT03018366,"Inclusion Criteria:
+
+For premenopausal Hypo E and normal control women, inclusions include:
+
+* Premenopausal currently not on hormone therapy,
+* English speaking (for the purposes of complete psychosocial assessment)
+* able to give informed consent
+* a gynecological age (age since menarche) \> 10 and \< 25 years, and chronological age \> 18 years
+* Within 90-110% of ideal body weight as determined by the 1983 Metropolitan Height and weight table for women
+* All participants with hypothalamic amenorrhea will be diagnosed based on exclusion of other etiologies for their amenorrhea, including pregnancy, thyroid dysfunction, hyperprolactinemia, premature ovarian insufficiency, and polycystic ovary disease
+
+For recently menopausal women inclusions include:
+
+* Follicle stimulating hormones (FSH) \>30 and 12 months of amenorrhea, within 3 years of final menstrual period with natural menopausal not on hormone therapy
+* English speaking
+* Able to give informed consent
+* Within 90-110% of ideal body weight
+
+Exclusion Criteria:
+
+For premenopausal Hypo E and normal control women exclusions include:
+
+* Smoking
+* Hypertension
+* Hyperlipidemia
+* Diabetes
+* Medications including psychotropic or illicit drugs, medical, neurological
+* Ophthalmologic disease except acuity problems
+* Major Axis I disorder other than depression
+* Pregnancy in the last 12 months and/or lactating in the last 6 months
+* Current use of hormone contraceptive or any estrogen or progestin therapy
+
+For HypoE women, exclusion criteria include:
+
+- Allergy to adhesive or tape
+
+For recently menopausal women exclusions also include:
+
+* Previous or current use of hormone therapy, estrogen or progestin
+* Surgical or chemotherapy induced menopause
+* Premature ovarian failure",True,FEMALE,,18 Years,60 Years,['ADULT'],,,inclusion criteria   for premenopausal hypo e and normal control women  inclusions include     premenopausal currently not on hormone therapy    english speaking  for the purposes of complete psychosocial assessment    able to give informed consent   a gynecological age  age since menarche     10 and    25 years  and chronological age    18 years   within 90 110  of ideal body weight as determined by the 1983 metropolitan height and weight table for women   all participants with hypothalamic amenorrhea will be diagnosed based on exclusion of other etiologies for their amenorrhea  including pregnancy  thyroid dysfunction  hyperprolactinemia  premature ovarian insufficiency  and polycystic ovary disease  for recently menopausal women inclusions include     follicle stimulating hormones  fsh    30 and 12 months of amenorrhea  within 3 years of final menstrual period with natural menopausal not on hormone therapy   english speaking   able to give informed consent   within 90 110  of ideal body weight  exclusion criteria   for premenopausal hypo e and normal control women exclusions include     smoking   hypertension   hyperlipidemia   diabetes   medications including psychotropic or illicit drugs  medical  neurological   ophthalmologic disease except acuity problems   major axis i disorder other than depression   pregnancy in the last 12 months and or lactating in the last 6 months   current use of hormone contraceptive or any estrogen or progestin therapy  for hypoe women  exclusion criteria include     allergy to adhesive or tape  for recently menopausal women exclusions also include     previous or current use of hormone therapy  estrogen or progestin   surgical or chemotherapy induced menopause   premature ovarian failure,
+11,NCT02984696,"Inclusion Criteria:
+
+* Hypotalamic Amenorrhea
+
+Exclusion Criteria:
+
+* diabetes mellitus (or impaired glucose tolerance as determined by a standard 75 gr oral glucose tolerance test)
+* hypertension
+* significant liver or renal impairment
+* other hormonal dysfunction (hypothalamic, pituitary, PCOS, thiroidal or adrenal)
+* neoplasms",False,FEMALE,,18 Years,35 Years,['ADULT'],,,inclusion criteria     hypotalamic amenorrhea  exclusion criteria     diabetes mellitus  or impaired glucose tolerance as determined by a standard 75 gr oral glucose tolerance test    hypertension   significant liver or renal impairment   other hormonal dysfunction  hypothalamic  pituitary  pcos  thiroidal or adrenal    neoplasms,
+12,NCT02871986,"Inclusion Criteria:
+
+1. Have a diagnosis of hypogonadism (Turner's syndrome, hypogonadotrophic hypogonadism, primary ovarian insufficiency, hypopituitarism, hypothalamic amenorrhoea, transgender)
+2. ≥ 10 years of age
+3. Oestrogen naïve i.e. no prior commencement of oestrogen treatment
+4. Breast Tanner stage ≤ than 2
+
+Exclusion Criteria:
+
+1. Previous oncology treatment
+2. Primary amenorrhoea secondary to chronic medical comorbidity
+3. PCOS diagnosis",False,ALL,,10 Years,30 Years,"['CHILD', 'ADULT']",Individuals with hypogonadism requiring pubertal induction,PROBABILITY_SAMPLE,inclusion criteria   1  have a diagnosis of hypogonadism  turner s syndrome  hypogonadotrophic hypogonadism  primary ovarian insufficiency  hypopituitarism  hypothalamic amenorrhoea  transgender  2    10 years of age 3  oestrogen naïve i e  no prior commencement of oestrogen treatment 4  breast tanner stage   than 2  exclusion criteria   1  previous oncology treatment 2  primary amenorrhoea secondary to chronic medical comorbidity 3  pcos diagnosis,individuals with hypogonadism requiring pubertal induction
+13,NCT05448924,"Inclusion Criteria:
+
+* A single female participant with amenorrhea
+
+Exclusion Criteria:
+
+* The study only included the above subject",False,FEMALE,,,,"['CHILD', 'ADULT', 'OLDER_ADULT']",This 14-year old female came to the gynaecology clinic with a chief complaint of amenorrhea,NON_PROBABILITY_SAMPLE,inclusion criteria     a single female participant with amenorrhea  exclusion criteria     the study only included the above subject,this 14 year old female came to the gynaecology clinic with a chief complaint of amenorrhea
+14,NCT00556036,"Inclusion Criteria:
+
+* Amenorrhea for at least three months (unless participating as healthy control)
+* Normal TSH or free thyroxine (free T4).
+
+Exclusion Criteria:
+
+* A condition known to affect bone metabolism, including Cushing's syndrome or renal failure, with the exception of bone fracture.
+* Any medication known to affect bone metabolism within 3 months of the study, including estrogen and progestins. Patients receiving depot medroxyprogesterone (Depo-Provera) will be excluded from participating for 6 months after their last injection.
+* Pregnant and/or breastfeeding.
+* Diabetes mellitus.
+* Active substance abuse, including alcohol.",True,FEMALE,,18 Years,45 Years,['ADULT'],community sample and referrals by specialists,NON_PROBABILITY_SAMPLE,inclusion criteria     amenorrhea for at least three months  unless participating as healthy control    normal tsh or free thyroxine  free t4    exclusion criteria     a condition known to affect bone metabolism  including cushing s syndrome or renal failure  with the exception of bone fracture    any medication known to affect bone metabolism within 3 months of the study  including estrogen and progestins  patients receiving depot medroxyprogesterone  depo provera  will be excluded from participating for 6 months after their last injection    pregnant and or breastfeeding    diabetes mellitus    active substance abuse  including alcohol,community sample and referrals by specialists
+15,NCT02858336,"* INCLUSION CRITERIA:
+
+Participants will be enrolled without regard to race or ethnicity. Each potential participant must meet all of the following inclusion criteria in order to be eligible to enroll in the study:
+
+1. Female
+2. Between 18 and 28 years of age (inclusive)
+3. Reported menarche between the ages of 11 and 14 years
+4. Gynecological age of less than or equal to 14 years
+5. A history of self-reported regular menstrual cycles when not on contraceptive medication of between 25 and 35 days (inclusive) at prescreen and knowledge of date of onset of menses before the screening visit
+6. A BMI of 18.5 to 27 kg (Summation)m(2) and a weight \>= 93 lbs.
+7. Agrees to use barrier contraception method for the duration of the study and the follow up period
+8. Agrees to abstain from alcohol consumption during both 5-day diet/exercise study interventions
+9. Agrees to abstain from donating blood during the study and within 30 days of completing the study
+10. Agrees to abstain from biotin supplements for the duration of the study
+11. Is willing and able to fulfill the requirements of the protocol and to provide informed consent
+12. Able to speak and read English
+13. Lives within 50 miles of the Clinical Research Unit
+
+EXCLUSION CRITERIA:
+
+A potential participant meeting any of the following exclusion criteria is not eligible to enroll in the study:
+
+1. Currently lactating or pregnant or planning on becoming pregnant for the duration of the study
+2. Has ever given birth
+3. History in the past 3 months of dieting or weight loss amounting to greater than 2 kg
+4. \> 4 hours per week of aerobic exercise for the past 3 months
+5. Has initiated training for an athletic sport or event in the past 3 months that, in the opinion of the investigator, may interfere with the results of the study
+6. Currently using hormone-based contraception, including those administered orally, vaginally, via injection, sub-dermally, or transdermally
+7. Current use of medications or supplements that may interfere with the results of the study, including:
+
+   i.Steroids
+
+   ii.Hormone-based contraception
+
+   iii.Sleeping pills
+
+   iv.Homeopathic substances (e.g. Chinese herbs, protein or other powders, and other-the-counter extracts)
+
+   v.Stimulants (e.g. Ritalin)
+
+   vi.Antidepressants or anti-epileptic medications or centrally acting anti-hypertensive medications
+8. Current use of recreational drugs (alcohol intake will be monitored and excluded during the two intervention periods)
+9. Unable to consume food containing dairy or nuts
+10. Has currently or has a history of any of the following: autoimmune, heart, liver, renal disease, diabetes, or another health condition deemed by the PI to be a contraindication to study participation. History of thyroid disorder is permissible if the patient is biochemically euthyroid on replacement.
+
+Additional Eligibility Criteria to be Met Prior to Start of Intervention(s):
+
+Criteria 1 Habitual energy intake between 35-55 kcal/kg LBM\*day
+
+Criteria 2 VO2max less than or equal to 40 ml/kg/min with the option to increase this at the discretion of the PI, depending on the current and past exercise level of the participant.
+
+Criteria 3 Hemoglobin, prolactin and TSH within normal female range for testing laboratory.
+
+Criteria 4 Ovulation confirmed in the cycle before each study intervention by self-reported positive urine test, ultrasound and/or progesterone blood-levels",False,FEMALE,,18 Years,28 Years,['ADULT'],,,inclusion criteria   participants will be enrolled without regard to race or ethnicity  each potential participant must meet all of the following inclusion criteria in order to be eligible to enroll in the study   1  female 2  between 18 and 28 years of age  inclusive  3  reported menarche between the ages of 11 and 14 years 4  gynecological age of less than or equal to 14 years 5  a history of self reported regular menstrual cycles when not on contraceptive medication of between 25 and 35 days  inclusive  at prescreen and knowledge of date of onset of menses before the screening visit 6  a bmi of 18 5 to 27 kg  summation m 2  and a weight     93 lbs  7  agrees to use barrier contraception method for the duration of the study and the follow up period 8  agrees to abstain from alcohol consumption during both 5 day diet exercise study interventions 9  agrees to abstain from donating blood during the study and within 30 days of completing the study 10  agrees to abstain from biotin supplements for the duration of the study 11  is willing and able to fulfill the requirements of the protocol and to provide informed consent 12  able to speak and read english 13  lives within 50 miles of the clinical research unit  exclusion criteria   a potential participant meeting any of the following exclusion criteria is not eligible to enroll in the study   1  currently lactating or pregnant or planning on becoming pregnant for the duration of the study 2  has ever given birth 3  history in the past 3 months of dieting or weight loss amounting to greater than 2 kg 4     4 hours per week of aerobic exercise for the past 3 months 5  has initiated training for an athletic sport or event in the past 3 months that  in the opinion of the investigator  may interfere with the results of the study 6  currently using hormone based contraception  including those administered orally  vaginally  via injection  sub dermally  or transdermally 7  current use of medications or supplements that may interfere with the results of the study  including      i steroids     ii hormone based contraception     iii sleeping pills     iv homeopathic substances  e g  chinese herbs  protein or other powders  and other the counter extracts      v stimulants  e g  ritalin      vi antidepressants or anti epileptic medications or centrally acting anti hypertensive medications 8  current use of recreational drugs  alcohol intake will be monitored and excluded during the two intervention periods  9  unable to consume food containing dairy or nuts 10  has currently or has a history of any of the following  autoimmune  heart  liver  renal disease  diabetes  or another health condition deemed by the pi to be a contraindication to study participation  history of thyroid disorder is permissible if the patient is biochemically euthyroid on replacement   additional eligibility criteria to be met prior to start of intervention s    criteria 1 habitual energy intake between 35 55 kcal kg lbm  day  criteria 2 vo2max less than or equal to 40 ml kg min with the option to increase this at the discretion of the pi  depending on the current and past exercise level of the participant   criteria 3 hemoglobin  prolactin and tsh within normal female range for testing laboratory   criteria 4 ovulation confirmed in the cycle before each study intervention by self reported positive urine test  ultrasound and or progesterone blood levels,
+16,NCT05967819,"Inclusion Criteria:
+
+* participates in structured running or cycling exercise for at least 30 minutes on 4 days per week or more
+* have regular periods every 21 to 35 days
+* have not used hormonal contraceptives for at least the past 6 months
+* are not currently or trying to become pregnant or are breastfeeding, and have not been pregnant or breastfeeding for the past 12 months
+* have never been diagnosed with a menstrual cycle disorder (e.g., menorrhagia, amenorrhea, dysmenorrhea, polycystic ovary syndrome \[PCOS\], endometriosis, premenstrual dysphoric disorder \[PMDD\], menstrual migraines, ovarian cancer, ovarian insufficiency, uterine or endometrial cancer)
+* have never been diagnosed with a metabolic disease (e.g., hypothyroidism, hyperthyroidism, Cushing disease, Addison's disease, diabetes)
+
+Exclusion Criteria:
+
+* missing \> 4 consecutive days of aerobic exercise (i.e., running, cycling, cross training) if assigned to the exercise intervention groups
+* they indicate they ""Could not participate at all due to a health problem"" or have had to modify their exercise training, felt their injury, illness, or other health problem has affected their exercise performance, or experienced symptoms/ health complaints greater than ""To a minor extent"" on the Oslo Sports Trauma Research Center Questionnaire (exercise training intervention group)
+* demonstrate clinical low energy availability as defined as energy availability \<30 Kcal/kg fat free mass in the first two months of at-home monitoring
+* report menstrual cycle lengths \<21 days or \>35 days in the first two months of at-home monitoring
+* do not demonstrate an anticipated rise in progesterone levels during the latter half of their cycle and luteinizing hormone levels at mid-cycle compared to tests taken during the first few days after menses in the first two months of at-home monitoring
+* begin taking a hormonal contraceptive
+* become pregnant
+* are diagnosed with a menstrual cycle disorder (e.g., menorrhagia, amenorrhea, dysmenorrhea, polycystic ovary syndrome \[PCOS\], endometriosis, premenstrual dysphoric disorder \[PMDD\], menstrual migraines, ovarian cancer, ovarian insufficiency, uterine or endometrial cancer)
+* are diagnosed with a metabolic disease (e.g., hypothyroidism, hyperthyroidism, Cushing disease, Addison's disease, diabetes), 10) are diagnosed with a major cardiovascular disease, respiratory disease, or musculoskeletal injury
+* are unable to follow instructions for any of the procedures",True,FEMALE,,18 Years,35 Years,['ADULT'],,,inclusion criteria     participates in structured running or cycling exercise for at least 30 minutes on 4 days per week or more   have regular periods every 21 to 35 days   have not used hormonal contraceptives for at least the past 6 months   are not currently or trying to become pregnant or are breastfeeding  and have not been pregnant or breastfeeding for the past 12 months   have never been diagnosed with a menstrual cycle disorder  e g   menorrhagia  amenorrhea  dysmenorrhea  polycystic ovary syndrome   pcos    endometriosis  premenstrual dysphoric disorder   pmdd    menstrual migraines  ovarian cancer  ovarian insufficiency  uterine or endometrial cancer    have never been diagnosed with a metabolic disease  e g   hypothyroidism  hyperthyroidism  cushing disease  addison s disease  diabetes   exclusion criteria     missing    4 consecutive days of aerobic exercise  i e   running  cycling  cross training  if assigned to the exercise intervention groups   they indicate they  could not participate at all due to a health problem  or have had to modify their exercise training  felt their injury  illness  or other health problem has affected their exercise performance  or experienced symptoms  health complaints greater than  to a minor extent  on the oslo sports trauma research center questionnaire  exercise training intervention group    demonstrate clinical low energy availability as defined as energy availability   30 kcal kg fat free mass in the first two months of at home monitoring   report menstrual cycle lengths   21 days or   35 days in the first two months of at home monitoring   do not demonstrate an anticipated rise in progesterone levels during the latter half of their cycle and luteinizing hormone levels at mid cycle compared to tests taken during the first few days after menses in the first two months of at home monitoring   begin taking a hormonal contraceptive   become pregnant   are diagnosed with a menstrual cycle disorder  e g   menorrhagia  amenorrhea  dysmenorrhea  polycystic ovary syndrome   pcos    endometriosis  premenstrual dysphoric disorder   pmdd    menstrual migraines  ovarian cancer  ovarian insufficiency  uterine or endometrial cancer    are diagnosed with a metabolic disease  e g   hypothyroidism  hyperthyroidism  cushing disease  addison s disease  diabetes   10  are diagnosed with a major cardiovascular disease  respiratory disease  or musculoskeletal injury   are unable to follow instructions for any of the procedures,
+17,NCT01165619,"Inclusion Criteria:
+
+* Over the age of 18 for men
+* Between the ages of 18 and 40 for women
+* For reproductive disorder population: Current or previous diagnosis of Idiopathic Hypogonadotropic Hypogonadism or Hypothalamic Amenorrhea
+
+Exclusion Criteria:
+
+* chronic disease (hypertension, high cholesterol, diabetes, asthma, etc)
+* polycystic ovarian syndrome for women
+* prescription medication use (other than allergy meds) for control populations
+* irregular menstrual cycles for healthy female control population (cycle length longer than 35 days or shorter than 25 days. cycle length varies by more than 5 days. less than 9 periods per year)",True,ALL,,18 Years,40 Years,['ADULT'],The reproductive disorder populations will be recruited from the reproductive endocrine clinic at the Mass General Hospital. The control populations will be recruited from Boston and surrounding communities,PROBABILITY_SAMPLE,inclusion criteria     over the age of 18 for men   between the ages of 18 and 40 for women   for reproductive disorder population  current or previous diagnosis of idiopathic hypogonadotropic hypogonadism or hypothalamic amenorrhea  exclusion criteria     chronic disease  hypertension  high cholesterol  diabetes  asthma  etc    polycystic ovarian syndrome for women   prescription medication use  other than allergy meds  for control populations   irregular menstrual cycles for healthy female control population  cycle length longer than 35 days or shorter than 25 days  cycle length varies by more than 5 days  less than 9 periods per year,the reproductive disorder populations will be recruited from the reproductive endocrine clinic at the mass general hospital  the control populations will be recruited from boston and surrounding communities
+18,NCT00130117,"Inclusion criteria for HA subjects
+
+* Hypothalamic amenorrhea of at least 6 months duration with low or normal LH and FSH, e.g. due to strenuous exercise (running \>20 miles per week or equivalent) or low weight
+* Can be secondary HA OR primary HA with some pubertal development and normal screening labs
+* Age 18-35 years old
+* Body weight within +/- 15% of ideal body weight and stable for 6 months (no change \> 5 lbs)
+* Baseline leptin \<5 ng/mL (except for the Cognitive Sub-Study Baseline visit where baseline leptin will be greater than 5ng/mL)
+
+Inclusion criteria for eumenorrheic controls for Reward Sub-study
+
+* Normal menstrual cycles (between 25 and 35 days)
+* Age 18-35
+* Body weight within +/- 15% of ideal body weight and stable 6 months (no change \> 5 lbs)
+* Baseline leptin \>5 ng/mL
+
+Exclusion criteria:
+
+* We will exclude subjects with:
+* Significant medical history that may affect the concentrations of the hormones to studied or ability to participate in the study
+* renal or hepatic disease (creatinine \> 1.4, AST/ALT \> 2x upper limit of normal)
+* diagnosed diabetes mellitus
+* myocardial ischemia
+* malignancy (other than basal cell carcinoma of the skin or in situ carcinoma of the cervix)
+* malabsorption
+* alcoholism, drug abuse, or smoking
+* active eating disorder
+* depression or other psychiatric disease
+* anemia (Hb10 gm/dL on 2 occasions)
+* Conditions that are contraindicated for oral contraceptive use:
+* Thrombophlebitis or thromboembolic disorders
+* A past history of deep vein thrombophlebitis or thromboembolic disorders
+* Cerebral vascular or coronary artery disease
+* Known or suspected carcinoma of the breast
+* Carcinoma of the endometrium or other known or suspected estrogen-dependent neoplasia
+* Undiagnosed abnormal genital bleeding
+* Hepatic adenomas or carcinomas
+* Cholestatic jaundice of pregnancy or jaundice with prior OCP use
+* Other endocrine causes of amenorrhea, e.g.
+* hyperprolactinemia
+* hypothyroidism or hyperthyroidism
+* Cushing's syndrome
+* congenital adrenal hyperplasia (elevated 17 OH progesterone)
+* polycystic ovarian syndrome (elevated androgens or LH/FSH ratio \>1.5)
+* primary ovarian failure (elevated FSH)
+* On medications known to affect the hormones to be measured such as
+* glucocorticoids
+* anti seizure medications
+* thyroid hormones
+* estrogen (must be off at least 3 months prior to participating in the study)
+* A known history of anaphylaxis or anaphylactoid-like reactions, or a known hypersensitivity to E. Coli derived proteins
+* Breast feeding, pregnant, or wanting to become pregnant during the next 6 months.
+* We will screen for these conditions through a detailed history and systems review, physical examination, laboratory evaluation (as described above in Screening Methods), and EKG.
+* In the Reward Sub-study subjects will be asked to fill out a standard BIDMC MRI safety screening form prior to entering the magnet.",True,FEMALE,,18 Years,35 Years,['ADULT'],,,inclusion criteria for ha subjects    hypothalamic amenorrhea of at least 6 months duration with low or normal lh and fsh  e g  due to strenuous exercise  running   20 miles per week or equivalent  or low weight   can be secondary ha or primary ha with some pubertal development and normal screening labs   age 18 35 years old   body weight within     15  of ideal body weight and stable for 6 months  no change    5 lbs    baseline leptin   5 ng ml  except for the cognitive sub study baseline visit where baseline leptin will be greater than 5ng ml   inclusion criteria for eumenorrheic controls for reward sub study    normal menstrual cycles  between 25 and 35 days    age 18 35   body weight within     15  of ideal body weight and stable 6 months  no change    5 lbs    baseline leptin   5 ng ml  exclusion criteria     we will exclude subjects with    significant medical history that may affect the concentrations of the hormones to studied or ability to participate in the study   renal or hepatic disease  creatinine    1 4  ast alt    2x upper limit of normal    diagnosed diabetes mellitus   myocardial ischemia   malignancy  other than basal cell carcinoma of the skin or in situ carcinoma of the cervix    malabsorption   alcoholism  drug abuse  or smoking   active eating disorder   depression or other psychiatric disease   anemia  hb10 gm dl on 2 occasions    conditions that are contraindicated for oral contraceptive use    thrombophlebitis or thromboembolic disorders   a past history of deep vein thrombophlebitis or thromboembolic disorders   cerebral vascular or coronary artery disease   known or suspected carcinoma of the breast   carcinoma of the endometrium or other known or suspected estrogen dependent neoplasia   undiagnosed abnormal genital bleeding   hepatic adenomas or carcinomas   cholestatic jaundice of pregnancy or jaundice with prior ocp use   other endocrine causes of amenorrhea  e g    hyperprolactinemia   hypothyroidism or hyperthyroidism   cushing s syndrome   congenital adrenal hyperplasia  elevated 17 oh progesterone    polycystic ovarian syndrome  elevated androgens or lh fsh ratio   1 5    primary ovarian failure  elevated fsh    on medications known to affect the hormones to be measured such as   glucocorticoids   anti seizure medications   thyroid hormones   estrogen  must be off at least 3 months prior to participating in the study    a known history of anaphylaxis or anaphylactoid like reactions  or a known hypersensitivity to e  coli derived proteins   breast feeding  pregnant  or wanting to become pregnant during the next 6 months    we will screen for these conditions through a detailed history and systems review  physical examination  laboratory evaluation  as described above in screening methods   and ekg    in the reward sub study subjects will be asked to fill out a standard bidmc mri safety screening form prior to entering the magnet,
+19,NCT00889512,"Inclusion Criteria:
+
+1. 30 women under 38 years old at time of signing Informed Consent Form.
+2. Evidence of hypothalamic amenorrhea (irregular menses and FSH and LH \<5 mIU/mL), uncorrected hyperprolactinemia (prolactin levels 10% above the upper limit of normal) or iatrogenic hypothalamic hypogonadism secondary to GnRHa suppression.
+3. In good general health off of current medications which may confound response to study medications except GnRHa (Lupron Depot).
+4. Desire to seek pregnancy actively during the study period.
+5. A normal uterine cavity must have been confirmed by either hysteroscopy or hydrosonogram within two years of entering the study.
+6. A semen analysis on the male partner deemed adequate for IVF by the attending physician within the past year or donor sperm available for insemination.
+7. Only one treatment cycle per patient will be studied.
+
+Exclusion Criteria:
+
+1. uncorrected thyroid disease.
+2. heart disease (New York Heart Association Class II or higher).
+3. a history of, or suspected cervical, endometrial, or breast cancer. A normal Pap smear result within the last 24 months will be required.
+4. enrolled into other studies that require medications, limit sex, or otherwise prevent compliance with the protocol at the same time.
+5. to take other medications known to affect reproduction.",False,FEMALE,,18 Years,38 Years,['ADULT'],,,inclusion criteria   1  30 women under 38 years old at time of signing informed consent form  2  evidence of hypothalamic amenorrhea  irregular menses and fsh and lh   5 miu ml   uncorrected hyperprolactinemia  prolactin levels 10  above the upper limit of normal  or iatrogenic hypothalamic hypogonadism secondary to gnrha suppression  3  in good general health off of current medications which may confound response to study medications except gnrha  lupron depot   4  desire to seek pregnancy actively during the study period  5  a normal uterine cavity must have been confirmed by either hysteroscopy or hydrosonogram within two years of entering the study  6  a semen analysis on the male partner deemed adequate for ivf by the attending physician within the past year or donor sperm available for insemination  7  only one treatment cycle per patient will be studied   exclusion criteria   1  uncorrected thyroid disease  2  heart disease  new york heart association class ii or higher   3  a history of  or suspected cervical  endometrial  or breast cancer  a normal pap smear result within the last 24 months will be required  4  enrolled into other studies that require medications  limit sex  or otherwise prevent compliance with the protocol at the same time  5  to take other medications known to affect reproduction,
+20,NCT00383656,"Inclusion Criteria:
+
+* Women and minors with GnRH deficiency or idiopathic hypogonadotropic hypogonadism (IHH) will have a history of primary amenorrhea, no evidence of abnormalities in other hormonal axes, a deficient pattern of luteinizing hormone (LH) and/or free alpha subunit (FAS) secretion on baseline sampling and a normal cranial CT or MRI.
+* Women and minors with hypothalamic amenorrhea will have a history of secondary amenorrhea of at least six months duration with low or normal gonadotropins or a history of primary amenorrhea in the presence of pulsatile patterns of LH or FAS on baseline frequent sampling studies, BMI \> 18 kg/m2 and normal testosterone and prolactin levels.
+* Women and minors with acquired hypogonadotropic hypogonadism will have a history of hypothalamic or pituitary tumor treated with surgery alone or in combination with radiotherapy or a history of hypothalamic irradiation as adjunctive therapy for leukemia or craniofacial neoplasms. There must be a minimum of 2 years since irradiation and no gonadal radiation. For the previous two months, patients will be euthyroid on thyroid replacement if needed, normoprolactinemic on dopamine agonists if needed, and receiving physiologic glucocorticoid replacement if needed.
+
+Subjects will be otherwise healthy women and female minors between the ages of 16 and 45 years who have not been on gonadal steroid preparations for at least 1 month. Subjects will have normal complete blood count (hemoglobin greater than or equal to 11.5gm/dl) and thyroid function tests and a negative pregnancy test.
+
+Exclusion Criteria:
+
+Mitral valve prolapse with ballooning of the mitral valve will be cause for exclusion of the patient from intravenous GnRH treatment.",False,FEMALE,,16 Years,45 Years,"['CHILD', 'ADULT']",,,inclusion criteria     women and minors with gnrh deficiency or idiopathic hypogonadotropic hypogonadism  ihh  will have a history of primary amenorrhea  no evidence of abnormalities in other hormonal axes  a deficient pattern of luteinizing hormone  lh  and or free alpha subunit  fas  secretion on baseline sampling and a normal cranial ct or mri    women and minors with hypothalamic amenorrhea will have a history of secondary amenorrhea of at least six months duration with low or normal gonadotropins or a history of primary amenorrhea in the presence of pulsatile patterns of lh or fas on baseline frequent sampling studies  bmi    18 kg m2 and normal testosterone and prolactin levels    women and minors with acquired hypogonadotropic hypogonadism will have a history of hypothalamic or pituitary tumor treated with surgery alone or in combination with radiotherapy or a history of hypothalamic irradiation as adjunctive therapy for leukemia or craniofacial neoplasms  there must be a minimum of 2 years since irradiation and no gonadal radiation  for the previous two months  patients will be euthyroid on thyroid replacement if needed  normoprolactinemic on dopamine agonists if needed  and receiving physiologic glucocorticoid replacement if needed   subjects will be otherwise healthy women and female minors between the ages of 16 and 45 years who have not been on gonadal steroid preparations for at least 1 month  subjects will have normal complete blood count  hemoglobin greater than or equal to 11 5gm dl  and thyroid function tests and a negative pregnancy test   exclusion criteria   mitral valve prolapse with ballooning of the mitral valve will be cause for exclusion of the patient from intravenous gnrh treatment,
+21,NCT03841981,"Inclusion Criteria
+
+Group I
+
+* Body mass index between 18.5 and 25.0 kg/m2.
+* Group 1 ovulatory dysfunction \[World Health Organization (WHO) classification\].
+* Normal/low gonadotrophin levels \[follicle-stimulating hormone (FSH) and luteinizing (LH) \< 10 IU/l\] and low estradiol (\< 50 pg/ml).
+* Moderate-vigorous intensity physical activity (\> 5 hours per week) plus low energy availability (\< 30 kcal/per kg of lean mass).
+* Exclusion of secondary etiologies
+* Informed consent signed.
+
+Group II:
+
+* Polycystic ovary syndrome phenotype I, II and III \[National Institute of Health (NIH)-2012\] with hyperandrogenemia (http://prevention.nih.gov/workshops/2012/resources.aspx).
+* Body mass index between 18.5 and 40.0 kg/m2.
+* Informed consent signed.
+
+Group III:
+
+* Polycystic ovary syndrome phenotype IV (NIH-2012) (http://prevention.nih.gov/workshops/2012/resources.aspx).
+* Body mass index between 18.5 and 40.0 kg/m2.
+* Informed consent signed.
+
+Group IV:
+
+* Body mass index between 18.5 and 25.0 kg/m2.
+* Regular menses.
+* Normal gonadotropins and estradiol levels at follicular phase.
+* Moderate-vigorous intensity physical activity (\> 5 hours per week) with normal energy availability (\> 30 kcal/per kg of lean mass).
+* Informed consent signed.
+
+Group V:
+
+* No signs or symptoms of hyperandrogenism.
+* No exercise or mild intensity physical activity.
+* Regular menses.
+* Body mass index between 18.5 and 40.0 kg/m2.
+* Informed consent signed.
+
+Exclusion Criteria (Groups I-V)
+
+* Oral drugs interfering with ovulation (glucocorticoids, antipsychotics, antidepressants, contraceptives, sex steroids and/or opioids) for the previous 6 months to study inclusion.
+* Current pregnancy or lactation, or during the previous 6 months to study inclusion.
+* Asherman's syndrome or outflow tract disorders.
+* Current smoking or alcohol intake \> 40 g per day.
+* Previous diagnosis of glucose intolerance, hypertension, dyslipidemia, known heart or lung diseases, kidney disease, liver disease, celiac disease or any other malabsorptive condition, chronic inflammatory disease or malignancy.",True,FEMALE,,18 Years,40 Years,['ADULT'],"Patients with exercise-associated functional amenorrhea and polycystic ovary syndrome will be consecutively recruited from our Reproductive Endocrinolgy clinic. Those premenopausal adult women are referred to clinic because of symptoms of functional androgen excess such as hirsutism or menstrual dysfunction.
+
+The control group (Groups IV and V) will include healthy female volunteers recruited - contemporarily with the recruitment of patients - from the hospital's staff and overweight or obese women seeking medical attention in our department.",NON_PROBABILITY_SAMPLE,inclusion criteria  group i    body mass index between 18 5 and 25 0 kg m2    group 1 ovulatory dysfunction   world health organization  who  classification      normal low gonadotrophin levels   follicle stimulating hormone  fsh  and luteinizing  lh     10 iu l   and low estradiol     50 pg ml     moderate vigorous intensity physical activity     5 hours per week  plus low energy availability     30 kcal per kg of lean mass     exclusion of secondary etiologies   informed consent signed   group ii     polycystic ovary syndrome phenotype i  ii and iii   national institute of health  nih  2012   with hyperandrogenemia  http   prevention nih gov workshops 2012 resources aspx     body mass index between 18 5 and 40 0 kg m2    informed consent signed   group iii     polycystic ovary syndrome phenotype iv  nih 2012   http   prevention nih gov workshops 2012 resources aspx     body mass index between 18 5 and 40 0 kg m2    informed consent signed   group iv     body mass index between 18 5 and 25 0 kg m2    regular menses    normal gonadotropins and estradiol levels at follicular phase    moderate vigorous intensity physical activity     5 hours per week  with normal energy availability     30 kcal per kg of lean mass     informed consent signed   group v     no signs or symptoms of hyperandrogenism    no exercise or mild intensity physical activity    regular menses    body mass index between 18 5 and 40 0 kg m2    informed consent signed   exclusion criteria  groups i v     oral drugs interfering with ovulation  glucocorticoids  antipsychotics  antidepressants  contraceptives  sex steroids and or opioids  for the previous 6 months to study inclusion    current pregnancy or lactation  or during the previous 6 months to study inclusion    asherman s syndrome or outflow tract disorders    current smoking or alcohol intake    40 g per day    previous diagnosis of glucose intolerance  hypertension  dyslipidemia  known heart or lung diseases  kidney disease  liver disease  celiac disease or any other malabsorptive condition  chronic inflammatory disease or malignancy,patients with exercise associated functional amenorrhea and polycystic ovary syndrome will be consecutively recruited from our reproductive endocrinolgy clinic  those premenopausal adult women are referred to clinic because of symptoms of functional androgen excess such as hirsutism or menstrual dysfunction   the control group  groups iv and v  will include healthy female volunteers recruited   contemporarily with the recruitment of patients   from the hospital s staff and overweight or obese women seeking medical attention in our department
+22,NCT06280807,"* INCLUSION CRITERIA:
+
+In order to be eligible to participate in this study, an individual must meet all of the following criteria:
+
+1. Male or female, referring to sex assigned at birth (cis gender)
+2. Age \> 8 years and weight \>= 12 kg
+3. A diagnosis of hypogonadism, infertility or other reproductive dysfunction
+
+   Some specific diagnoses (as defined in standard guidelines) will include:
+   * Male or female hypogonadism
+
+     * Obesity/metabolic syndrome related to hypogonadism.
+     * Other reproductive dysfunction (e.g., secondary to endocrine dysfunction, thyroid disorders, Cushing syndrome, pharmacotherapy, etc.)
+     * Premature Ovarian Insufficiency
+     * Isolated hypogonadotropic hypogonadism
+   * Polycystic Ovarian Syndrome
+   * Delayed Puberty
+   * Precocious puberty
+   * Perimenopause and post-menopausal states
+   * Androgen Excess States (Nonclassic Congenital Adrenal Hyperplasia, Extreme hyperinsulism, Idiopathic etc.)
+
+   or
+
+   -Exhibiting signs of a diagnosis of hypogonadism, e.g., Bosma arrhinia microphthalmia syndrome (BAMS)
+4. Ability of participant, legal guardian, or Legally Authorized Representative (LAR) to understand and the willingness to sign a written informed consent document.
+
+EXCLUSION CRITERIA:
+
+An individual who meets any of the following criteria will be excluded from participation in this study:
+
+1. A diagnosis of a serious medical disorder such as malignancy or heart disease will be grounds for exclusion at the discretion of the PI or AI.
+2. Inability to follow up with the research study and/or perform study procedures, at the discretion of the PI or AI.
+3. Pregnant participants, less than 18 years of age, for their safety, since there is not a trained doctor on the study to give proper medical care to pregnant individuals less than 18 years of age.
+
+Individuals who do not meet the criteria for participation in this study (screen failure) because of an acute, reversible or transient medical reason may be rescreened upon reversal, improvement or stabilization of their clinical status. Participants who develop an acute, reversible or transient medical condition during the study may return upon reversal, improvement or stabilization of their clinical status.",False,ALL,,8 Years,99 Years,"['CHILD', 'ADULT', 'OLDER_ADULT']","Adult and pediatric (between the ages of 8 and 18), cisgender male and females, from the communities and surrounding areas of Durham, Chapel Hill and Raleigh in NC; and Bethesda, MD.",NON_PROBABILITY_SAMPLE,inclusion criteria   in order to be eligible to participate in this study  an individual must meet all of the following criteria   1  male or female  referring to sex assigned at birth  cis gender  2  age    8 years and weight     12 kg 3  a diagnosis of hypogonadism  infertility or other reproductive dysfunction     some specific diagnoses  as defined in standard guidelines  will include       male or female hypogonadism         obesity metabolic syndrome related to hypogonadism         other reproductive dysfunction  e g   secondary to endocrine dysfunction  thyroid disorders  cushing syndrome  pharmacotherapy  etc          premature ovarian insufficiency        isolated hypogonadotropic hypogonadism      polycystic ovarian syndrome      delayed puberty      precocious puberty      perimenopause and post menopausal states      androgen excess states  nonclassic congenital adrenal hyperplasia  extreme hyperinsulism  idiopathic etc       or      exhibiting signs of a diagnosis of hypogonadism  e g   bosma arrhinia microphthalmia syndrome  bams  4  ability of participant  legal guardian  or legally authorized representative  lar  to understand and the willingness to sign a written informed consent document   exclusion criteria   an individual who meets any of the following criteria will be excluded from participation in this study   1  a diagnosis of a serious medical disorder such as malignancy or heart disease will be grounds for exclusion at the discretion of the pi or ai  2  inability to follow up with the research study and or perform study procedures  at the discretion of the pi or ai  3  pregnant participants  less than 18 years of age  for their safety  since there is not a trained doctor on the study to give proper medical care to pregnant individuals less than 18 years of age   individuals who do not meet the criteria for participation in this study  screen failure  because of an acute  reversible or transient medical reason may be rescreened upon reversal  improvement or stabilization of their clinical status  participants who develop an acute  reversible or transient medical condition during the study may return upon reversal  improvement or stabilization of their clinical status,adult and pediatric  between the ages of 8 and 18   cisgender male and females  from the communities and surrounding areas of durham  chapel hill and raleigh in nc  and bethesda  md
+23,NCT01500447,"* INCLUSION CRITERIA:
+
+The essential inclusion criteria include:
+
+1. failure to go through a normal, age-appropriate, spontaneous puberty and low sex steroid levels in the setting of low/normal gonadotropins (due to substantial variability among patient presentations, this will be based on the clinical judgement of the Investigator), or
+2. abnormally early development of puberty, or
+3. normal puberty with subsequent development of low gonadotropin levels, or
+4. individuals with features indicating an increased risk of hypogonadotropic hypogonadism.
+5. Family members: both affected and unaffected family members are strongly encouraged to participate.
+
+EXCLUSION CRITERIA:
+
+Since hypogonadotropic hypogonadism is a rare condition, this protocol remains open to enrollment so that we may study all subjects that are both qualified and interested in participating.
+
+Because HH represents a spectrum, where associated clinical findings may provide phenotypic clues to the assessment of inheritability and underlying physiology, exclusion criteria are very limited:
+
+* Patients who have additional pituitary deficiencies, effectively ruling out isolated GnRH deficiency, whether these deficiencies are congenital or acquired (e.g. secondary to malignancy, infection, or irradiation).
+* Patients who are taking medications known to affect GnRH secretion, such as corticosteroids or continuous opiate administration (or were taking them at the time of diagnosis).",False,ALL,,6 Weeks,,"['CHILD', 'ADULT', 'OLDER_ADULT']","Primary Clinical, self-referred or physician-referred subjects",NON_PROBABILITY_SAMPLE,inclusion criteria   the essential inclusion criteria include   1  failure to go through a normal  age appropriate  spontaneous puberty and low sex steroid levels in the setting of low normal gonadotropins  due to substantial variability among patient presentations  this will be based on the clinical judgement of the investigator   or 2  abnormally early development of puberty  or 3  normal puberty with subsequent development of low gonadotropin levels  or 4  individuals with features indicating an increased risk of hypogonadotropic hypogonadism  5  family members  both affected and unaffected family members are strongly encouraged to participate   exclusion criteria   since hypogonadotropic hypogonadism is a rare condition  this protocol remains open to enrollment so that we may study all subjects that are both qualified and interested in participating   because hh represents a spectrum  where associated clinical findings may provide phenotypic clues to the assessment of inheritability and underlying physiology  exclusion criteria are very limited     patients who have additional pituitary deficiencies  effectively ruling out isolated gnrh deficiency  whether these deficiencies are congenital or acquired  e g  secondary to malignancy  infection  or irradiation     patients who are taking medications known to affect gnrh secretion  such as corticosteroids or continuous opiate administration  or were taking them at the time of diagnosis,primary clinical  self referred or physician referred subjects
+24,NCT05629377,"Inclusion Criteria:
+
+* Secondary amenorrhea of 3 or more consecutive months duration
+* Include the screening hormones (eg, estradiol (E2) \< 50 pg/ml, Follicle-Stimulating Hormone (FSH) \<10 mIU/ml, and Luteinizing Hormone (LH) \< 10mIU/ml and other HA-defining hormones); or clinical diagnosis of HA by medical providers.
+* Pre-menopause status.
+* Able to give informed consent.
+
+Exclusion Criteria:
+
+* A diagnosis for secondary amenorrhea including prolactinoma, Polycystic Ovary Syndrome (PCOS), premature ovarian insufficiency, pituitary surgery, infection or infarction
+* Pregnancy
+* Psychotropic/illicit drug use
+* Mental/neurological/major psychological disorders (other than depression and anxiety).
+* Parturition/lactating in the last 6-12 months.",False,FEMALE,,18 Years,40 Years,['ADULT'],Premenopausal women with hypothalamic amenorrhea at Mayo Clinic Florida.,NON_PROBABILITY_SAMPLE,inclusion criteria     secondary amenorrhea of 3 or more consecutive months duration   include the screening hormones  eg  estradiol  e2     50 pg ml  follicle stimulating hormone  fsh    10 miu ml  and luteinizing hormone  lh     10miu ml and other ha defining hormones   or clinical diagnosis of ha by medical providers    pre menopause status    able to give informed consent   exclusion criteria     a diagnosis for secondary amenorrhea including prolactinoma  polycystic ovary syndrome  pcos   premature ovarian insufficiency  pituitary surgery  infection or infarction   pregnancy   psychotropic illicit drug use   mental neurological major psychological disorders  other than depression and anxiety     parturition lactating in the last 6 12 months,premenopausal women with hypothalamic amenorrhea at mayo clinic florida
+25,NCT05921877,"Inclusion Criteria:
+
+* Women aged 15-34 years.
+* Diagnosis of functional hypothalamic amenorrhea (for at least 2 years).
+* Signature of informed consent.
+
+Exclusion Criteria:
+
+* Polycystic ovary syndrome
+* Taking oral contraceptives in the previous three months
+* Other clinically relevant endocrinopathies
+* positive MAP-test (Medroxyprogesterone acetate test)
+* Estroprogestin replacement therapy
+* Autoimmune disorders
+* Failure to sign informed consent",,FEMALE,,15 Years,34 Years,"['CHILD', 'ADULT']","Patients with functional hypotalamic amenorrhea (FHA) will be recruited from the DH of Dysfunctional Gynecology (UOSD Diagnostic and Medical Therapy of Menstrual Dysfunction and Marital Infertility) Department of Women's, Children's and Public Health Sciences of the A. Gemelli IRCCS University Polyclinic Foundation. Possible enrollment in the study protocol will not affect or alter in any way the patient's clinical course or adherence to good clinical practice guidelines. A group of healthy controls will also be enrolled, respecting the same exclusion criteria, from among the patients afferent to the Day Hospital of Dysfunctional Gynecology (healthy control is defined as: patient not suffering from functional hypothalamic amenorrhea, not from polycystic ovary syndrome and with 10-12 menstrual cycles per year).",NON_PROBABILITY_SAMPLE,inclusion criteria     women aged 15 34 years    diagnosis of functional hypothalamic amenorrhea  for at least 2 years     signature of informed consent   exclusion criteria     polycystic ovary syndrome   taking oral contraceptives in the previous three months   other clinically relevant endocrinopathies   positive map test  medroxyprogesterone acetate test    estroprogestin replacement therapy   autoimmune disorders   failure to sign informed consent,patients with functional hypotalamic amenorrhea  fha  will be recruited from the dh of dysfunctional gynecology  uosd diagnostic and medical therapy of menstrual dysfunction and marital infertility  department of women s  children s and public health sciences of the a  gemelli irccs university polyclinic foundation  possible enrollment in the study protocol will not affect or alter in any way the patient s clinical course or adherence to good clinical practice guidelines  a group of healthy controls will also be enrolled  respecting the same exclusion criteria  from among the patients afferent to the day hospital of dysfunctional gynecology  healthy control is defined as  patient not suffering from functional hypothalamic amenorrhea  not from polycystic ovary syndrome and with 10 12 menstrual cycles per year
+26,NCT01601171,"Inclusion Criteria:(any of the following conditions)
+
+* hypogonadotropic hypogonadism
+* Kallmann syndrome
+* adult-onset hypogonadotropic hypogonadism
+* hypothalamic amenorrhea
+* polycystic ovarian syndrome
+* primary gonadal failure
+* precocious puberty
+* cleft lip/palate
+* family members of the above groups
+
+Exclusion Criteria:
+
+* acute illness/hospitalization
+* pituitary tumors
+* iron overload (hemochromatosis)
+* infiltrative diseases (sarcoidosis)
+* chronic alcohol abuse
+* illicit drug use
+* anabolic steroid abuse",True,ALL,,,,"['CHILD', 'ADULT', 'OLDER_ADULT']","Study participants will be a convenience sample of those patients with reproductive disorders (and their family members), with or without cleft lip/palate, who are interested in participating in this genetic study.",NON_PROBABILITY_SAMPLE,inclusion criteria  any of the following conditions     hypogonadotropic hypogonadism   kallmann syndrome   adult onset hypogonadotropic hypogonadism   hypothalamic amenorrhea   polycystic ovarian syndrome   primary gonadal failure   precocious puberty   cleft lip palate   family members of the above groups  exclusion criteria     acute illness hospitalization   pituitary tumors   iron overload  hemochromatosis    infiltrative diseases  sarcoidosis    chronic alcohol abuse   illicit drug use   anabolic steroid abuse,study participants will be a convenience sample of those patients with reproductive disorders  and their family members   with or without cleft lip palate  who are interested in participating in this genetic study
