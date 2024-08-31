@@ -81,7 +81,21 @@ def main(file_location_path: str, lemma=False):
                                                                           "maximumAge", "stdAges"]
     columns_with_mv = df[columns_to_keep].columns[df[columns_to_keep].isnull().any()]
     # check the number of missing values of each column
-    print('Columns with missing values and count: %s', df[columns_with_mv].isnull().sum().sort_values())
+    print('Columns with missing values and count:', df[columns_with_mv].isnull().sum().sort_values())
+
+    # Columns
+    # with missing values and count:
+    # healthyVolunteers
+    # 1
+    # minimumAge
+    # 2
+    # maximumAge
+    # 4
+    # studyPopulation_cleaned
+    # 15
+    # genderBased
+    # 27
+    # dtype: int64
 
     #  remove duplicated values
     # df = df.drop_duplicates(subset=columns_to_keep
@@ -96,10 +110,12 @@ def main(file_location_path: str, lemma=False):
         try:
             df.drop(['{}_lowercase'.format(col)], axis=1, inplace=True)
             df.drop(['{}_strip'.format(col)], axis=1, inplace=True)
+            if col not in columns_to_keep:
+                df.drop([col], axis=1, inplace=True)
         except:
             continue
 
-    df.to_csv("{}-cleaned.csv".format(file_location_path))
+    df.to_csv("{}-cleaned.csv".format(file_location_path.strip('.csv')), index=False)
 
 
 if __name__ == "__main__":
