@@ -1,5 +1,13 @@
-nctId,eligibilityCriteria,healthyVolunteers,sex,genderBased,minimumAge,maximumAge,stdAges,studyPopulation,samplingMethod
-NCT06533865,"Inclusion Criteria:
+nctId,briefTitle,eligibilityCriteria,healthyVolunteers,sex,genderBased,minimumAge,maximumAge,stdAges,studyPopulation,samplingMethod
+NCT05410886,Screening Women for Functional Hypothalamic Amenorrhea (FHA),"Inclusion Criteria:
+
+* Any woman 18-58 years of age
+* Secondary amenorrhea defined by either menstrual cycle interval persistently exceeding 45 days and/or those with period loss for 3 months or more
+
+Exclusion Criteria:
+
+* Women who never had periods (primary amenorrhea).",False,FEMALE,,18 Years,58 Years,['ADULT'],All women referred by their GP with amenorrhea to the Endocrinology or Reproductive Medicine clinics at Imperial College Healthcare NHS Trust hospitals and participating NHS organisations.,NON_PROBABILITY_SAMPLE
+NCT06533865,Romosozumab as an Adjunct to Physiologic Estrogen Replacement in Functional Hypothalamic Amenorrhea,"Inclusion Criteria:
 
 For functional hypothalamic amenorrhea and controls:
 
@@ -39,15 +47,15 @@ Additional exclusion criteria for functional hypothalamic amenorrhea
 Additional exclusion criteria for normal-weight healthy controls
 
 • BMD Z-score \<-2.5 (who we will refer for evaluation)",True,FEMALE,,14 Years,25 Years,"['CHILD', 'ADULT']",,
-NCT05410886,"Inclusion Criteria:
+NCT00453219,"FHA: Characterization of Metabolic Status, Brain Circuitry, and Stress-Reactivity","Inclusion Criteria:
 
-* Any woman 18-58 years of age
-* Secondary amenorrhea defined by either menstrual cycle interval persistently exceeding 45 days and/or those with period loss for 3 months or more
+* Inclusion criteria for participation are a gynecological age (age since menarche) \> 5 and \< 25 years, and chronological age \> 18 years, within 90-110% of ideal body weight as determined by the 1983 Metropolitan height and weight table for women, and exercise \< 10 h/wk and run \< 10 mi/wk, day-awake/night-asleep schedule.
+* Women in the FHA and PCOS groups have to fulfill the diagnostic criteria of FHA or PCOS and to have all other causes of amenorrhea and anovulation excluded.
 
 Exclusion Criteria:
 
-* Women who never had periods (primary amenorrhea).",False,FEMALE,,18 Years,58 Years,['ADULT'],All women referred by their GP with amenorrhea to the Endocrinology or Reproductive Medicine clinics at Imperial College Healthcare NHS Trust hospitals and participating NHS organisations.,NON_PROBABILITY_SAMPLE
-NCT02697136,"Main Inclusion Criteria:
+* Exclusion criteria are smoking, medications, including psychotropic or illicit drugs, medical, neurological, or ophthalmologic disease except acuity problems, a weight loss or gain of \> 10 lb within a year preceding or since the onset of amenorrhea, a major Axis I disorder other than depression, parturition in the last 12 months and/or lactating in the last 6 months.",True,FEMALE,,18 Years,35 Years,['ADULT'],Women ages 18-35,NON_PROBABILITY_SAMPLE
+NCT02697136,CER-001 Therapy as a Novel Approach to Treat Genetic Orphan Diseases,"Main Inclusion Criteria:
 
 * Male and female patients, aged 18 and above.
 * ApoA-I \< 70 mg/dL
@@ -65,15 +73,7 @@ Main Exclusion Criteria:
 * Uncontrolled diabetes (HbA1c \>10%)
 * Congestive heart failure (NYHA class II or higher)
 * Contraindication for MRI scanning (e.g., implanted metal objects, claustrophobia)",False,ALL,,18 Years,,"['ADULT', 'OLDER_ADULT']",,
-NCT00453219,"Inclusion Criteria:
-
-* Inclusion criteria for participation are a gynecological age (age since menarche) \> 5 and \< 25 years, and chronological age \> 18 years, within 90-110% of ideal body weight as determined by the 1983 Metropolitan height and weight table for women, and exercise \< 10 h/wk and run \< 10 mi/wk, day-awake/night-asleep schedule.
-* Women in the FHA and PCOS groups have to fulfill the diagnostic criteria of FHA or PCOS and to have all other causes of amenorrhea and anovulation excluded.
-
-Exclusion Criteria:
-
-* Exclusion criteria are smoking, medications, including psychotropic or illicit drugs, medical, neurological, or ophthalmologic disease except acuity problems, a weight loss or gain of \> 10 lb within a year preceding or since the onset of amenorrhea, a major Axis I disorder other than depression, parturition in the last 12 months and/or lactating in the last 6 months.",True,FEMALE,,18 Years,35 Years,['ADULT'],Women ages 18-35,NON_PROBABILITY_SAMPLE
-NCT00870350,"Inclusion Criteria:
+NCT00870350,"An Immunogenicity and Safety Study of Tetanus, Diphtheria and Acellular Pertussis Vaccine Booster","Inclusion Criteria:
 
 * healthy subject
 * 14-15 years old
@@ -98,7 +98,30 @@ Exclusion Criteria:
 * family history of congenital or hereditary immunodeficiency
 * any sever thrombocytopenia or any other coagulation disorder that would contraindicate intramuscular injection
 * any medical condition, which in the opinion of the investigator, might interfere with the evaluation of the study objectives.",True,ALL,,14 Years,15 Years,['CHILD'],,
-NCT00456274,"Inclusion Criteria:
+NCT06471582,Timing of Energy Availability on Menstrual Cycle Function,"Inclusion Criteria:
+
+* participates in structured running or cycling exercise for at least 30 minutes on 3 or more days per week
+* accustomed to exercising for 90 minutes or more
+* has regular periods every 21-35 days
+* have not taken hormonal contraceptives for at least the past 6 months
+* is not currently or trying to become pregnant or breastfeeding, and has not been pregnant or breastfeeding in the past 12 months
+* does not currently have a diagnosis of a major menstrual cycle disorder (i.e., amenorrhea, polycystic ovary syndrome \[PCOS\], endometriosis, ovarian cancer, ovarian insufficiency, uterine or endometrial cancer)
+* does not currently have a metabolic disease (i.e., hypothyroidism, hyperthyroidism, Cushing disease, Addison's disease, diabetes, congenital adrenal hyperplasia)
+* does not currently have a major cardiovascular or respiratory disease
+
+Exclusion Criteria:
+
+* miss more than 7 consecutive days of aerobic activity (i.e., running, cycling, cross training)
+* demonstrate clinical low energy availability as defined as energy availability \<30 kcal/kg fat free mass
+* report menstrual cycle lengths \<21 or \>35 days in the first 2 months of at-home monitoring
+* do not demonstrate an anticipated rise in luteinizing hormone and progesterone in the first 2 months of at-home monitoring
+* begin taking a hormonal contraceptive
+* become pregnant
+* are diagnosed with a menstrual cycle disorder (i.e., amenorrhea, polycystic ovary syndrome \[PCOS\], endometriosis, ovarian cancer, ovarian insufficiency, uterine, or endometrial cancer)
+* are diagnosed with a metabolic disease (i.e., hypothyroidism, hyperthyroidism, Cushing disease, Addison's disease, diabetes)
+* are diagnosed with a major cardiovascular or respiratory disease
+* are unable to follow instructions for any of the procedures",True,FEMALE,,18 Years,40 Years,['ADULT'],,
+NCT00456274,Baselines in Reproductive Disorders,"Inclusion Criteria:
 
 * Healthy women between the ages of 16-45 years
 * Negative pregnancy test
@@ -115,7 +138,29 @@ Exclusion Criteria:
 * Positive pregnancy test
 * Abnormal thyroid function
 * Abnormal MRI (IHH)",False,FEMALE,,16 Years,45 Years,"['CHILD', 'ADULT']",,
-NCT01185782,"Inclusion Criteria:
+NCT05633966,Kisspeptin Administration Subcutaneously to Patients With Reproductive Disorders,"Inclusion Criteria:
+
+* Acquired hypogonadotropic hypogonadism (hypothalamic amenorrhea, aka functional hypothalamic amenorrhea)
+
+  • Confirmed diagnosis by medical provider supported by low sex steroids in the setting of low or inappropriately normal gonadotropins\]
+* Normal blood pressure (systolic BP \< 140 mm Hg, diastolic \< 90 mm Hg)
+* Laboratory Studies:
+
+  * Hemoglobin no less than 0.5 g/dL below the lower limit of the reference range for normal women
+  * Negative serum hCG pregnancy test at screening (additional urine pregnancy test will be conducted prior to drug administration)
+* Not using hormonal replacement or willing to complete an appropriate washout for that particular medication and method of administration
+* No current or recent use of a medication that, in the opinion of a study investigator, can modulate the reproductive axis or willing to complete an appropriate washout for that particular medication and method of administration
+
+Exclusion Criteria:
+
+* Any condition (medical, mental, or behavioral) that, in the opinion of a study investigator, would likely interfere with participation in/completion of the protocol
+* Excessive alcohol consumption (\>10 drinks/week) and/or active use of illicit drugs
+
+  • Any active use of marijuana will be evaluated by a study medical professional to determine if it may impact study participation. Individuals who regularly use marijuana may be asked to washout as referenced in the medication washout section below
+* Pregnant or trying to become pregnant
+* Breast feeding
+* History of bilateral oophorectomy (ovaries were removed)",False,FEMALE,,18 Years,45 Years,['ADULT'],,
+NCT01185782,SJ-0021 (Gonalef®) Versus Purified Pituitary Gonadotropin (Fertinorm-P®) for Ovulation Induction in Japanese Infertile Women,"Inclusion Criteria:
 
 * Women aged 20 to 39 years (inclusive) who hope to bear children
 * Subjects who failed to achieve ovulation or pregnancy despite 2 cycles or more of anti-estrogen therapies (clomiphene citrate, cyclofenil, etc.)
@@ -142,62 +187,7 @@ Exclusion Criteria:
 * Subjects who had participated in another clinical study within 6 months prior to start of the IMP administration
 * Subjects who had been administered SJ-0021 in the past
 * Subjects whose participation in this clinical trial was otherwise deemed inappropriate by the investigator or sub-investigator",False,FEMALE,,20 Years,39 Years,['ADULT'],,
-NCT06471582,"Inclusion Criteria:
-
-* participates in structured running or cycling exercise for at least 30 minutes on 3 or more days per week
-* accustomed to exercising for 90 minutes or more
-* has regular periods every 21-35 days
-* have not taken hormonal contraceptives for at least the past 6 months
-* is not currently or trying to become pregnant or breastfeeding, and has not been pregnant or breastfeeding in the past 12 months
-* does not currently have a diagnosis of a major menstrual cycle disorder (i.e., amenorrhea, polycystic ovary syndrome \[PCOS\], endometriosis, ovarian cancer, ovarian insufficiency, uterine or endometrial cancer)
-* does not currently have a metabolic disease (i.e., hypothyroidism, hyperthyroidism, Cushing disease, Addison's disease, diabetes, congenital adrenal hyperplasia)
-* does not currently have a major cardiovascular or respiratory disease
-
-Exclusion Criteria:
-
-* miss more than 7 consecutive days of aerobic activity (i.e., running, cycling, cross training)
-* demonstrate clinical low energy availability as defined as energy availability \<30 kcal/kg fat free mass
-* report menstrual cycle lengths \<21 or \>35 days in the first 2 months of at-home monitoring
-* do not demonstrate an anticipated rise in luteinizing hormone and progesterone in the first 2 months of at-home monitoring
-* begin taking a hormonal contraceptive
-* become pregnant
-* are diagnosed with a menstrual cycle disorder (i.e., amenorrhea, polycystic ovary syndrome \[PCOS\], endometriosis, ovarian cancer, ovarian insufficiency, uterine, or endometrial cancer)
-* are diagnosed with a metabolic disease (i.e., hypothyroidism, hyperthyroidism, Cushing disease, Addison's disease, diabetes)
-* are diagnosed with a major cardiovascular or respiratory disease
-* are unable to follow instructions for any of the procedures",True,FEMALE,,18 Years,40 Years,['ADULT'],,
-NCT05633966,"Inclusion Criteria:
-
-* Acquired hypogonadotropic hypogonadism (hypothalamic amenorrhea, aka functional hypothalamic amenorrhea)
-
-  • Confirmed diagnosis by medical provider supported by low sex steroids in the setting of low or inappropriately normal gonadotropins\]
-* Normal blood pressure (systolic BP \< 140 mm Hg, diastolic \< 90 mm Hg)
-* Laboratory Studies:
-
-  * Hemoglobin no less than 0.5 g/dL below the lower limit of the reference range for normal women
-  * Negative serum hCG pregnancy test at screening (additional urine pregnancy test will be conducted prior to drug administration)
-* Not using hormonal replacement or willing to complete an appropriate washout for that particular medication and method of administration
-* No current or recent use of a medication that, in the opinion of a study investigator, can modulate the reproductive axis or willing to complete an appropriate washout for that particular medication and method of administration
-
-Exclusion Criteria:
-
-* Any condition (medical, mental, or behavioral) that, in the opinion of a study investigator, would likely interfere with participation in/completion of the protocol
-* Excessive alcohol consumption (\>10 drinks/week) and/or active use of illicit drugs
-
-  • Any active use of marijuana will be evaluated by a study medical professional to determine if it may impact study participation. Individuals who regularly use marijuana may be asked to washout as referenced in the medication washout section below
-* Pregnant or trying to become pregnant
-* Breast feeding
-* History of bilateral oophorectomy (ovaries were removed)",False,FEMALE,,18 Years,45 Years,['ADULT'],,
-NCT01674426,"Inclusion Criteria:
-
-* women with functional hypothalamic amenorrhea
-* day awake / night asleep schedule
-
-Exclusion Criteria:
-
-* eating disorders, depression, excessive exercise or any other cause of amenorrhea and anovulation other than functional hypothalamic amenorrhea
-* weight loss greater than 10 pounds when amenorrhea developed
-* running more than 10 miles per week or exercising more than 10 hours per week",False,FEMALE,,18 Years,35 Years,['ADULT'],,
-NCT03018366,"Inclusion Criteria:
+NCT03018366,"Atherosclerosis, Immune Mediated Inflammation and Hypoestrogenemia in Young Women","Inclusion Criteria:
 
 For premenopausal Hypo E and normal control women, inclusions include:
 
@@ -238,7 +228,17 @@ For recently menopausal women exclusions also include:
 * Previous or current use of hormone therapy, estrogen or progestin
 * Surgical or chemotherapy induced menopause
 * Premature ovarian failure",True,FEMALE,,18 Years,60 Years,['ADULT'],,
-NCT02984696,"Inclusion Criteria:
+NCT01674426,Pathogenesis of Functional Hypothalamic Amenorrhea,"Inclusion Criteria:
+
+* women with functional hypothalamic amenorrhea
+* day awake / night asleep schedule
+
+Exclusion Criteria:
+
+* eating disorders, depression, excessive exercise or any other cause of amenorrhea and anovulation other than functional hypothalamic amenorrhea
+* weight loss greater than 10 pounds when amenorrhea developed
+* running more than 10 miles per week or exercising more than 10 hours per week",False,FEMALE,,18 Years,35 Years,['ADULT'],,
+NCT02984696,Total Antioxidant Capacity Before and After HRT in Hypotalamic Amenorrhea,"Inclusion Criteria:
 
 * Hypotalamic Amenorrhea
 
@@ -249,7 +249,7 @@ Exclusion Criteria:
 * significant liver or renal impairment
 * other hormonal dysfunction (hypothalamic, pituitary, PCOS, thiroidal or adrenal)
 * neoplasms",False,FEMALE,,18 Years,35 Years,['ADULT'],,
-NCT02871986,"Inclusion Criteria:
+NCT02871986,Pubertal Induction in Individuals With Hypogonadism,"Inclusion Criteria:
 
 1. Have a diagnosis of hypogonadism (Turner's syndrome, hypogonadotrophic hypogonadism, primary ovarian insufficiency, hypopituitarism, hypothalamic amenorrhoea, transgender)
 2. ≥ 10 years of age
@@ -261,26 +261,67 @@ Exclusion Criteria:
 1. Previous oncology treatment
 2. Primary amenorrhoea secondary to chronic medical comorbidity
 3. PCOS diagnosis",False,ALL,,10 Years,30 Years,"['CHILD', 'ADULT']",Individuals with hypogonadism requiring pubertal induction,PROBABILITY_SAMPLE
-NCT05448924,"Inclusion Criteria:
+NCT01165619,"Detailed Clinical, Biochemical and Genetic Characterization in Gonadotropin-releasing Hormone (GnRH) Deficiency Disorders","Inclusion Criteria:
 
-* A single female participant with amenorrhea
-
-Exclusion Criteria:
-
-* The study only included the above subject",False,FEMALE,,,,"['CHILD', 'ADULT', 'OLDER_ADULT']",This 14-year old female came to the gynaecology clinic with a chief complaint of amenorrhea,NON_PROBABILITY_SAMPLE
-NCT00556036,"Inclusion Criteria:
-
-* Amenorrhea for at least three months (unless participating as healthy control)
-* Normal TSH or free thyroxine (free T4).
+* Over the age of 18 for men
+* Between the ages of 18 and 40 for women
+* For reproductive disorder population: Current or previous diagnosis of Idiopathic Hypogonadotropic Hypogonadism or Hypothalamic Amenorrhea
 
 Exclusion Criteria:
 
-* A condition known to affect bone metabolism, including Cushing's syndrome or renal failure, with the exception of bone fracture.
-* Any medication known to affect bone metabolism within 3 months of the study, including estrogen and progestins. Patients receiving depot medroxyprogesterone (Depo-Provera) will be excluded from participating for 6 months after their last injection.
-* Pregnant and/or breastfeeding.
-* Diabetes mellitus.
-* Active substance abuse, including alcohol.",True,FEMALE,,18 Years,45 Years,['ADULT'],community sample and referrals by specialists,NON_PROBABILITY_SAMPLE
-NCT02858336,"* INCLUSION CRITERIA:
+* chronic disease (hypertension, high cholesterol, diabetes, asthma, etc)
+* polycystic ovarian syndrome for women
+* prescription medication use (other than allergy meds) for control populations
+* irregular menstrual cycles for healthy female control population (cycle length longer than 35 days or shorter than 25 days. cycle length varies by more than 5 days. less than 9 periods per year)",True,ALL,,18 Years,40 Years,['ADULT'],The reproductive disorder populations will be recruited from the reproductive endocrine clinic at the Mass General Hospital. The control populations will be recruited from Boston and surrounding communities,PROBABILITY_SAMPLE
+NCT03841981,Body Fat as Determinant of Female Gonadal Dysfunction,"Inclusion Criteria
+
+Group I
+
+* Body mass index between 18.5 and 25.0 kg/m2.
+* Group 1 ovulatory dysfunction \[World Health Organization (WHO) classification\].
+* Normal/low gonadotrophin levels \[follicle-stimulating hormone (FSH) and luteinizing (LH) \< 10 IU/l\] and low estradiol (\< 50 pg/ml).
+* Moderate-vigorous intensity physical activity (\> 5 hours per week) plus low energy availability (\< 30 kcal/per kg of lean mass).
+* Exclusion of secondary etiologies
+* Informed consent signed.
+
+Group II:
+
+* Polycystic ovary syndrome phenotype I, II and III \[National Institute of Health (NIH)-2012\] with hyperandrogenemia (http://prevention.nih.gov/workshops/2012/resources.aspx).
+* Body mass index between 18.5 and 40.0 kg/m2.
+* Informed consent signed.
+
+Group III:
+
+* Polycystic ovary syndrome phenotype IV (NIH-2012) (http://prevention.nih.gov/workshops/2012/resources.aspx).
+* Body mass index between 18.5 and 40.0 kg/m2.
+* Informed consent signed.
+
+Group IV:
+
+* Body mass index between 18.5 and 25.0 kg/m2.
+* Regular menses.
+* Normal gonadotropins and estradiol levels at follicular phase.
+* Moderate-vigorous intensity physical activity (\> 5 hours per week) with normal energy availability (\> 30 kcal/per kg of lean mass).
+* Informed consent signed.
+
+Group V:
+
+* No signs or symptoms of hyperandrogenism.
+* No exercise or mild intensity physical activity.
+* Regular menses.
+* Body mass index between 18.5 and 40.0 kg/m2.
+* Informed consent signed.
+
+Exclusion Criteria (Groups I-V)
+
+* Oral drugs interfering with ovulation (glucocorticoids, antipsychotics, antidepressants, contraceptives, sex steroids and/or opioids) for the previous 6 months to study inclusion.
+* Current pregnancy or lactation, or during the previous 6 months to study inclusion.
+* Asherman's syndrome or outflow tract disorders.
+* Current smoking or alcohol intake \> 40 g per day.
+* Previous diagnosis of glucose intolerance, hypertension, dyslipidemia, known heart or lung diseases, kidney disease, liver disease, celiac disease or any other malabsorptive condition, chronic inflammatory disease or malignancy.",True,FEMALE,,18 Years,40 Years,['ADULT'],"Patients with exercise-associated functional amenorrhea and polycystic ovary syndrome will be consecutively recruited from our Reproductive Endocrinolgy clinic. Those premenopausal adult women are referred to clinic because of symptoms of functional androgen excess such as hirsutism or menstrual dysfunction.
+
+The control group (Groups IV and V) will include healthy female volunteers recruited - contemporarily with the recruitment of patients - from the hospital's staff and overweight or obese women seeking medical attention in our department.",NON_PROBABILITY_SAMPLE
+NCT02858336,"CaREFREE Study (Calorie Restriction, Environment and Fitness: Reproductive Effects Evaluation Study)","* INCLUSION CRITERIA:
 
 Participants will be enrolled without regard to race or ethnicity. Each potential participant must meet all of the following inclusion criteria in order to be eligible to enroll in the study:
 
@@ -334,7 +375,19 @@ Criteria 2 VO2max less than or equal to 40 ml/kg/min with the option to increase
 Criteria 3 Hemoglobin, prolactin and TSH within normal female range for testing laboratory.
 
 Criteria 4 Ovulation confirmed in the cycle before each study intervention by self-reported positive urine test, ultrasound and/or progesterone blood-levels",False,FEMALE,,18 Years,28 Years,['ADULT'],,
-NCT05967819,"Inclusion Criteria:
+NCT00556036,Hormone Dynamics and Bone Mineral Density in Anorexia Nervosa v. Hypothalamic Amenorrhea,"Inclusion Criteria:
+
+* Amenorrhea for at least three months (unless participating as healthy control)
+* Normal TSH or free thyroxine (free T4).
+
+Exclusion Criteria:
+
+* A condition known to affect bone metabolism, including Cushing's syndrome or renal failure, with the exception of bone fracture.
+* Any medication known to affect bone metabolism within 3 months of the study, including estrogen and progestins. Patients receiving depot medroxyprogesterone (Depo-Provera) will be excluded from participating for 6 months after their last injection.
+* Pregnant and/or breastfeeding.
+* Diabetes mellitus.
+* Active substance abuse, including alcohol.",True,FEMALE,,18 Years,45 Years,['ADULT'],community sample and referrals by specialists,NON_PROBABILITY_SAMPLE
+NCT05967819,Effects of Physical and Psychosocial Stress on Functional Hypothalamic Amenorrhea in Exercising Women,"Inclusion Criteria:
 
 * participates in structured running or cycling exercise for at least 30 minutes on 4 days per week or more
 * have regular periods every 21 to 35 days
@@ -355,19 +408,55 @@ Exclusion Criteria:
 * are diagnosed with a menstrual cycle disorder (e.g., menorrhagia, amenorrhea, dysmenorrhea, polycystic ovary syndrome \[PCOS\], endometriosis, premenstrual dysphoric disorder \[PMDD\], menstrual migraines, ovarian cancer, ovarian insufficiency, uterine or endometrial cancer)
 * are diagnosed with a metabolic disease (e.g., hypothyroidism, hyperthyroidism, Cushing disease, Addison's disease, diabetes), 10) are diagnosed with a major cardiovascular disease, respiratory disease, or musculoskeletal injury
 * are unable to follow instructions for any of the procedures",True,FEMALE,,18 Years,35 Years,['ADULT'],,
-NCT01165619,"Inclusion Criteria:
+NCT00889512,The Luveris In Vitro Fertilization Trial,"Inclusion Criteria:
 
-* Over the age of 18 for men
-* Between the ages of 18 and 40 for women
-* For reproductive disorder population: Current or previous diagnosis of Idiopathic Hypogonadotropic Hypogonadism or Hypothalamic Amenorrhea
+1. 30 women under 38 years old at time of signing Informed Consent Form.
+2. Evidence of hypothalamic amenorrhea (irregular menses and FSH and LH \<5 mIU/mL), uncorrected hyperprolactinemia (prolactin levels 10% above the upper limit of normal) or iatrogenic hypothalamic hypogonadism secondary to GnRHa suppression.
+3. In good general health off of current medications which may confound response to study medications except GnRHa (Lupron Depot).
+4. Desire to seek pregnancy actively during the study period.
+5. A normal uterine cavity must have been confirmed by either hysteroscopy or hydrosonogram within two years of entering the study.
+6. A semen analysis on the male partner deemed adequate for IVF by the attending physician within the past year or donor sperm available for insemination.
+7. Only one treatment cycle per patient will be studied.
 
 Exclusion Criteria:
 
-* chronic disease (hypertension, high cholesterol, diabetes, asthma, etc)
-* polycystic ovarian syndrome for women
-* prescription medication use (other than allergy meds) for control populations
-* irregular menstrual cycles for healthy female control population (cycle length longer than 35 days or shorter than 25 days. cycle length varies by more than 5 days. less than 9 periods per year)",True,ALL,,18 Years,40 Years,['ADULT'],The reproductive disorder populations will be recruited from the reproductive endocrine clinic at the Mass General Hospital. The control populations will be recruited from Boston and surrounding communities,PROBABILITY_SAMPLE
-NCT00130117,"Inclusion criteria for HA subjects
+1. uncorrected thyroid disease.
+2. heart disease (New York Heart Association Class II or higher).
+3. a history of, or suspected cervical, endometrial, or breast cancer. A normal Pap smear result within the last 24 months will be required.
+4. enrolled into other studies that require medications, limit sex, or otherwise prevent compliance with the protocol at the same time.
+5. to take other medications known to affect reproduction.",False,FEMALE,,18 Years,38 Years,['ADULT'],,
+NCT05448924,Isolated Growth Hormone Deficiency and Amennorrhea,"Inclusion Criteria:
+
+* A single female participant with amenorrhea
+
+Exclusion Criteria:
+
+* The study only included the above subject",False,FEMALE,,,,"['CHILD', 'ADULT', 'OLDER_ADULT']",This 14-year old female came to the gynaecology clinic with a chief complaint of amenorrhea,NON_PROBABILITY_SAMPLE
+NCT06583408,The REgistry of Very Early Estrogen and AnovuLation,"Inclusion Criteria:
+
+* 3 or more months of consecutive amenorrhea with a diagnosis of functional hypothalamic amenorrhea or screening hormones consistent with functional hypothalamic amenorrhea including but not limited to:
+
+  * Estradiol: \< 50pg/mL
+  * LH: \< 10 IU/mL
+  * FSH: \< 10 IU
+  * Testosterone: 2 - 45 ng/dL
+  * Free Testosterone: 0.1 - 6.4 pg/mL
+  * FT4: 0.93 - 1.70 ng/dL
+  * Prolactin: \< 20 ng/mL
+  * AMH: \> 1 ng/mL
+  * Urine or serum human chorionic gonadotropin: Negative
+* LH:FSH Ratio \<1
+* No signs of male-like hair growth on the upper lip, chin, chest, abdomen, buttocks, or back
+* Does not have a diagnosis for secondary amenorrhea, including prolactinoma, PCOS, premature ovarian insufficiency, pituitary surgery, infection, or infarction
+* Premenopausal status determined by WISE criteria
+* Able to give informed consent
+* Able to read English
+
+Exclusion Criteria:
+
+* Parturition/lactating in the last 6-12 months
+* Lack of consent",False,FEMALE,,18 Years,40 Years,['ADULT'],"The study subjects are women aged 18-40 years old with a diagnosis of Functional Hypothalamic Amenorrhea (FHA) or lab results that are within the inclusion criteria. To ensure accurate case ascertainment before enrollment into the study, volunteers must have a diagnosis of FHA from a provider with previously performed lab tests, which will be reviewed and adjudicated by a women's health expert to confirm a diagnosis of FHA. If the potential participant doesn't have access or cannot obtain the required lab results, they can contact the study team to receive an at-home finger-stick hormone test (U.S. Specialty Labs) paid for by the study.",NON_PROBABILITY_SAMPLE
+NCT00130117,Study of Leptin for the Treatment of Hypothalamic Amenorrhea,"Inclusion criteria for HA subjects
 
 * Hypothalamic amenorrhea of at least 6 months duration with low or normal LH and FSH, e.g. due to strenuous exercise (running \>20 miles per week or equivalent) or low weight
 * Can be secondary HA OR primary HA with some pubertal development and normal screening labs
@@ -420,24 +509,7 @@ Exclusion criteria:
 * Breast feeding, pregnant, or wanting to become pregnant during the next 6 months.
 * We will screen for these conditions through a detailed history and systems review, physical examination, laboratory evaluation (as described above in Screening Methods), and EKG.
 * In the Reward Sub-study subjects will be asked to fill out a standard BIDMC MRI safety screening form prior to entering the magnet.",True,FEMALE,,18 Years,35 Years,['ADULT'],,
-NCT00889512,"Inclusion Criteria:
-
-1. 30 women under 38 years old at time of signing Informed Consent Form.
-2. Evidence of hypothalamic amenorrhea (irregular menses and FSH and LH \<5 mIU/mL), uncorrected hyperprolactinemia (prolactin levels 10% above the upper limit of normal) or iatrogenic hypothalamic hypogonadism secondary to GnRHa suppression.
-3. In good general health off of current medications which may confound response to study medications except GnRHa (Lupron Depot).
-4. Desire to seek pregnancy actively during the study period.
-5. A normal uterine cavity must have been confirmed by either hysteroscopy or hydrosonogram within two years of entering the study.
-6. A semen analysis on the male partner deemed adequate for IVF by the attending physician within the past year or donor sperm available for insemination.
-7. Only one treatment cycle per patient will be studied.
-
-Exclusion Criteria:
-
-1. uncorrected thyroid disease.
-2. heart disease (New York Heart Association Class II or higher).
-3. a history of, or suspected cervical, endometrial, or breast cancer. A normal Pap smear result within the last 24 months will be required.
-4. enrolled into other studies that require medications, limit sex, or otherwise prevent compliance with the protocol at the same time.
-5. to take other medications known to affect reproduction.",False,FEMALE,,18 Years,38 Years,['ADULT'],,
-NCT00383656,"Inclusion Criteria:
+NCT00383656,Pulsatile GnRH in Anovulatory Infertility,"Inclusion Criteria:
 
 * Women and minors with GnRH deficiency or idiopathic hypogonadotropic hypogonadism (IHH) will have a history of primary amenorrhea, no evidence of abnormalities in other hormonal axes, a deficient pattern of luteinizing hormone (LH) and/or free alpha subunit (FAS) secretion on baseline sampling and a normal cranial CT or MRI.
 * Women and minors with hypothalamic amenorrhea will have a history of secondary amenorrhea of at least six months duration with low or normal gonadotropins or a history of primary amenorrhea in the presence of pulsatile patterns of LH or FAS on baseline frequent sampling studies, BMI \> 18 kg/m2 and normal testosterone and prolactin levels.
@@ -448,55 +520,54 @@ Subjects will be otherwise healthy women and female minors between the ages of 1
 Exclusion Criteria:
 
 Mitral valve prolapse with ballooning of the mitral valve will be cause for exclusion of the patient from intravenous GnRH treatment.",False,FEMALE,,16 Years,45 Years,"['CHILD', 'ADULT']",,
-NCT03841981,"Inclusion Criteria
+NCT05921877,AMH and Functional Hypothalamic Amenorrhea,"Inclusion Criteria:
 
-Group I
+* Women aged 15-34 years.
+* Diagnosis of functional hypothalamic amenorrhea (for at least 2 years).
+* Signature of informed consent.
 
-* Body mass index between 18.5 and 25.0 kg/m2.
-* Group 1 ovulatory dysfunction \[World Health Organization (WHO) classification\].
-* Normal/low gonadotrophin levels \[follicle-stimulating hormone (FSH) and luteinizing (LH) \< 10 IU/l\] and low estradiol (\< 50 pg/ml).
-* Moderate-vigorous intensity physical activity (\> 5 hours per week) plus low energy availability (\< 30 kcal/per kg of lean mass).
-* Exclusion of secondary etiologies
-* Informed consent signed.
+Exclusion Criteria:
 
-Group II:
+* Polycystic ovary syndrome
+* Taking oral contraceptives in the previous three months
+* Other clinically relevant endocrinopathies
+* positive MAP-test (Medroxyprogesterone acetate test)
+* Estroprogestin replacement therapy
+* Autoimmune disorders
+* Failure to sign informed consent",,FEMALE,,15 Years,34 Years,"['CHILD', 'ADULT']","Patients with functional hypotalamic amenorrhea (FHA) will be recruited from the DH of Dysfunctional Gynecology (UOSD Diagnostic and Medical Therapy of Menstrual Dysfunction and Marital Infertility) Department of Women's, Children's and Public Health Sciences of the A. Gemelli IRCCS University Polyclinic Foundation. Possible enrollment in the study protocol will not affect or alter in any way the patient's clinical course or adherence to good clinical practice guidelines. A group of healthy controls will also be enrolled, respecting the same exclusion criteria, from among the patients afferent to the Day Hospital of Dysfunctional Gynecology (healthy control is defined as: patient not suffering from functional hypothalamic amenorrhea, not from polycystic ovary syndrome and with 10-12 menstrual cycles per year).",NON_PROBABILITY_SAMPLE
+NCT01500447,Inherited Reproductive Disorders,"* INCLUSION CRITERIA:
 
-* Polycystic ovary syndrome phenotype I, II and III \[National Institute of Health (NIH)-2012\] with hyperandrogenemia (http://prevention.nih.gov/workshops/2012/resources.aspx).
-* Body mass index between 18.5 and 40.0 kg/m2.
-* Informed consent signed.
+The essential inclusion criteria include:
 
-Group III:
+1. failure to go through a normal, age-appropriate, spontaneous puberty and low sex steroid levels in the setting of low/normal gonadotropins (due to substantial variability among patient presentations, this will be based on the clinical judgement of the Investigator), or
+2. abnormally early development of puberty, or
+3. normal puberty with subsequent development of low gonadotropin levels, or
+4. individuals with features indicating an increased risk of hypogonadotropic hypogonadism.
+5. Family members: both affected and unaffected family members are strongly encouraged to participate.
 
-* Polycystic ovary syndrome phenotype IV (NIH-2012) (http://prevention.nih.gov/workshops/2012/resources.aspx).
-* Body mass index between 18.5 and 40.0 kg/m2.
-* Informed consent signed.
+EXCLUSION CRITERIA:
 
-Group IV:
+Since hypogonadotropic hypogonadism is a rare condition, this protocol remains open to enrollment so that we may study all subjects that are both qualified and interested in participating.
 
-* Body mass index between 18.5 and 25.0 kg/m2.
-* Regular menses.
-* Normal gonadotropins and estradiol levels at follicular phase.
-* Moderate-vigorous intensity physical activity (\> 5 hours per week) with normal energy availability (\> 30 kcal/per kg of lean mass).
-* Informed consent signed.
+Because HH represents a spectrum, where associated clinical findings may provide phenotypic clues to the assessment of inheritability and underlying physiology, exclusion criteria are very limited:
 
-Group V:
+* Patients who have additional pituitary deficiencies, effectively ruling out isolated GnRH deficiency, whether these deficiencies are congenital or acquired (e.g. secondary to malignancy, infection, or irradiation).
+* Patients who are taking medications known to affect GnRH secretion, such as corticosteroids or continuous opiate administration (or were taking them at the time of diagnosis).",False,ALL,,6 Weeks,,"['CHILD', 'ADULT', 'OLDER_ADULT']","Primary Clinical, self-referred or physician-referred subjects",NON_PROBABILITY_SAMPLE
+NCT05629377,Hypothalamic Amenorrhea as a Fertility Status Marker for Cardiovascular Health (ARCH),"Inclusion Criteria:
 
-* No signs or symptoms of hyperandrogenism.
-* No exercise or mild intensity physical activity.
-* Regular menses.
-* Body mass index between 18.5 and 40.0 kg/m2.
-* Informed consent signed.
+* Secondary amenorrhea of 3 or more consecutive months duration
+* Include the screening hormones (eg, estradiol (E2) \< 50 pg/ml, Follicle-Stimulating Hormone (FSH) \<10 mIU/ml, and Luteinizing Hormone (LH) \< 10mIU/ml and other HA-defining hormones); or clinical diagnosis of HA by medical providers.
+* Pre-menopause status.
+* Able to give informed consent.
 
-Exclusion Criteria (Groups I-V)
+Exclusion Criteria:
 
-* Oral drugs interfering with ovulation (glucocorticoids, antipsychotics, antidepressants, contraceptives, sex steroids and/or opioids) for the previous 6 months to study inclusion.
-* Current pregnancy or lactation, or during the previous 6 months to study inclusion.
-* Asherman's syndrome or outflow tract disorders.
-* Current smoking or alcohol intake \> 40 g per day.
-* Previous diagnosis of glucose intolerance, hypertension, dyslipidemia, known heart or lung diseases, kidney disease, liver disease, celiac disease or any other malabsorptive condition, chronic inflammatory disease or malignancy.",True,FEMALE,,18 Years,40 Years,['ADULT'],"Patients with exercise-associated functional amenorrhea and polycystic ovary syndrome will be consecutively recruited from our Reproductive Endocrinolgy clinic. Those premenopausal adult women are referred to clinic because of symptoms of functional androgen excess such as hirsutism or menstrual dysfunction.
-
-The control group (Groups IV and V) will include healthy female volunteers recruited - contemporarily with the recruitment of patients - from the hospital's staff and overweight or obese women seeking medical attention in our department.",NON_PROBABILITY_SAMPLE
-NCT06280807,"* INCLUSION CRITERIA:
+* A diagnosis for secondary amenorrhea including prolactinoma, Polycystic Ovary Syndrome (PCOS), premature ovarian insufficiency, pituitary surgery, infection or infarction
+* Pregnancy
+* Psychotropic/illicit drug use
+* Mental/neurological/major psychological disorders (other than depression and anxiety).
+* Parturition/lactating in the last 6-12 months.",False,FEMALE,,18 Years,40 Years,['ADULT'],Premenopausal women with hypothalamic amenorrhea at Mayo Clinic Florida.,NON_PROBABILITY_SAMPLE
+NCT06280807,Observation of Environment and Reproductive-Endocrine Effects,"* INCLUSION CRITERIA:
 
 In order to be eligible to participate in this study, an individual must meet all of the following criteria:
 
@@ -531,54 +602,7 @@ An individual who meets any of the following criteria will be excluded from part
 3. Pregnant participants, less than 18 years of age, for their safety, since there is not a trained doctor on the study to give proper medical care to pregnant individuals less than 18 years of age.
 
 Individuals who do not meet the criteria for participation in this study (screen failure) because of an acute, reversible or transient medical reason may be rescreened upon reversal, improvement or stabilization of their clinical status. Participants who develop an acute, reversible or transient medical condition during the study may return upon reversal, improvement or stabilization of their clinical status.",False,ALL,,8 Years,99 Years,"['CHILD', 'ADULT', 'OLDER_ADULT']","Adult and pediatric (between the ages of 8 and 18), cisgender male and females, from the communities and surrounding areas of Durham, Chapel Hill and Raleigh in NC; and Bethesda, MD.",NON_PROBABILITY_SAMPLE
-NCT01500447,"* INCLUSION CRITERIA:
-
-The essential inclusion criteria include:
-
-1. failure to go through a normal, age-appropriate, spontaneous puberty and low sex steroid levels in the setting of low/normal gonadotropins (due to substantial variability among patient presentations, this will be based on the clinical judgement of the Investigator), or
-2. abnormally early development of puberty, or
-3. normal puberty with subsequent development of low gonadotropin levels, or
-4. individuals with features indicating an increased risk of hypogonadotropic hypogonadism.
-5. Family members: both affected and unaffected family members are strongly encouraged to participate.
-
-EXCLUSION CRITERIA:
-
-Since hypogonadotropic hypogonadism is a rare condition, this protocol remains open to enrollment so that we may study all subjects that are both qualified and interested in participating.
-
-Because HH represents a spectrum, where associated clinical findings may provide phenotypic clues to the assessment of inheritability and underlying physiology, exclusion criteria are very limited:
-
-* Patients who have additional pituitary deficiencies, effectively ruling out isolated GnRH deficiency, whether these deficiencies are congenital or acquired (e.g. secondary to malignancy, infection, or irradiation).
-* Patients who are taking medications known to affect GnRH secretion, such as corticosteroids or continuous opiate administration (or were taking them at the time of diagnosis).",False,ALL,,6 Weeks,,"['CHILD', 'ADULT', 'OLDER_ADULT']","Primary Clinical, self-referred or physician-referred subjects",NON_PROBABILITY_SAMPLE
-NCT05629377,"Inclusion Criteria:
-
-* Secondary amenorrhea of 3 or more consecutive months duration
-* Include the screening hormones (eg, estradiol (E2) \< 50 pg/ml, Follicle-Stimulating Hormone (FSH) \<10 mIU/ml, and Luteinizing Hormone (LH) \< 10mIU/ml and other HA-defining hormones); or clinical diagnosis of HA by medical providers.
-* Pre-menopause status.
-* Able to give informed consent.
-
-Exclusion Criteria:
-
-* A diagnosis for secondary amenorrhea including prolactinoma, Polycystic Ovary Syndrome (PCOS), premature ovarian insufficiency, pituitary surgery, infection or infarction
-* Pregnancy
-* Psychotropic/illicit drug use
-* Mental/neurological/major psychological disorders (other than depression and anxiety).
-* Parturition/lactating in the last 6-12 months.",False,FEMALE,,18 Years,40 Years,['ADULT'],Premenopausal women with hypothalamic amenorrhea at Mayo Clinic Florida.,NON_PROBABILITY_SAMPLE
-NCT05921877,"Inclusion Criteria:
-
-* Women aged 15-34 years.
-* Diagnosis of functional hypothalamic amenorrhea (for at least 2 years).
-* Signature of informed consent.
-
-Exclusion Criteria:
-
-* Polycystic ovary syndrome
-* Taking oral contraceptives in the previous three months
-* Other clinically relevant endocrinopathies
-* positive MAP-test (Medroxyprogesterone acetate test)
-* Estroprogestin replacement therapy
-* Autoimmune disorders
-* Failure to sign informed consent",,FEMALE,,15 Years,34 Years,"['CHILD', 'ADULT']","Patients with functional hypotalamic amenorrhea (FHA) will be recruited from the DH of Dysfunctional Gynecology (UOSD Diagnostic and Medical Therapy of Menstrual Dysfunction and Marital Infertility) Department of Women's, Children's and Public Health Sciences of the A. Gemelli IRCCS University Polyclinic Foundation. Possible enrollment in the study protocol will not affect or alter in any way the patient's clinical course or adherence to good clinical practice guidelines. A group of healthy controls will also be enrolled, respecting the same exclusion criteria, from among the patients afferent to the Day Hospital of Dysfunctional Gynecology (healthy control is defined as: patient not suffering from functional hypothalamic amenorrhea, not from polycystic ovary syndrome and with 10-12 menstrual cycles per year).",NON_PROBABILITY_SAMPLE
-NCT01601171,"Inclusion Criteria:(any of the following conditions)
+NCT01601171,Genetics of Reproductive Disorders (Including Kallmann Syndrome) and Cleft Lip and/or Palate,"Inclusion Criteria:(any of the following conditions)
 
 * hypogonadotropic hypogonadism
 * Kallmann syndrome
@@ -599,3 +623,1485 @@ Exclusion Criteria:
 * chronic alcohol abuse
 * illicit drug use
 * anabolic steroid abuse",True,ALL,,,,"['CHILD', 'ADULT', 'OLDER_ADULT']","Study participants will be a convenience sample of those patients with reproductive disorders (and their family members), with or without cleft lip/palate, who are interested in participating in this genetic study.",NON_PROBABILITY_SAMPLE
+NCT04938622,Bioenergetics of Exercise-Induced Menstrual Disturbances,"Inclusion Criteria:
+
+* Weight 45-75 kg
+* Body fat 15-35 percent
+* BMI 18-25 kg/m2
+* Nonsmoking
+* \<1 hour/week of purposeful aerobic exercise for the past 6 months
+* Documentation of at least two ovulatory menstrual cycles during screening.
+
+Exclusion Criteria:
+
+* History of serious medical conditions
+* Medication use that would alter metabolic hormone levels
+* Significant weight loss/gain (±2.3 kg) in the last year
+* Current evidence of disordered eating or history of an eating disorder
+* Taking exogenous hormonal contraceptives for the past 6 months",True,FEMALE,,18 Years,30 Years,['ADULT'],,
+NCT03817827,Effect of Acupuncture and Diet Modification on amenorrheaIN FEMALE ATHLETE TRIAD,"Inclusion Criteria:
+
+* All patients suffering from athletic amenorrhea.
+* Their age will be ranged from 17-25 years old.
+* Their body mass index will be less than 18.5 kg/m2.
+* No history of previous pregnancies.
+* No history of any pathological disease causing amenorrhea.
+* They are medically stable and consented to participate in the study.
+
+Exclusion Criteria:
+
+* Patients with gynecological diseases that may cause amenorrhea.
+* Patients using contraceptive pills.
+* Patients using hormonal treatment.
+* Patients using induction of ovulation methods.
+* Patients following any other diet modification method.
+* Patients who receive any drug with side effect of amenorrhea.",False,FEMALE,True,17 Years,25 Years,"['CHILD', 'ADULT']",,
+NCT00392873,Increased Calorie Intake to Reverse Energy Deficiency in Exercising Women: Impact on Bone and Menstrual Cyclicity,"Inclusion Criteria for Ovulatory Control Volunteers:
+
+* 18-35 years
+* BMI 16-25 kg/m2
+* At least 2 hr/wk of aerobic exercise
+* Gynecological age \>/= 5 years
+* Weight stable (+/- 2 kg) last 6 months
+* History of regular menses for 6 months
+
+Inclusion Criteria for Women with Irregular or Absent Menses:
+
+* 18-35 years
+* BMI 16-25 kg/m2
+* At least 3 hr/wk of aerobic exercise
+* Gynecological age \>/= 5 years
+* Weight stable (+/- 2 kg) last 6 months
+* No menses within past 3 months or 6 or less menses in last 12 months
+* Low to normal bone mass (L1-L4 Z score \</=0)
+
+Exclusion Criteria for all participants:
+
+* Hormonal contraceptives in last 6 months
+* Smoking currently
+* Current clinical diagnosis of an eating disorder
+* Use of medications incompatible with measurement of reproductive or metabolic hormones, including thyroid medications that may interfere with any of the study outcomes.
+* Dietary habits incompatible with prescribed diet for study
+* Any metabolic, reproductive or bone disease
+* Sedentary individuals with less than 120 minutes (2 hrs) of activity per week",True,FEMALE,,18 Years,35 Years,['ADULT'],,
+NCT04766203,Relative Energy Deficiency in Sport Multicenter Study,"Inclusion Criteria:
+
+* International or Canadian elite (National Sport Organization identified) and (Provincial Sport Organization / University varsity identified) Next Generation, or recreational athlete or para-athlete
+* Female or male athlete or para-athlete currently and actively training for and racing in an Olympic sports event
+* Age \>15 years
+
+Exclusion Criteria:
+
+* Under 15 years old
+* Pregnant",True,ALL,,15 Years,,"['CHILD', 'ADULT', 'OLDER_ADULT']",,
+NCT02224976,Effect of Intense Training on Ovarian Function and Bone Turnover,"Inclusion Criteria:
+
+* competitive endurance runners (racing in events ranging from 10km to ultra-marathons)
+* training at least 5 days per week over the past 12 months, and more than 30 miles per week
+* regular menstrual cycles (24-35 days) over the past 6 months
+* maximal oxygen consumption (VO2max) \> 50ml/kg/min
+* English speaking
+
+Exclusion Criteria:
+
+* smoker
+* amenorrhea
+* pregnant or lactating in the past 2 years
+* chronic disease that will affect bone health, metabolism or the cardiorespiratory system
+* take medications that have cardiovascular or metabolic effects
+* present any contra-indication to exercise testing (cardiovascular abnormalities)
+* report any major illness or injury preventing training for more than 4 weeks over the past 3 months
+* a history of clinical anorexia nervosa or bulimia nervosa",True,FEMALE,,18 Years,40 Years,['ADULT'],,
+NCT00429494,GnRH Analogue for Ovarian Function Preservation in Hematopoietic Stem Cell Transplantation Patients,"Inclusion Criteria:
+
+* Hematopoietic stem cell transplantation candidate.
+* Post-menarche female less than 40 years old.
+* Premenopausal before the start of transplantation, or the start of oral contraceptive pills.
+* Follicle-stimulating hormone (FSH) less than or equal to 20 IU/L and Luteinizing hormone (LH) less than or equal to 20 IU/L within 1 weeks of initiation of injection or the ovarian status is determined by Gynecology Oncology Service.
+* Agree to stop any oral contraceptive pills for a period of 3-6 months starting 1 year post-transplant
+
+Exclusion Criteria:
+
+* Breast cancer
+* Ovarian cancer
+* Pregnancy
+* Hypersensitivity to any Gonadotropin-releasing hormone (GnRH) analogs",False,FEMALE,,,40 Years,"['CHILD', 'ADULT']",,
+NCT05007834,"Metabolism, Circadian Rhythms and Ovarian Function","Inclusion Criteria:
+
+* Women with a chemotherapy-induced (CIA) amenorrhea who asked for post-cancer fertility follow-up at the University Hospital of Lille, France.
+* Women between 25 to 35 years age at inclusion
+* Chemotherapy protocol: FEC 100 (3 cycles) + docetaxel (3 cycles
+
+Exclusion Criteria:
+
+* Women without CIA
+* Women who refuse to participate in the study
+* Women older than 35 years at inclusion
+* Women who received another chemotherapy protocol",False,FEMALE,True,25 Years,35 Years,['ADULT'],"Women with a chemotherapy-induced (CIA) amenorrhea who asked for post-cancer fertility follow-up at the University Hospital of Lille, France.",NON_PROBABILITY_SAMPLE
+NCT00946192,Fat Mediated Modulation of Reproductive and Endocrine Function in Young Athletes,"Inclusion Criteria:
+
+* Females 14-21 years old Note: Our pilot data are reassuring in that young women 18-25 years old with hypothalamic amenorrhea are not adversely affected with estrogen use. In fact, in our prospective study, beneficial effects were observed both in young women 18-25 years old using oral estrogen, and in 14-18 year old adolescent girls using transdermal estrogen. We therefore feel that including girls in the 14-21 year age range will not be hazardous to their bone health. In fact, given the lack of data in this age group, it is important to study younger women and teenagers rather than extrapolate data from studies in adults to this younger population. Hormone dynamics differ in teenagers compared with adults, and bone mass accrual is even more dependent on estrogen and IGF-1 in younger than older women who have already achieved peak bone mass.
+* Bone age (BA) \>15 years Note: 99% of adult height is achieved at a BA of 15 years, thus estrogen replacement will not result in stunting of height potential after this age. Although we could have chosen to include girls with a BA \>14 in this study, we are limiting this to girls with a BA of \>15 years. This is because 2% of growth potential persists at a BA of 14 years, versus only 1% at a BA of 15 years (\~0.6"" of potential height (130)). Thus, to avoid potential stunting of growth potential with estrogen replacement, we have chosen to include girls with BA of \> 15 years.
+* BMI between 10th-90th percentiles for age.
+* Amenorrhea (for AA): absence of menses for \> three months (74) within a period of oligomenorrhea (cycle length \> six weeks) for \>six months, or absence of menarche at \>16 years.
+* Eumenorrhea (EA and controls): \> nine menses (cycle length 21-35 days) in preceding year.
+* Non-athlete healthy controls will be eligible if weight bearing exercise activity is less than two hours a week and if they are not participating in organized team sports.
+* Endurance athletes Note: severity of low BMD and menstrual dysfunction differ by kind of exercise and activity. For example, runners have a higher prevalence of menstrual irregularity than swimmers and cyclists (131). By limiting enrollment to endurance athletes, we will eliminate variability from the type of activity. Endurance training is defined as \> 4 h of aerobic weight-bearing training of the legs or specific endurance training weekly, or \> 20 miles of running weekly for a period of \> 6 months in the last year.
+
+Exclusion Criteria:
+
+* Other conditions that may affect bone metabolism",True,FEMALE,,14 Years,21 Years,"['CHILD', 'ADULT']",,
+NCT01785719,Evaluation of Ovarian Morphology and Function in Overweight Women During Weight Loss,"Inclusion Criteria:
+
+* BMI ≥ 30.0 kg/m\*m.
+* Self-reported history of regular menstrual cycles, irregular menstrual cycles, or PCOS.
+* Absence of hormonal contraception, fertility therapy, or insulin-sensitizing medication in the three months prior to enrollment.
+
+Exclusion Criteria:
+
+* Pregnant, breastfeeding, or lactating
+* Lack of one or both ovaries and/or uterus
+* Previous diagnosis of bleeding disorder(s) or current use of blood thinners/anticoagulants
+* Vegan or gluten free
+* Soy or peanut allergy",True,FEMALE,,18 Years,35 Years,['ADULT'],,
+NCT01187043,"Determination of the Lowest, Safe and Effective Dose of Proellex","Inclusion Criteria:
+
+* Ability to understand and provide a written informed consent.
+* Healthy adult females between 18 and 50 years of age. Included in this group are women with the following conditions, not currently receiving drug treatment:
+
+  * Excessive menstrual bleeding;
+  * Menstrual pain;
+  * Confirmed uterine fibroids; and
+  * Confirmed endometriosis
+* Normal menstrual cycle of 26-32 days
+* Agree not to attempt to become pregnant
+* Agree to limit alcohol consumption to no more than 2 drinks per week and to avoid alcohol consumption within 48 hours of each visit
+* Ability to swallow gelatin capsules Ability to complete a daily subject diary
+* Willing to discontinue hormonal contraceptives and consent to use of double barrier contraceptive techniques over the course of the study.
+* Has a negative pregnancy test at the Screening and Baseline visits An exception for the pregnancy test requirement will be granted for subjects reporting surgical sterilization in medical history
+* A Body Mass Index (BMI) between 18 and 39 inclusive
+* Is available for all treatment and follow-up visits
+
+Exclusion Criteria:
+
+* Subject is a post-menopausal woman, defined as either; six (6) months or more (immediately prior to screening visit) without a menstrual period, or prior hysterectomy and/or oophorectomy
+* Subject is pregnant or lactating or is attempting or expecting to become pregnant during the 7 month study period
+* Women with abnormal liver enzymes or liver disease.
+* Subject previously participated in Proellex clinical trials: ZPE-201, ZPU-003, ZPU-301, ZPU-302, ZPU-303, ZPU-304, ZPU-305, and ZPU-307.
+* Received an investigational drug in the 30 days prior to the screening for this study
+* Women with a history of PCOS
+* Concurrent use of any testosterone, progestin, androgen, estrogen, anabolic steroids, DHEA or hormonal products for at least 2 weeks prior to screening and during the study.
+* Use of oral contraceptives or hormone releasing IUDs in the preceding 30 days. Use of Depo-Provera® in the preceding 6 months.
+* Women currently using narcotics
+* Women currently taking cimetidine or spironolactone
+* Clinically significant abnormal findings on screening examination or any condition which in the opinion of the investigator would interfere with the participant's ability to comply with the study instructions or endanger the participant if she took part in the study",True,FEMALE,,18 Years,50 Years,['ADULT'],,
+NCT02132390,"Adjuvant Toremifene With or Without Goserrelin in Premenopausal Women With Stage I-IIIA, Hormonal Receptor Positive Breast Cancer Accompanied With or Without Chemotherapy Induced Amenorrhoea","Inclusion Criteria:
+
+* Written informed consent must be obtained and documented according to the local regulatory requirements prior to beginning specific protocol procedures
+* Age of at least 18 and at most 45 years
+* Spontaneous and regular menstrual periods before study entry with FSH below 15 mlU/ml in follicular phase
+* Histologically confirmed primary breast cancer with the need for anthracycline-based chemotherapy
+* Steroid receptor (estrogen and progesterone) positive tumor (diagnosis according to hospital standard-procedures)
+* No clinical evidence of local recurrence or distant metastases. Complete staging work-up within 3 months prior to registration. All patients must have (bilateral) mammography or breast MRI, chest X-ray; other tests may be performed as clinically indicated
+* Karnofsky-Index \>80%
+* Life expectancy of at least 10 years, disregarding the diagnosis of cancer
+* Adequate organ function including normal red and white blood count, platelets, serum creatinine, bilirubin, and transaminases within normal range of the institution
+* Patients underwent standard Doxorubicin/Cyclophosphamide Followed by Docetaxel (AC-T)
+* Patients must be available for and compliant to treatment and follow-up. Patients registered on this trial must be treated and followed up at the participating center.
+
+Exclusion Criteria:
+
+* Known hypersensitivity reaction to the investigational compounds or incorporated substances
+* Prior cytotoxic treatment for any reason
+* Suspected (primary or secondary) ovarian insufficiency
+* Pregnant or lactating patients. Patients of childbearing potential must have a negative pregnancy test (urine or serum) within 14 days prior to registration and must implement adequate non-hormonal contraceptive measures during study treatment; prior use of hormonal contraceptives has to be discontinued before first Goserelin injection
+* Other serious illness or medical condition that may interfere with the understanding and giving of informed consent and the conduct of the study
+* Prior or concomitant secondary malignancy (except non-melanomatous skin cancer or carcinoma in situ of the uterine cervix)
+* Concurrent treatment with other experimental drugs or any other anti-cancer therapy
+* Concurrent treatment with sex hormones. Prior treatment must be stopped before study entry",False,FEMALE,,18 Years,45 Years,['ADULT'],,
+NCT00001275,Ovarian Follicle Function in Patients With Primary Ovarian Failure,"* INCLUSION CRITERIA:
+
+Women 18 to 42 years of age with primary ovarian insufficiency who meet the following requirements were candidates for recruitment to the study: 1) at least a four month history of oligo-amenorrhea not due to pregnancy, and 2) clearly elevated gonadotropins in the menopausal range on two separate occasions at least one month apart.
+
+EXCLUSION CRITERIA:
+
+Women with evidence for karyotypic, metabolic, toxic, or iatrogenic cause of the ovarian insufficiency were not candidates.",False,FEMALE,,18 Years,42 Years,['ADULT'],,
+NCT00011388,"Reproductive Effects of Pesticide, PCB and Mercury Exposure in Laotian Immigrants","Eligibility requirements based on need to measure reproductive hormones and menstrual function in relation to hypothesized exposure. So women had to be born in SE Asia, consume fish regularly, have a menstrual period in last 6 weeks, and not be taking any hormone medications.",True,FEMALE,,18 Years,40 Years,['ADULT'],,
+NCT03916978,Autologous PRP Intra Ovarian Infusion to Restore Ovarian Function in Menopausal Women,"Inclusion Criteria:
+
+* Age between 45-55 years old
+* Amenorrhea for at least 12 months
+* Discontinuation of any complementary/adjuvant treatment including hormone replacement, acupuncture, and botanotherapy, for at least three months prior to recruitment.
+* Willing to comply with study requirements
+
+Exclusion Criteria:
+
+* Any pathological disorder related to reproductive system anatomy
+* Previous POI diagnosis
+* Abnormal karyotype
+* Endometriosis
+* Adenomyosis
+* Fibroids and adhesions
+* Infections in reproductive system
+* Current or previous diagnosis of reproductive system cancer
+* History of familiar cancer in reproductive system
+* Severe male factor infertility
+* Prior referral for PGT
+* Ovarian inaccessibility
+* Endocrinological disorders (Hypothalamus-Pituitary disorders, thyroid dysfunction, diabetes mellitus, metabolic syndrome)
+* BMI\>30 kg/m2 or BMI\<18.5 kg/m2
+* Systematic autoimmune disorders",True,FEMALE,True,45 Years,55 Years,['ADULT'],,
+NCT02328976,Hypothalamus Connectivity in Chronic and Episodic Migraine,"Inclusion criteria:
+
+* patients fulfilling international criteria of chronic migraine (with or without medication overuse)
+* age 18-65 years,
+* with or without migraine prophylactic treatment (unchanged for 3 months). Inclusion criteria of patients with episodic migraine are: age- and- gender matched patients, fulfilling international criteria: migraine without aura, with 4 days with migraine/month, without prophylactic treatment, without history of chronic migraine
+
+Exclusion criteria:
+
+* evolutive severe coexistent chronic disease,
+* MRI contra-indications",False,ALL,,18 Years,65 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT03212131,"Investigation of Pharmacokinetics, Pharmacodynamics, Safety and Tolerability of Multiple Doses of Somapacitan in Subjects With Mild and Moderate Degrees of Hepatic Impairment Compared to Subjects With Normal Hepatic Function.","Inclusion Criteria:
+
+* Male or female aged 18-75 years (both inclusive)
+* Body mass index of 18.5-39.9 kg/sqm (both inclusive)
+* Subjects with normal hepatic function or hepatic impairment (mild or moderate)
+
+Exclusion Criteria:
+
+* Female who is pregnant, breast-feeding or intends to become pregnant or is of child-bearing potential and not using an adequate contraceptive method (adequate contraceptive measure as required by local regulation or practice) for at least 16 days after the last trial product administration
+* Male of reproductive age who or whose partner(s) is not using adequate contraceptive methods (adequate contraceptive measures as required by local regulation or practice) or male who is not willing to refrain from donating semen for at least 16 days after last trial product administration
+* Any blood draw in excess of 25 mL in the past 30 days, or donation of blood or plasma in excess of 400 mL within the 90 days preceding screening
+* Any disorder, except for conditions associated with hepatic impairment in the group of subjects with compromised hepatic function, which in the investigator's opinion might jeopardise subject's safety, evaluation of results, or compliance with the protocol",True,ALL,,18 Years,75 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT03482830,Perioperative Metabolic and Hormonal Aspects in Major Emergency Surgery,"Inclusion Criteria:
+
+* Surgery within 72 hours of an acute admission to the Department of Surgery or an acute reoperation.
+* Major gastrointestinal surgery on the gastrointestinal tract (see intervention definition)
+
+Exclusion Criteria:
+
+* Not capable of giving informed consent after oral and written information
+* Previously included in the trial
+* Elective laparoscopy
+* Diagnostic laparotomy/laparoscopy where no subsequent procedure is performed (NB, if no procedure is performed because of inoperable pathology, then include)
+* Appendectomy +/- drainage or Cholecystectomy +/- drainage of localized collection unless the procedure is incidental to a non-elective procedure on the GI tract
+* Non-elective hernia repair without bowel resection.
+* Minor abdominal wound dehiscence unless this causes bowel complications requiring resection
+* Ruptured ectopic pregnancy, or pelvic abscesses due to pelvic inflammatory disease
+* Laparotomy/laparoscopy for pathology caused by blunt or penetrating trauma, esophageal pathology, pathology of the spleen, renal tract, kidneys, liver, gall bladder and biliary tree, pancreas or urinary tract",False,ALL,,18 Years,,"['ADULT', 'OLDER_ADULT']","Patients ≥ 18 years old undergoing acute major gastrointestinal surgery within 72 hours of their admission to the Department of Surgery or an acute reoperation.
+
+Major gastrointestinal surgery are defined as procedures involving the stomach, small or large bowel, or rectum for conditions such as perforation, ischaemia, abdominal abscess, bleeding or obstruction.
+
+Patients will be consecutively screened for inclusion.",PROBABILITY_SAMPLE
+NCT02948322,Cardiac (CMRI) Assessment of Acromegaly,"Inclusion Criteria:
+
+* Active acromegaly as defined by the usual diagnostic criteria (de novo patients or patients uncontrolled by previous treatments).
+* Healthy volunteers matched for age, sex and BMI with the patients of the group 1
+
+Exclusion Criteria:
+
+* History of coronary heart disease (acute or chronic myocardial ischemia)
+* Acute or chronic renal failure (creatinin clearance 30 mL/min/l,73m2)
+* Contraindication of MRI
+* Hypersensitivity to gadolinium
+* Pregnancy",True,ALL,,18 Years,75 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT00560625,Does Inhaled Busedonide or Fluticasone Impair Adrenal Function?,"Inclusion Criteria:
+
+* patients receiving inhaled busedonide or fluticasone at daily dose of 200-800 mcg ' for at least 4 weeks
+
+Exclusion Criteria:
+
+* patients receiving any corticosteroid therapy, except inhaled busedonide or fluticasone.",False,ALL,,18 Years,75 Years,"['ADULT', 'OLDER_ADULT']",hospital-based respiratory diseases clinic,NON_PROBABILITY_SAMPLE
+NCT04335357,TBR-760 in Adult Patients With Non-Functioning Pituitary Adenomas,"Key Inclusion Criteria:
+
+* Confirmed diagnosis of NFPA (defined as lack of clinical and biochemical evidence of adenohypophyseal hormone excess), and be status-post one TSS with a NFPA remnant of ≥ 10mm (maximum diameter)
+* Study subjects must be capable of giving informed consent and reading and signing the informed consent form after the nature of the study has been fully explained by the Investigator or Investigator designee
+* Study subject must be willing and able to complete all study assessments and procedures and to communicate effectively with the Investigator and site staff.
+
+Key Exclusion Criteria:
+
+* Has undergone more than one TSS, or had TSS \<6 months prior to screening, or is anticipated to require TSS within 6 months of Screening
+* Has undergone radiation therapy to the head for any reason, or is already planned to have or anticipated to require radiation therapy during the study period;
+* Has any contraindications to magnetic resonance imaging including allergy or intolerance to gadolinium or gadolinium-based contrast;
+* In the opinion of the Investigator, the patient is unable to meet the requirements of the study.",False,ALL,,18 Years,80 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT00144404,"Baseline Sexual Function, Cognitive Function, Body Composition and Muscle Parameters and Pharmacokinetics of Transdermal Testosterone Gel in Women With Hypopituitarism","Inclusion Criteria:
+
+* Women age 18-55
+* Hypopituitarism with documented central adrenal and gonadal deficiencies. Serum testosterone level of \< 20 ng/dl or free testosterone \<1.5 pg/ml on conjugated equine estrogen replacement
+* No other significant medical condition
+* Weight between 80 and 150% of ideal body weight
+* Able to provide informed consent
+* All races and ethnicities
+* All patients regardless of marital status and relationship status
+
+Exclusion Criteria:
+
+* Physical disabilities that would prevent them from participating in the study
+* Current use of testosterone or other androgenic steroids. Patients who are taking testosterone, DHEA or other androgen precursors will discontinue these medications/supplements three months prior to the study.
+* Significant cardiopulmonary disease, renal disease (creatinine \> 1.5 mg/dL), diabetes mellitus, uncontrolled hypertension, malignancy (other than basal cell skin carcinoma) or major psychiatric disease. Patients with depression or anxiety on a stable dose of medication will be allowed to enroll.
+* Current abuse of illicit drugs or heavy ethanol use
+* History of breast or uterine cancer
+* Those with significant liver function abnormalities defined as SGOT, SGPT or alkaline phosphatase value of greater than one and one-half times the upper limit of normal in our Clinical Pathology Laboratory or serum bilirubin levels of greater than 2 mg/dl will be excluded.
+* Those with history of hyperandrogenic disorders such as hirsutism and polycystic ovary disease will be excluded. These conditions are rare in women with hypopituitarism. Testosterone administration to these patients may exacerbate the underlying disorder.
+* Women who are pregnant, seeking to become pregnant in the next 6 months, or breast feeding
+* Those who have previously experienced intolerance to other transdermal systems
+* Drugs known to alter testosterone production such as Megace or ketoconazole
+* Patients with untreated hyperprolactinemia or active Cushing's disease. Patients with treated prolactinoma or Cushing's disease will be allowed to participate in the study.
+* Hematocrit \> 50%
+* Male sex
+* Not willing to answer all questions on surveys",True,FEMALE,,18 Years,55 Years,['ADULT'],,
+NCT00507104,Pituitary Functions After Traumatic Brain Injury (TBI) and/or Subarachnoid Hemorrhage (SAH),"Inclusion Criteria:
+
+* TBI or SAH
+* Control group: injury without involvement of the brain/skull
+
+Exclusion Criteria:
+
+* Pregnancy",False,ALL,,15 Years,,"['CHILD', 'ADULT', 'OLDER_ADULT']",,
+NCT00852501,Characterization of Receptors in Non-functioning Pituitary Macroadenomas,"Inclusion Criteria:
+
+1. Adults, both males and females age 18 years old or more
+2. Pituitary tumor more than 10 mm in diameter diagnosed by MRI
+3. No clinical or laboratory evidence of pituitary hormone oversecretion (non-functioning pituitary macroadenoma)
+
+Exclusion Criteria:
+
+1. Subjects with pituitary tumors less than 10 mm in diameter
+2. Subjects with clinical or laboratory evidence of hormone oversecretion
+3. Presence of dementia",False,ALL,,18 Years,,"['ADULT', 'OLDER_ADULT']",All subjects who are diagnosed with a non-functioning pituitary macroadenoma who are scheduled for surgery.,PROBABILITY_SAMPLE
+NCT05990491,Pituitary Function After Recovery From Septic Shock Among ICU Survivors,"Inclusion Criteria:
+
+* Patients 18-80 years of age who meet the definition of septic shock.
+* Vasopressor requirement should be maintained for a period \> 24 hours and should require ICU stay for a duration of \> 7 days.
+* Patient should recover from shock and be planned for discharge from the ICU.
+
+Exclusion Criteria:
+
+* Patients who refuse to provide consent.
+* Age \<18 years or \> 80 years of age.
+* Pregnancy or immediate post-partum (\< 6 months post-delivery).
+* Chronic kidney disease (Stage 5), chronic liver disease (CHILD B or C), severe Chronic obstructive pulmonary disease, Chronic heart failure.
+* Patients with pre-existing hypopituitarism on replacement.
+* Past history of severe post-partum hemorrhage requiring blood transfusion, traumatic brain injury, subarachnoid hemorrhage, pituitary tumor/surgery, snake bite envenomation and meningo-encephalitis.
+* Patients who have been on \> 5 mg prednisolone equivalent for a period of more than 2 weeks at any time in the previous 6 months before admission.",False,ALL,,18 Years,80 Years,"['ADULT', 'OLDER_ADULT']","Consecutive patients admitted to critical care medicine intensive care unit at Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow who meet the inclusion and exclusion criteria",NON_PROBABILITY_SAMPLE
+NCT05070091,The Impact of Pituitary-thyroid and Pituitary-adrenal Axes Function on COVID-19 Clinical Course.,"Inclusion Criteria:
+
+* PCR-confirmed COVID-19 infection
+* volunteers consenting to participate
+
+Exclusion Criteria:
+
+* no consent",False,ALL,,18 Years,,"['ADULT', 'OLDER_ADULT']",Hospitalized patients with PCR-confirmed COVID-19 infection.,PROBABILITY_SAMPLE
+NCT02749227,Pasireotide LAR Therapy of Silent Corticotroph Pituitary Tumors,"Inclusion criteria:
+
+Subjects must meet all of the following inclusion criteria to be eligible for enrollment into the study:
+
+1. Adults (males and females) with a diagnosis of a clinically nonfunctioning pituitary tumor of the silent corticotroph tumor type (i.e., positive adrenocorticotropin (ACTH) staining on immunohistochemical staining of the pituitary tumor obtained at surgery)
+2. Plasma POMC level \> upper limit of normal
+3. Prior pituitary tumor surgery with residual or recurrent pituitary tumor visible on MRI scan that is ≥ 5 mm from the optic chiasm.
+4. Surgical resection of the pituitary adenoma must have occurred two or more months prior to enrollment
+5. If patients have undergone pituitary radiotherapy they must have completed their course of radiotherapy at least 2 months prior to study screening
+6. No prior somatostatin analog therapy
+7. No concurrent use of dopamine agonist therapy
+8. No active malignancy
+9. Stable pituitary hormone supplements (x 2 months) prior to baseline visit
+10. Sign and date an informed consent document indicating that the subject has been informed of and agrees to all pertinent aspects of the trial
+
+Exclusion criteria:
+
+Subjects must not meet any of the following exclusion criteria to be eligible for enrollment into the study:
+
+1. Patients with Cushing's disease (biochemical evidence of hypercortisolism)
+2. Patients with compression of the optic chiasm causing any visual field defect that requires surgical intervention
+3. Diabetic patients with poor glycemic control as evidenced by HbA1c \>8%
+4. Patients who are hypothyroid or adrenally insufficient and not on adequate replacement therapy
+5. Patients with symptomatic cholelithiasis and acute or chronic pancreatitis
+6. Patients with risk factors for torsade de pointes, i.e., patients with a baseline QTcF (Fridericia's Correction Formula value) \>450 ms in males, and \>460 ms in females
+7. Hypokalaemia, hypomagnesaemia, uncontrolled hypothyroidism, family history of long QT syndrome or concomitant medications with known risk of Torsades de pointes (TdP). Drugs with possible risk of TdP should be avoided whenever feasible
+8. Patients who have congestive heart failure (NYHA Class III or IV), unstable angina, sustained ventricular tachycardia, clinically significant bradycardia, advanced heart block, history of acute myocardial infarction (MI) less than one year prior to study entry or clinically significant impairment in cardiovascular function
+9. Concomitant disease(s) that could prolong the QT interval such as autonomic neuropathy (caused by diabetes or Parkinson's disease), HIV, cirrhosis, uncontrolled hypothyroidism or cardiac failure
+10. Patients with liver disease such as cirrhosis, chronic active hepatitis, or chronic persistent hepatitis, or patients with alanine aminotransferase (ALT)/aspartate aminotransferase (AST) \> 2.0 X upper limit of normal (ULN), serum bilirubin \>2.0 X ULN
+11. Presence of Hepatitis B surface antigen (HbsAg) or Hepatitis C antibody test (anti-HCV)
+12. Patients with serum creatinine \>2.0 X ULN
+13. Patients with white blood cell (WBC) count \<3 X 109/L; Hb 90% \< lower limit of normal (LLN); platelet (PLT) count \<100 X 109/L
+14. Patients with the presence of active or suspected acute or chronic uncontrolled infection
+15. Patients who have undergone major surgery/surgical therapy for any cause within 4 weeks prior screening
+16. Patients with abnormal coagulation (PT and/or activated partial thromboplastin time (APTT) elevated by 30% above normal limits) or patients receiving anticoagulants that affect PT (prothrombin time) or APTT (activated partial thromboplastin time)
+17. History of syncope or family history of idiopathic sudden death
+18. History of immunocompromise, including a positive HIV test result (ELISA and Western blot)
+19. Sexually active males unless they use a condom during intercourse while taking drug and for 3 months following last dose of pasireotide and should not father a child in this period. A condom is required to be used also by vasectomized men in order to prevent delivery of the drug via seminal fluid
+20. Pregnant or nursing (lactating) women, where pregnancy is defined as the state of a female after conception and until the termination of gestation, confirmed by a positive urine pregnancy test
+21. Women of child-bearing potential, defined as all women physiologically capable of becoming pregnant, unless they are using highly effective methods of contraception during dosing and 3 months following last dose of pasireotide. Highly effective contraception methods include:
+
+    * Total abstinence when this is in line with the preferred and usual lifestyle of the subject. Periodic abstinence (e.g., calendar, ovulation, symptothermal, post-ovulation methods) and withdrawal are not acceptable methods of contraception
+    * Female sterilization (have had surgical bilateral oophorectomy with or without hysterectomy) or tubal ligation at least six weeks before taking study treatment. In case of oophorectomy alone, only when the reproductive status of the woman has been confirmed by follow up hormone level assessment
+    * Male sterilization (at least 6 months prior to screening). For female subjects on the study the vasectomized male partner should be the sole partner for that subject
+    * Combination of any two of the following (a+b or a+c, or b+c):
+
+      1. Use of oral, injected or implanted hormonal methods of contraception or other forms of hormonal contraception that have comparable efficacy (failure rate \<1%), for example hormone vaginal ring or transdermal hormone contraception.
+      2. Placement of an intrauterine device (IUD) or intrauterine system (IUS)
+      3. Barrier methods of contraception: Condom or Occlusive cap (diaphragm or cervical/vault caps) with spermicidal foam/gel/film/cream/vaginal suppository
+
+         * In case of use of oral contraception women should have been stable on the same pill for a minimum of 3 months before taking study treatment.
+         * Women are considered post-menopausal and not of child bearing potential if they have had 12 months of natural (spontaneous) amenorrhea with an appropriate clinical profile (e.g. age appropriate, history of vasomotor symptoms) or have had surgical bilateral oophorectomy (with or without hysterectomy) or tubal ligation at least six weeks ago. In the case of oophorectomy alone, only when the reproductive status of the woman has been confirmed by follow up hormone level assessment is she considered not of child bearing potential.",False,ALL,,18 Years,80 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT04965727,Deep Brain Stimulation of the Lateral Hypothalamus to Augment Motor Function of Patients With Spinal Cord Injury,"Inclusion Criteria:
+
+* SCI graded as American Spinal Injury Association Impairment Scale (AIS) C or D (able to walk independently for a few meters with a walker)
+* Focal spinal cord disorder caused by trauma
+* Minimum 12 months post-injury
+* Stable medical, physical and psychological condition as considered by Investigators
+* Able to understand and interact with the study team in French or English
+* Adequate care-giver support and access to appropriate medical care in patient's home community
+* Must agree to comply in good faith with all conditions of the study and to attend all required study training and visit
+* Must provide and sign Informed Consent prior to any study related procedures
+
+Exclusion Criteria:
+
+* Limitation of walking function based on accompanying (CNS) disorders (i.e., systemic malignant disorders, cardiovascular disorders restricting physical training, peripheral nerve disorders)
+* History of significant autonomic dysreflexia
+* Cognitive/brain damage
+* Epilepsy
+* Use of an intrathecal baclofen pump
+* Any active implanted cardiac device such as pacemaker or defibrillator
+* Any indication that would require diathermy
+* Increased risk for defibrillation
+* Severe joint contractures disabling or restricting lower limb movements
+* Hematological disorders with increased risk for surgical interventions
+* Congenital or acquired lower limb abnormalities (affection of joints and bone)
+* Women who are pregnant (pregnancy test obligatory for woman of childbearing potential) or breastfeeding
+* Lack of safe contraception for women of childbearing capacity
+* Spinal cord lesion due to either a neurodegenerative disease or a tumor
+* Gastrointestinal ulcers in the last five years
+* Known or suspected eye disorders or diseases
+* Other clinically significant concomitant disease states (e.g., renal failure, hepatic dysfunction, cardiovascular disease, etc.)
+* Any other anatomic or co-morbid conditions that, in the Investigator's opinion, could limit the patient's ability to participate in the study or to comply with follow-up requirements, or impact the scientific soundness of the study results
+* Inability to follow the procedures of the study, e.g. due to language problems, psychological disorders, dementia, etc. of the participant
+* Participation in another study with investigational drug within the 30 days preceding and during the present study
+* Enrolment of the investigator, his/her family members, employees and other dependent persons
+* Participation in another locomotor training study
+* Refusal to be informed of any finding during the study",False,ALL,,18 Years,65 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT05671627,Cortisol Circadian Rhythm in Patients With RA,"Inclusion Criteria:
+
+RA adult patients (fulfilling the 2010 ACR/EULAR classification criteria) who are:
+
+1. Newly -diagnosed and are going to start treatment, or
+2. require escalation of drug treatment due to active disease (addition of biologic or cDMARD or change of biologic with or without corticosteroids) providing that are off corticosteroid treatment for at least 6 months.
+
+Exclusion Criteria:
+
+* chronic kidney disease stage 3b and above,
+* antineoplastic treatment,
+* TSH\>10 IU/lt,
+* Cushing syndrome
+* hypo-/hyper-parathyroidism
+* estrogen replacement therapy
+* insulin treatment or HBA1c\>7.5 %,
+* BMI\>35
+* pregnancy",True,ALL,,20 Years,80 Years,"['ADULT', 'OLDER_ADULT']",All consecutive adult patients fulfilling the 2010 ACR/EULAR classification criteria that visit the Outpatient clinic for Rheumatology and autoimmune diseases.,NON_PROBABILITY_SAMPLE
+NCT00476489,Does Topical Steroid Treatment Impair the Adrenal Function?,"Inclusion Criteria:
+
+* patients receiving daily topical steroids for at least two weeks on 10% or more of body surface.
+
+Exclusion Criteria:
+
+* patients treated with any form of corticosteroids except topical steroids.
+* patients with known pituitary disease
+* pregnant patients",False,ALL,,18 Years,75 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT02288962,Dopamine Agonist Treatment of Non-functioning Pituitary Adenomas,"Inclusion Criteria:
+
+* A previously untreated non-functioning pituitary macroadenoma (largest diameter ≥ 10 mm) with either demonstrated growth on repeated MRI scans or ≤ 2 mm distance to chiasma opticum, or:
+* a residual non-functioning pituitary adenoma after surgery (largest diameter ≥ 5 mm) that is either extrasellar and/or with documented growth after surgical treatment of a non-functioning pituitary macroadenoma
+
+Exclusion Criteria:
+
+* Clear indication for surgery at the time of inclusion
+* Previous radiation therapy
+* Pituitary surgery the last 6 months
+* Previous apoplexy/bleeding in the adenoma
+* Pregnancy or lactation
+* Contraindications for cabergoline treatment (Known cardiac valvular disease, known pulmonal, pericardial or retroperitoneal fibrosis, clinical significant liver insufficiency, use of medications that interact with cabergoline
+* unfit to participate due to any other reason",False,ALL,,18 Years,75 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT05364944,"A Study to Assess the Pharmacokinetics, Pharmacodynamics, Safety, and Tolerability of Debio 4126 in Participants With Acromegaly or Functioning Gastroenteropancreatic Neuroendocrine Tumors (GEP-NETs)","Main Inclusion Criteria:
+
+For Participants with Acromegaly:
+
+* Treatment with octreotide LAR (≤30 mg dose once in 4 weeks \[Q4W\] IM) or lanreotide ATG (≤120 mg Q4W or 120 mg once in 6 weeks \[Q6W\] to once in 8 weeks \[Q8W\] as deep SC injection) for at least 6 months overall, and for at least 2 months at a stable dose as monotherapy for acromegaly treatment prior to entering Run-in (Day -28). Octreotide doses of 10, 20, and 30 mg are considered similar to lanreotide doses of 60, 90, and 120 mg. Thus, a switch between similar doses of the two products will be considered as the patient remaining on a stable dose, unless due to efficacy or safety
+* Diagnosis of acromegaly by historical evidence of (persistent or recurrent) acromegaly will be carried out
+* IGF-1 ≤1.3 x upper limit of normal (ULN) assessed centrally at screening
+
+For Participants with GEP-NETs:
+
+* Treatment with octreotide LAR (≤ 30 mg dose Q4W IM) or lanreotide ATG (≤ 120 mg Q4W or 120 mg Q6W to Q8W as deep SC injection) for at least 6 months overall, and for at least 2 months at a stable dose as monotherapy for study disease treatment prior to entering Run-in (Day -28). Octreotide doses of 10, 20, and 30 mg are considered similar to lanreotide doses of 60, 90, and 120 mg. Thus, a switch between similar doses of the two products will be considered as the participant remaining on a stable dose, unless due to efficacy or safety
+* Participants with functioning, well-differentiated (Grade 1 or Grade 2) GEP-NET with symptoms of carcinoid syndrome which are controlled by Sandostatin LAR, Somatuline ATG, or equivalent medications; sporadic use of rescue medication for symptom control, e.g., bowel movements and/or flushing, is allowed
+
+Main Exclusion Criteria:
+
+For Participants with Acromegaly and GEP-NETs:
+
+* Known ongoing gallbladder or bile duct disease or acute or chronic pancreatitis
+* Hypothyroidism not adequately treated with thyroid hormone replacement therapy
+* Diabetic participants whose blood glucose is poorly controlled despite adequate therapy, as evidenced by glycated hemoglobin (HbA1c) \>8.0% at screening
+* Cardiology:
+
+  1. Known left ventricular ejection fraction \<50%, left ventricular hypertrophy, ventricular arrhythmias, bradycardia (heart rate \<50 beats per minute \[bpm\]), cardiomyopathy
+  2. New York Heart Association Class ≥3 heart failure
+  3. Congenital long QT syndrome or
+  4. Known family history of long QT syndrome or sudden cardiac death before the age of 50
+  5. Symptomatic Pulmonary embolism
+  6. QT interval corrected for heart rate according to Fridericia's formula (QTcF) at screening \>450 milliseconds (msec) for males and \>470 msec for females, based on the average of a triplicate ECG
+
+For Participants with Acromegaly:
+
+* Participants who received pituitary irradiation \<2 years prior to enrollment as stereotactic radiotherapy or \<3 years prior to enrollment for conventional radiotherapy
+* Participants who received medical treatment with pasireotide (within 6 months prior to screening), pegvisomant (within 3 months prior to screening), dopamine agonists (within 3 months prior to screening)
+* Participants who have undergone pituitary surgery within 6 months prior to screening
+
+For Participants with GEP-NETs:
+
+* Participants with short-bowel syndrome
+* Participants with poorly differentiated neuroendocrine carcinoma and/or high-grade neuroendocrine carcinoma
+* Participants who have received any previous therapy with interferons, targeted therapies (e.g., everolimus, sunitinib, bevacizumab), chemotherapy or other anti-neoplastic systemic therapies administered for more than 1 month and within 12 weeks prior to the start of the Run-in period
+* Participants having history of hepatic embolization, hepatic arterial chemoembolization, and/or selective internal radiation (SIR) therapy within less than 6 months prior to screening
+* Participants who have received Peptide receptor radionuclide therapy (PRRT) therapy during the last 12 months prior to screening
+
+\[Note: Other inclusion/exclusion criteria mentioned in the protocol may apply.\]",False,ALL,,18 Years,,"['ADULT', 'OLDER_ADULT']",,
+NCT04782596,Transnasal Endoscopic Pituitary Surgery - the Effect of Posterior Nasal Septum Resection on Nasal Functions,"Inclusion Criteria:
+
+* age over 18 years
+* patients with functional pituitary adenoma indicating endoscopic transnasal extirpation of the pituitary adenoma
+
+Exclusion Criteria:
+
+* patients after surgery of the nasal cavity or base of the skull
+* patients with nasal disease and PND
+* patients with olfactory disorders before surgery
+* patients with nasal septal deviation",False,ALL,,18 Years,80 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT00970463,Cardiac Function and Morphology Evaluated by Magnetic Resonance Imaging in Growth Hormone Deficiency and Acromegaly,"Inclusion Criteria:
+
+* Peak GH below 6.0 ng/mL during Pyridostigmine-GHRH test.
+* Nadir GH above 0.4 ng/mL and elevated levels of IGF-I during oral glucose tolerance test
+
+Exclusion Criteria:
+
+* Contraindications for magnetic resonance scan",False,ALL,,18 Years,70 Years,"['ADULT', 'OLDER_ADULT']","Patients with GHD based on an insufficient stimulation of GH-secretion during Pyridostigmin-GHRH test.
+
+Patients with acromegaly based on an insufficient supression of GH-secretion during oral glucose tolerance test",NON_PROBABILITY_SAMPLE
+NCT04018963,The Impact of Endoscopic Pituitary Surgery on Nasal Function,"Inclusion Criteria:
+
+1. Enhanced MRI shows a pituitary tumor
+2. Endoscopic surgery is required according to the pituitary tumor treatment guidelines.
+3. Karnofsky performance status ≥ 70.
+4. The patient has signed the informed consent.
+
+Exclusion Criteria:
+
+1. Patients who have undergone previous transsphenoidal surgery or other nasal surgery.
+2. Patients who had a history of nasal tumors.
+3. Patients who had a history of severe head or face trauma.
+4. Patients with congenital sinus malformation.
+5. Pregnant or lactating women.
+6. Patients with serious systemic diseases without control.
+7. Patients with poor compliance, who cannot implement the program strictly.",False,ALL,,18 Years,65 Years,"['ADULT', 'OLDER_ADULT']",Patients treated with endoscopic surgery,NON_PROBABILITY_SAMPLE
+NCT02709863,"Comparison of The Effects of Sevoflurane, Desflurane and Total Intravenous Anaesthesia on Pulmonary Function Tests","Inclusion Criteria:
+
+* American Society of Anesthesiologists (ASA) score I-II patients
+
+Exclusion Criteria:
+
+* Significant cardiopulmonary disease,
+* Diagnosed obstructive or restrictive pulmonary disease,
+* Patients with chest wall deformities, liver or kidney failure,
+* Postoperative lack of cooperation",True,ALL,,18 Years,70 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT05687474,Baby Detect : Genomic Newborn Screening,"Inclusion Criteria:
+
+* newborn between birth and 28 days of life
+* consent of parent
+
+Exclusion Criteria:
+
+* + 28 days
+* Non consent of parent",True,ALL,,,28 Days,['CHILD'],Newborns whose mothers and/or the second-parents meet the inclusion criteria and have provided their consent to take part in the study,NON_PROBABILITY_SAMPLE
+NCT00493389,Cortisol Response to Adrenocorticotrophin (ACTH) in Acute Stress,"Inclusion Criteria:
+
+* Males and females aged 40 to 80 years, who are booked for elective open repair of abdominal aortic aneurysm at The Ottawa Hospital Civic campus
+
+Exclusion Criteria:
+
+* Inability to provide informed consent
+* Pre-operative signs and symptoms of hypofunction of the HPA axis
+* Pre-operative AST results that indicate HPA failure, necessitating perioperative hydrocortisone coverage (Cortisol level post-ACTH \< 500 nmol/L)
+* Presence of multiple co-morbidities such as poorly controlled diabetes, dialysis-dependant renal failure, hepatic failure
+* Presence of hypoalbuminaemia \< 35 g/L
+* Untreated endocrine disorders such as hypothyroidism, hypopituitarism, hypogonadism detected by pre-operative measurement of TSH, FT4, LH, FSH and free testosterone. Such patients will receive any appropriate treatment prior to surgery. Once treated, participation in the study will be offered again and results analysed separately
+* Being on drugs (a) that affect cortisol synthesis (eg. Ketoconazole, etomidate) or protein binding (eg. Estrogens), (b) any form of glucocorticoid which would inhibit CRH and ACTH secretion.
+* Use of herbal or anabolic supplements",False,ALL,,40 Years,80 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT00452868,Donepezil in Treating Young Patients With Primary Brain Tumors Previously Treated With Radiation Therapy to the Brain,"Inclusion Criteria:
+
+* Prior diagnosis of primary brain tumor
+* No type 2 neurofibromatosis
+* Underwent fractionated radiotherapy (≥ 23.4 Gy) with or without surgery or chemotherapy for the brain tumor at least 1 year ago
+* Karnofsky or Lansky performance status 70-100%
+* Fertile patients willing to use effective contraception
+* Baseline IQ ≥ 70 on Peabody Picture Vocabulary Test-3
+* Stable weight within the past 6 months with no concern of weight loss
+* Vision aids and hearing aids must be used for all neuropsychologic/neurocognitive tests, If indicated
+* Able to speak English
+* More than 6 weeks since prior donepezil hydrochloride, EGb761, methylphenidate hydrochloride, other stimulants, or any other cognitive function-enhancing drug
+
+Exclusion Criteria:
+
+* Stereotactic radiosurgery as sole treatment
+* Evidence of disease progression by MRI
+* Pregnant or nursing
+* Attention-deficit/hyperactivity disorder before cancer diagnosis
+* Uncontrolled seizures or uncontrolled endocrinopathies
+* Uncontrolled comorbidities
+* Steroid dose greater than physiologic replacement (18-30 mg/m² hydrocortisone or equivalent)
+* Use of concurrent anticholinergic drugs",False,ALL,,8 Years,17 Years,['CHILD'],,
+NCT05228067,Enhancing Brain Health by tDCS in Persons With Overweight and Obesity,"Inclusion Criteria:
+
+* Written consent to participate in the study
+* Written consent to be informed about incidental findings
+
+Overweight and obese participants:
+
+* Body mass index (BMI) between 28 and 39.5 kg/m2
+* Age between 20 to 65 years of age
+* Waist circumference \> 80 cm for women, \> 94 cm for men
+
+Sex and age matched normal weight individuals:
+
+* Body mass index (BMI) between 19.5 and 24.5 kg/m2
+* Age between 20 to 65 years of age
+
+Exclusion Criteria:
+
+* Insufficient knowledge of the German language
+* Persons who cannot legally give consent
+* Pregnancy or lactation
+* History of severe mental or somatic disorders including neurological diseases (incl. Epileptic seizures)
+* Taking psychotropic drugs
+* Previous bariatric surgery
+* Acute infection within the last 4 weeks
+* Hemoglobin values less than 12g/dl for women, less than 14 g/dl for men
+* Current participation in a lifestyle intervention study or a pharmaceutical study
+* Contradictions to a MRI measurement (e.g. metal implants)",True,ALL,,20 Years,65 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT06036004,Oxytocin Substitution Therapy in Patients With Central Diabetes Insipidus,"Inclusion Criteria:
+
+* Adult patients with a confirmed diagnosis of central diabetes insipidus based on accepted criteria
+* Heightened anxiety levels (STAI - Trait subscale ≥ 39 score points) or alexithymia levels (impaired ability to identify and describe feelings; TAS-20 total ≥ 52 score points)
+* Stable hormone replacement therapy for at least three months with desmopressin and, in case of additional anterior pituitary deficiencies, with the respective substitution therapies.
+
+Exclusion Criteria:
+
+* Participation in a trial with investigational drugs within 30 days
+* Active substance use disorder within the last six months
+* Consumption of alcoholic beverages \>15 drinks/week
+* Current or previous psychotic disorder (e.g., schizophrenia spectrum disorder)
+* Pregnancy and breastfeeding within the last eight weeks
+* Unwilling to use a medically acceptable form of contraception throughout the study period (female of childbearing potential only)
+* Prolonged QTc-time \>470 ms assessed with a 12-lead electrocardiogram.
+* Regular use (\> 3 times per week) of sympathomimetic drugs (e.g., bronchodilators)",False,ALL,,18 Years,,"['ADULT', 'OLDER_ADULT']",,
+NCT04865744,The Effect of Semaglutide on Pituitary Function,"Inclusion Criteria:
+
+* Age 18-50 years
+* The body weight \>65 kg
+
+Exclusion Criteria:
+
+* presence of chronic illness
+* the daily use of medications
+* pregnancy
+* lactation.",True,ALL,,18 Years,50 Years,['ADULT'],,
+NCT02603549,Pituitary Function and Spontaneous Intracranial Hypotension,"Inclusion Criteria:
+
+* Male or female patients
+* Age 18 years and older
+* Diagnosis of SIH:
+* LP
+* Brain MRI (SEEPS)
+
+Exclusion Criteria:
+
+* Pregnant and post-partum females
+* Nursing mothers
+* Patients with potential hyperprolactinemia due to:
+* Hypothyroidism,
+* Chronic renal disorder
+* Liver disease (including cirrhosis)
+* Primary or secondary amenorrhea
+* Polycystic Ovary Syndrome
+* Seizure disorder
+* Illicit drug use",False,ALL,,18 Years,,"['ADULT', 'OLDER_ADULT']",Patients with Spontaneous intracranial hypotension (SIH),NON_PROBABILITY_SAMPLE
+NCT00116818,A Study of GW685698X for the Treatment Of Perennial Allergic Rhinitis in Adolescents and Adults,"Inclusion criteria:
+
+* Diagnosis and history of perennial allergic rhinitis.
+* Must be willing to stay overnight in the clinic at the beginning and end of the study for the collection of urine and blood samples over 24 hours.
+* Must comply with all study procedures and be literate.
+
+Exclusion criteria:
+
+* Use of tobacco products.
+* Work a rotating shift.
+* Significant concurrent medical conditions.
+* Certain medications such as corticosteroids and allergy medications.",False,ALL,,12 Years,65 Years,"['CHILD', 'ADULT', 'OLDER_ADULT']",,
+NCT03812913,Neuropsychological Assessment of Children and Adolescents With Turner Syndrome,"INCLUSION CRITERIA
+
+Turner syndrome group :
+
+* girls with diagnosed Turner syndrome.
+
+Isolated GHD group :
+
+* girls with diagnosed isolated growth hormone deficiency
+
+All participants :
+
+* age between 7 years to 16 years and 11 months.
+* informed consent signed by the participant and her parents (or her legal representatives)
+* being registered in the national social security system
+
+EXCLUSION CRITERIA :
+
+Turner syndrome group :
+
+* patients with chronic pathology other than Turner syndrome.
+* karyotype : part of a Y chromosome and r(X) cases.
+* medical treatment other than those usually prescribed in patients with Turner syndrome.
+
+Isolated GHD group :
+
+* patients with chronic pathology other than isolated growth hormone deficiency.
+* medical treatment other than those usually prescribed in patients with isolated growth hormone deficiency.
+
+All participants :
+
+* diagnosed intellectual disability (IQ\<70) or intellectual giftedness
+* history of acquired brain injury
+* sensory disturbances (auditory or visual) incompatible with the achievement of neuropsychological tasks.
+* insufficient French language proficiency",False,FEMALE,,7 Years,16 Years,['CHILD'],"* 35 patients with Turner syndrome
+* 35 patients with isolated growth hormone deficiency",NON_PROBABILITY_SAMPLE
+NCT01203618,"Exploratory Study of Farletuzumab to Treat Resectable, Non-functioning Pituitary Adenomas","Inclusion Criteria:
+
+* Males and females \>18 years old
+* Diagnosis of non-functional pituitary adenoma
+* Able and willing to undergo surgical resection of the pituitary tumor
+* Significant medical conditions must be well-controlled and stable for at least 30 days prior to signing the informed consent form
+
+Exclusion Criteria:
+
+* Presence of clinically significant pituitary apoplexy
+* Presence of hormone-secreting adenomas
+* Presence of compressive optic neuropathy due to pituitary tumor
+* No prior surgical, medical, or radiation therapy in the last 6 months",False,ALL,,18 Years,,"['ADULT', 'OLDER_ADULT']",,
+NCT03708523,Next Day Growth Hormone Predicting Pituitary Function After Adenomectomy,"Inclusion:
+
+Patients who had been treated with TSA were enrolled.
+
+Exclusion:
+
+1. Hypopituitarism preoperatively.
+2. Acromegaly
+3. Multiple operations
+4. Incomplete hormone data or loss of follow-up",False,ALL,,20 Years,,"['ADULT', 'OLDER_ADULT']",Patients who had been treated with TSA were enrolled.,NON_PROBABILITY_SAMPLE
+NCT05964712,Effects of Therapies in the Acromegaly Disease: Acral Morpho-functional Study,"Inclusion Criteria:
+
+* De novo patients with acromegaly (group # 1), diagnosed according to Endocrine Society guidelines,
+* Age equal to18 years or older
+* Acromegalic patients with different disease status (group #2)
+* Age equal to18 years or older
+
+Exclusion Criteria:
+
+* Cardiorespiratory, neurological or musculoskeletal disorder
+* Previous orthopaedic surgery
+* Previous lower limbs traumatic injuries",False,ALL,,18 Years,90 Years,"['ADULT', 'OLDER_ADULT']","Group #1: De novo patients with acromegaly, diagnosed according to Endocrine Society guidelines, aged equal or above 18 years old;
+
+Group #2: Acromegalic patients with different disease status (active disease despite ongoing therapies, controlled disease under medical therapy, and disease remission), aged equal or above 18 years old",NON_PROBABILITY_SAMPLE
+NCT03186495,"Investigation of Pharmacokinetics, Pharmacodynamics, Safety and Tolerability of Multiple Doses of Somapacitan in Subjects With Various Degrees of Impaired Renal Function Compared to Subjects With Normal Renal Function","Inclusion Criteria:
+
+* Male or female, aged 18-75 years (both inclusive) at the time of signing informed consent
+* Body mass index between 18.5-34.9 kg/sqm (both inclusive)
+* Meeting the pre-defined glomerular filtration rate for any of the renal function groups 1-4 (based on the measured glomerular filtration rate using exogenous sinistrin (Inutest®) as a filtration marker) or being in treatment with haemodialysis
+
+Exclusion Criteria:
+
+* Female who is pregnant, breast-feeding or intends to become pregnant or is of child-bearing potential and not using an adequate contraceptive method (adequate contraceptive measure as required by local regulation or practice). Male of reproductive age who or whose partner(s) is not using adequate contraceptive methods (adequate contraceptive measures as required by local regulation or practice) or male who is not willing to refrain from donating semen for at least 16 days after last trial product administration
+* Any disorder, except for conditions associated with renal impairment in the groups of subjects with reduced renal function, which in the investigator's opinion might jeopardise subject's safety, evaluation of results, or compliance with the protocol. For example, arterial hypertension, anaemia, impaired glucose tolerance or type 2 diabetes are accepted in the group of subjects with renal impairment",False,ALL,,18 Years,75 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT00686608,Hypothalamic Functional Magnetic Resonance Imaging (fMRI) Response to Nutrients,"Inclusion Criteria:
+
+* Age 18 year to 45 years of age
+* BMI 18 to 25 kg/m2 (25 subjects) and 30 to 40 kg/m2 (25 subjects), matched for age and sex.
+* At maximal lifetime weight.
+* Weight stable for at least 3 months.
+
+Exclusion Criteria:
+
+* Those with a major medical illness or who require prescription medication, including: cancer, coronary artery disease, hypertension, and diabetes.
+* Subjects taking psychiatric or centrally-acting (CNS) medications, or who are diagnosed with a psychiatric or neurological illness, including: depression, anorexia, bulimia, and seizure disorder.
+* Subjects who have lost weight as a result of dieting, pharmacological treatment, or bariatric surgery.
+* Weight \> 350 lbs or girth \> 60 inches (the limits of the MR machine)
+* Exercise \> 30 minutes, 3 times a week.
+* Alcohol consumption \> 2 drinks / day.
+* Weight \> 300 lbs (150 kg) (weight limit for MR machine).
+* Blood glucose \> 100 mg/dL, abnormal creatinine or liver function tests.
+* Illicit drug use.
+* Pregnancy.
+* Extreme dietary habits as determined by a GCRC nutritionist: very high or low dietary carbohydrate, protein, or fat intakes.
+* Those with a contraindication to exposure to strong magnetic fields: presence of metal in the body such as body piercing, shrapnel, cardiac pacemakers or aneurysm clips.
+* Those with claustrophobia.",True,ALL,,18 Years,45 Years,['ADULT'],,
+NCT06584123,Molecular Pituitary Imaging Using 18F-FET PET,"Inclusion criteria
+
+* Participant is willing and able to give informed consent for participation in the study
+* Male or female, age 18 or above
+* Presence of pituitary adenoma suspected on the basis of clinical/biochemical and/or radiological findings
+* Previous 11C-Met-PET/CT
+
+Exclusion criteria
+
+* Inability to give informed consent
+* Pregnancy or suspected pregnancy
+* Inability to lie supine for 30-60 minutes
+* Patient body habitus above scanner dimensions
+* Known allergy to intravenous radiographic contrast agents",False,ALL,,18 Years,100 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT01808846,Neural Functioning of Feeding Centers in Obese Youth,"Inclusion Criteria:
+
+* Obese adolescents
+* Good general health,
+* taking no medication on a chronic basis
+* Age 12 to 17 yrs,
+* in puberty (girls and boys: Tanner stage II - IV)
+
+Obese Insulin Resistant Adolescents
+
+* (BMI\> 95th)
+* (WBISI\<1.2 plus a low adiponectin \<6 ug/dl and
+* high triglyceride levels \>130mg/dl)
+
+Obese Insulin Sensitive Adolescents
+
+* (BMI\>95th)
+* (WBISI \>3) plus high adiponectin \>8 ug/ml and
+* triglyceride levels \> 80 mg/dl Girls who begin menstruating must have a negative pregnancy test during the study
+
+Eligibility criteria for healthy non-obese children and adolescents:
+
+* Brother or sister with obesity
+* Age 12 to 17 years
+* Normal fasting glucose and lipids in the child, and
+* normal OGTT
+* No use of any medication known to affect glucose, lipid metabolism and inflammation
+* No endocrinopathies
+* No use of any antipsychotic medication
+* BMI \>25th to \<75th ( Center for Disease Control (CDC) BMI Charts)
+* Minimum weight of 90lbs (CDC Growth Charts)
+
+Exclusion Criteria
+
+* Baseline creatinine \>1.0 mg
+* Pregnancy
+* Presence of endocrinopathies (e.g. Cushing syndrome)
+* Cardiac or pulmonary or other significant chronic illness
+* Adolescents with psychiatric disorder or with substance abuse determined via self-report.
+* Use of anorexic agents No metal implants",True,ALL,,12 Years,17 Years,['CHILD'],Clinic patients of Dr. Caprio at the Yale Pediatric Obesity Clinic who have undergone oral glucose tolerance testing (OGTT) and found to be insulin resistant or sensitive and/or previous research subjects who were found to be insulin resistant or sensitive and who agreed to be contacted for other studies will be contacted.,NON_PROBABILITY_SAMPLE
+NCT01167959,Hypothalamic Function Before and After Bariatric Surgery,"Inclusion Criteria:
+
+* Patients aged 35-65 years;
+* BMI \> 40 kg/m2;
+* BMI \> 35 and \<40 kg/m2 with co-morbidity, which is expected to improve after surgically-induced weight loss;
+* A history of longstanding obesity (\>5 years);
+* Proven failed attempts to lose weight in a conventional way, or primarily successful weight loss with eventual weight regain;
+* Intention to adhere to a postoperative follow-up programme.
+
+Exclusion Criteria:
+
+* BMI\> 50 or body weight \> 150 kg (because it is impossible to safely put people above this weight on a standard table for MRI);
+* Subjects with disease related obesity, i.e. Cushing or medication related obesity;
+* Use of medication known to affect glucose or lipid metabolism (i.e. prednisone)
+* Monogenetic diabetes: MODY, Mitochondrial diabetes;
+* LADA (adult-onset latent autoimmune diabetes); detected by c-peptide measurement on screening.
+* Impaired renal function (serum creatinine \> 176 μmol/L);
+* Leg ulcers, gangrene.
+* Any genetic or psychiatric disease (e.g. fragile X syndrome, major depression) affecting the brain
+* Any significant chronic disease
+* Renal or hepatic disease
+* Pregnancy
+* Recent weight changes or attempts to loose weight (\> 3 kg weight gain or loss, within the last 3 months)
+* Aerobic exercise more that 3 times 60 minutes a week
+* Alcohol consumption of more than 28 units per week at present or in the past
+* Recent blood donation (within the last 2 months)
+* Recent participation in other research projects (within the last 3 months), participation in 2 or more projects in one year
+* Contra-indications to operative procedures as regular in bariatric surgery
+* Contra-indications to MRI scanning",True,FEMALE,,35 Years,65 Years,"['ADULT', 'OLDER_ADULT']",Obese (type 2 diabetic or not) population from primary care (dietary intervention) and hospital setting (bariatric surgery),PROBABILITY_SAMPLE
+NCT01283542,Evaluate the Efficacy and Safety of Pasireotide LAR (Long Acting Release) on the Treatment of Patients With Clinically Non-Functioning Pituitary Adenoma.,"Inclusion Criteria:
+
+* Non-functioning pituitary adenoma ≥ 1cm, patients without any previous treatment for the tumor
+* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1
+
+Exclusion Criteria:
+
+* Patients who required a surgical intervention for relief of any sign or symptom associated with tumor compression
+* Previous pituitary surgery
+* Previous medical treatment for pituitary tumor
+* Patients who had received pituitary irradiation within 10 years prior to randomization
+* Prolactin (PRL) levels \> 100 ng/mL. PRL evaluation should have been performed with diluted samples to ensure ""hook effect."" was avoided
+* Patients who presented prolactinomas, acromegaly or Cushing's disease
+* Patients with compression of the optic chiasm causing acute clinically significant visual field defects",False,ALL,,18 Years,,"['ADULT', 'OLDER_ADULT']",,
+NCT03404414,Detection of Functioning Pituitary Microadenoma: PET/MRI Versus PET/CT,"Inclusion Criteria:
+
+* Patients who were pathologically diagnosed with pituitary adenoma after surgery were recruited, and were able to provide basic information and sign the written informed consent form.
+
+Exclusion Criteria:
+
+* The exclusion criteria included claustrophobia, kidney or liver failure, and inability to fulfill the study.",True,ALL,,18 Years,80 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT00697814,Clomiphene in Males With Prolactinomas and Persistent Hypogonadism,"Inclusion Criteria:
+
+* a minimum follow-up of 6 months under DA therapy with normal serum prolactin or with maximum DA dose (3.5 mg/week of cabergoline or 10 mg/day of bromocriptine for at least 2 months)
+* serum total testosterone less than 300ng/dl with normal or low LH and FSH levels after discontinuing testosterone replacement for at least 2 months.
+
+Exclusion Criteria:
+
+* impossibility to attend scheduled visits and irregular compliance to DA treatment.",False,MALE,,18 Years,70 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT01620138,Response to Cabergoline and Pasireotide in Non-functioning Pituitary Adenomas and Resistant Prolactinomas,"Inclusion Criteria
+
+* Male or female patients aged 18 years or greater
+* Patients with confirmed diagnosis of NFPA evidenced by: magnetic resonance imaging (MRI) confirmation of pituitary adenoma and No pituitary tumoral hormone hypersecretion
+* Patients with no previous medical treatment
+* Patients who had been submitted to surgery but not cured. Lack of cure is defined as presence of remnant tumor on MRI at least three months after surgery (without any possible misinterpretation of postsurgical changes)
+* Patients with confirmed diagnosis of resistant prolactinoma by lack of prolactin normalization with a tolerated cabergoline dosage during 12 weeks
+* Patients who had been submitted to surgery due to resistance to cabergoline and not cured. Lack of cure is defined as lack of serum prolactin normalization or complete removal of tumor load
+* Patients who signed the informed consent
+
+Exclusion Criteria
+
+* Previous pituitary radiotherapy
+* High risk for transsphenoidal surgery
+* Patients with symptomatic cholelithiasis
+* Diabetic patients on antidiabetic medications those fasting blood glucose is poorly controlled as evidenced by HbA1C \> 8%
+* Patients with abnormal coagulation (prothrombin time (PT) or partial thromboplastin time (PTT) elevated by 30% above normal limits);
+* Patients receiving anticoagulants that affect PT or PTT
+* Patients who have congestive heart failure (NYHA Class III or IV), unstable angina, sustained ventricular tachycardia, clinically significant bradycardia, advanced heart block, history of acute MI less than one year prior to study entry or clinically significant impairment in cardiovascular function
+* Patients with risk factors for torsade de pointes, i.e. patients with a baseline corrected QT interval (QTc) \> 480 ms, hypokalemia, family history of long QT syndrome, and concomitant medications known to prolong QT interval
+* Patients with liver disease such as cirrhosis, chronic active hepatitis, or chronic persistent hepatitis, or patients with (alanine aminotransferase) ALT/ (aspartate aminotransferase) AST more than 2 X upper limit of normal (ULN), serum creatinine \> 2.0 X ULN, serum bilirubin \> 2.0 X ULN, serum albumin \< 0.67 X lower limit of normal (LLN)
+* Patients with white blood cell (WBC) \< 3 X 109/L; Hgb \< LLN; Platelet count (PLT) \< 100 X 109/L
+* Patients who have any current or prior medical condition that can interfere with the conduct of the study or the evaluation of its results in the opinion of the investigator
+* Female patients who are pregnant or lactating, or are of childbearing potential and not practicing a medically acceptable method for birth control. Female patients must use barrier contraception with condoms. If oral contraception is used, the patient must have been practicing this method for at least two months prior to enrollment and must agree to continue the oral contraceptive throughout the course of the study and for one month after the last dose of study drug. Male patients who are sexually active are required to use condoms during the study and for 1 month afterwards
+* Patients who have a history of alcohol or drug abuse in the 6 month period prior to receiving pasireotide",False,ALL,,18 Years,,"['ADULT', 'OLDER_ADULT']",,
+NCT00435643,Influence of nCPAP on Metabolic Consequences Associated With OSAS,"Inclusion Criteria:
+
+* Aged from 18 to 65 years
+* Body mass index between 35-60 who were submitted to polysomnography
+
+Exclusion Criteria:
+
+* History of smoking
+* Sleep apnea treatment
+* Cardiovascular disease
+* Malignancies tumor
+* Thyroid disorders
+* Depression
+* Subjects with known diabetes mellitus on medications
+* Chronic renal or hepatic failure
+* On hormonal replacement therapy, as well as use of medication that could potentially affect steroid hormone or cytokines secretion (alcohol, psychotropics, steroids, sympathomimetics, beta-blockers).",True,ALL,,18 Years,65 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT04218721,Implementing eHealth Interventions Into Regular Clinical Practice,"Inclusion Criteria:
+
+* Patients with a renal transplant (RTX) OR patients with Non functioning pituitary adenomas (NFPA)
+* Able to read and speak Norwegian
+* Have access to a Smart-phone or tablet
+* Have their own secure access device (BankID).
+
+Exclusion Criteria:
+
+* N/A",False,ALL,,18 Years,,"['ADULT', 'OLDER_ADULT']",,
+NCT01606384,Evaluation of the Potential Effects of SSR149415 on the Hypothalamic-pituitary-adrenal Axis in Outpatients With Major Depressive Disorder,"Inclusion criteria :
+
+* Diagnosis of major depressive disorder as defined by the Diagnostic and Statistical Manual of Mental Disorders, 4th Edition-Text Revision (DSM-IV-TR) and the Mini International Neuropsychiatric Interview (MINI) criteria.
+
+Exclusion criteria:
+
+* Outpatients unwilling to be hospitalized a total of 6 nights and 8 days.
+* Total score of less than 21 (\<21) on the 17-item Hamilton Depression Rating Scale (HAM-D) at Visit 1 (Day -7) or Visit 5 (Day -1).
+* Patients whose current depressive episode is diagnosed with psychotic features, catatonic features, seasonal pattern or post-partum onset or is secondary to a general medical disorder.
+* Patients with alcohol dependence or abuse or substance dependence or abuse in the past 12 months according to the MINI, except nicotine or caffeine dependence.
+* Patients who have used the following prior to entry into Segment B: any antipsychotic within 3 months; fluoxetine within 1 month; any monoamine oxidase inhibitor (MAOI) within 2 weeks; any other antidepressant, anxiolytic, sedative-hypnotic, or mood-stabilizer (lithium, anticonvulsants) within 7 days except permitted concomitant medications
+* The above information is not intended to contain all considerations relevant to a patient's potential participation in a clinical trial.",False,ALL,,18 Years,64 Years,['ADULT'],,
+NCT00149721,Anterior Pituitary Function in Patients With Hydrocephalus,"Inclusion Criteria:
+
+Diagnosis of idiopathic hydrocephalus, made by clinical and CT or MRI imaging demonstrating ventricular dilation, and confirmed by an established protocol of continuous CSF drainage via spinal catheter. Patients who are found to be eligible for VP shunt insertion on the basis of improvement in cognition/psychomotor speed, gait, or urinary continence are referred for surgery
+
+Exclusion Criteria:
+
+Known peripheral gland failure (primary hypogonadism, primary adrenal insufficiency, primary hypothyroidism); known history of pituitary tumor, pituitary surgery, pituitary hemorrhage, brain irradiation, or of identified causes of secondary hydrocephalus (subarachnoidal bleeding, meningitis, encephalitis, head trauma).",False,ALL,,18 Years,80 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT06297473,Physical Attendance Versus Telephone or Video Follow-up in Patients With Non-functioning Pituitary Tumors.,"Inclusion Criteria:
+
+* Non-functioning pituitary tumor
+* Diagnosed \> 6 months from enrollment, i.e. found on MRI.
+
+Exclusion Criteria:
+
+* Planned pituitary surgery
+* Planned radiotherapy
+* Poor Danish skills
+* Patient is considered by the treating physician unsuitable for follow-up by telephone or video",False,ALL,,18 Years,,"['ADULT', 'OLDER_ADULT']",,
+NCT03831958,Long-Term Follow-Up of Survivors of Pediatric Cushing Disease,"* INCLUSION CRITERIA:
+
+  1. Males and females 10-42 years old (subjects) who were previously diagnosed and had successful treatment of CD before the age of 21 years old. Patients who have undergone therapies other than surgical resection (such as radiation or medical treatment) will be eligible to participate.
+  2. Normocortisolemia or hypocortisolemia at the time of the study (as documented within past 6 months of recruitment) documented as urine free cortisol or midnight/afternoon serum or salivary cortisol levels within or below the normal range or documented panhypopituitarism (on glucocorticoid replacement).
+  3. Patients or a legal guardian (in case of cognitively impaired adults or children) must provide assent/consent at the time of the recruitment.
+  4. Family members (2- 90 yrs.) of patients with a family history of pituitary tumors and who agree to participate in the DNA/linkage analysis study.
+
+EXCLUSION CRITERIA:
+
+1. Pregnancy
+2. Patients with any medical, physical, psychiatric, or social conditions, which, in the opinion of the investigators, would make participation in this protocol not in their best interest, will be excluded from the on-site visit of the study. Patients who are critically ill, unstable, or with severe organ failure that may affect/limit the endocrine evaluation and place unsustainable demands on Clinical Center or NICHD resources will be excluded. They will still be offered the opportunity to participate in the online questionnaire part of the study.",True,ALL,,2 Years,90 Years,"['CHILD', 'ADULT', 'OLDER_ADULT']","The study population will consist of patients that were previously successfully treated for CD before the age of 21 years. We aim to identify these patients through review of our current protocol 97-CH-0076 on Clinical and genetic investigation of pituitary and hypothalamic tumors , which has been recruiting patients since 1997. We will also accept patients who have been diagnosed and successfully treated for pediatric CD at outside institutions after reviewing the medical records and confirming their diagnosis. The patients must be normocortisolemic at the time of their recruitment. Family members of subjects who are survivors of pediatric Cushing disease will be invited to participate in the DNA/linkage analysis study.",NON_PROBABILITY_SAMPLE
+NCT03043924,Functional Study of the Hypothalamus in Magnetic Resonance Imaging (MRI) in Polycystic Ovary Syndrome (PCOS),"Inclusion Criteria:
+
+For all subjects
+
+* Aged from 19 to 30 years
+* Body mass index : 18-25
+* Informed consent before inclusion
+* Do not smoke the 3 days before the MRI
+
+For Healthy volunteers subjects :
+
+* Regular cycles (between 25 and 35 days) AND ovulatory.
+* No signs of hyperandrogenism.
+* Subjects desirous of taking oral contraceptives (estrogen/progestin combination).
+* For the realization of the 2nd MRI: to be during the 3rd month of a treatment well followed by oestro-progestative monophasic minidose to 0,02mg of Ethinyl-oestradiol / 0,1mg Levonorgestrel.
+
+PCOS women:
+
+* PCOS defined by Rotterdam criteria
+* Needing a treatment with cyproterone acetate
+* To carry out the 2nd MRI: to be in progress during the 3rd month of a treatment well followed by 50 mg of Cyproterone acetate in association with 2mg / day of natural estradiol.
+
+Exclusion Criteria:
+
+* Hormone treatment within 3 months prior to inclusion (including birth control pill )
+* On-going pregnancy (determined before each MRI scan visit)
+* Claustrophobia
+* Any metal or foreign implants (e.g., aneurysm clips, ear implants, heart pacemakers or defibrillators)
+* Diabetes or known dysthyroidism.
+* Current substance abuse (including smoking more than 5 cigarettes/day; determined using drug screening at the screening visit)
+* Pregnancy or breastfeeding the last 3 months.
+* Practice of intense physical exercise (ex jogging\> 10km) the day before the MRI.
+* Person incapable of consenting, or enjoying legal protection (guardianship / curatorship).
+* Unability to understand the treatment protocol",True,FEMALE,,19 Years,30 Years,['ADULT'],,
+NCT05069324,PegvisOMant and the Immune SystEm (PROMISE),"Inclusion Criteria:
+
+* Previously diagnosed acromegaly not adequately controlled by surgery and/or radiation therapy and in whom an appropriate medical treatment with any kind of somatostatin analogs (SSAs) did not control the disease or was not tolerated;
+* Previously diagnosed acromegaly adequately controlled by medical treatment;
+* Signed informed consent to participate in the study.
+
+Exclusion Criteria:
+
+* Adequately controlled disease by surgery and/or radiation;
+* Patients with transaminases more than 3 times the upper limit of normal;
+* Hypersensitivity to PEG or any of its ingredients;
+* History of other neoplasms, radiotherapy or chemotherapy in the last 5 years;
+* Clinical or laboratory signs of significant hepatobiliary, or pancreatic disease;
+* Severe infections, surgery, trauma requiring hospitalization within 3 months before enrolment;
+* Severe chronic kidney disease (stage 4-5);
+* Any active blood or rheumatic disorders in the last 5 years;
+* Pregnant or nursing women.",,ALL,,18 Years,75 Years,"['ADULT', 'OLDER_ADULT']","10 patients with acromegaly not well controlled by SSAs therapy (cohort 1), requiring add PEG to SSAs or switch to PEG monotherapy, according to common clinical practice.
+
+20 patients adequately controlled by medical therapy (cohort 2), treated by any kind of SSAs or by PEG .
+
+30 age- and sex matched controls.",NON_PROBABILITY_SAMPLE
+NCT05005715,Effect of Dexmedetomidine on Quality of Recovery in Non-functioning Pituitary Adenoma Patients Undergoing Endoscopic Transsphenoidal Surgery,"Inclusion Criteria:
+
+* Non-functioning patients undergoing endoscopic transsphenoidal tumor surgery under general anesthesia
+
+Exclusion Criteria:
+
+* Patients who do not agree to participate in the study
+* Patients with contraindication to dexmedetomidine
+* Patients with previous history of endoscopic transsphenoidal tumor surgery
+* Patients who take anticoagulants or have bleeding disorder
+* Patients with conduction block or cardiovascular disease
+* Patients with psychiatric disease such as dementia, delirium
+* Patients have difficulty filling out the QoR-15 questionnaire
+* Pregnant or lactating women
+* Patients who have allergies to propofol, remifentanil, fentanyl or rocuronium
+* Patients with myasthenia gravis or myasthenic syndrome",False,ALL,,20 Years,65 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT03591315,Clinical Study of Structural and Functional Evaluation of the Visual Pathway,"Inclusion Criteria:
+
+1. patients with sellar area tumors ( including pituitary adenoma,craniopharyngioma and meningioma) resulting a visual deficit (loss of visual acuity or visual field).
+2. Male or female between 18y to 60y.
+3. Patients treated with transsphenoidal surgery.
+4. Patients agreeing to participate in the study and willing to sign an informed consent.
+
+Exclusion Criteria:
+
+1. tumor height ≥ 4cm.
+2. Patients with recurrent tumors, previous craniotomy or gamma knife treatment
+3. Visual impairment caused by other diseases.
+4. Mental disorders, inability to cooperate with treatment and follow up visits.
+5. Patients with other serious complications.",True,ALL,,18 Years,60 Years,['ADULT'],Admitted sellar area tumor patients in the Neurosurgery Department at Xiangya Hospital of Central South University.,NON_PROBABILITY_SAMPLE
+NCT00555009,Treatment Of Adult Growth Hormone Deficiency After Traumatic Brain Injury,"Inclusion Criteria:
+
+* Have had a previous traumatic brain injury (more than 1 year and less than 20 years) prior to the screening visit.
+* Have an Extended Glasgow Outcome Scale (GOS-E) more than or equal to 5.
+* Have proven GHD deficiency
+
+Exclusion Criteria:
+
+* Active systemic malignancy or active intracranial tumor. A successfully treated tumor or malignancy is not an exclusion criterion if the patient has not had active disease for 5 years and is not currently receiving maintenance chemotherapy, (except for basal cell skin cancers.
+* Receiving treatment with prednisolone in doses above 10 mg/day or treatment with other oral glucocorticosteroids above replacement doses is not permitted throughout the study. Topical and inhaled corticosteroids are permitted.
+* History of dementia unrelated to TBI
+* History of benign intracranial hypertension",False,ALL,,18 Years,55 Years,['ADULT'],,
+NCT04874909,"Classification, Functional Stratification and Biomarkers in Ciliopathy (CILLICORIRCM)","Inclusion Criteria:
+
+""Case"" Patient :
+
+* with nephronophthisis or ciliopathy with known genetic diagnosis or not
+* signed the Informed consent form (patient or legal guardians if minor/incapable major)
+* no limit of age, this patients could be recruited from the birth
+* social insurance affiliation
+
+Healthy related individual :
+
+* related with a included patient (father, mother, brother, sister)
+* signed the Informed consent form (major or legal guardians if minor/incapable major)
+* no limit of age, this patients could be recruited from the birth
+* social insurance affiliation
+
+""Negative Control"" patient :
+
+* without chronic renal failure
+* signed the Informed consent form (major or legal guardians if minor/incapable major)
+* no limit of age, this patients could be recruited from the birth
+* social insurance affiliation
+
+""Positive Control"" patient :
+
+* with chronic renal failure not related with a ciliary dysfunction
+* signed the Informed consent form (major or legal guardians if minor/incapable major)
+* no limit of age, this patients could be recruited from the birth
+* social insurance affiliation
+
+Exclusion Criteria ""Case"" Patient :
+
+* pregnant, parturious and nursing mothers.
+* with functional renal graft
+* use an experimental treatment during 30 days before inclusion date
+
+Healthy related individual :
+
+- pregnant, parturious and nursing mothers.
+
+""Negative Control"" patient :
+
+- pregnant, parturious and nursing mothers.
+
+""Positive Control"" patient :
+
+* pregnant, parturious and nursing mothers.
+* with functional renal graft
+* use an experimental treatment during 30 days before inclusion date",False,ALL,,,,"['CHILD', 'ADULT', 'OLDER_ADULT']",,
+NCT04138537,Olfactory Function and Olfactory Bulb Volume in Acromegaly Patients,"Inclusion Criteria:
+
+* Acromegaly diagnosis
+* Healthy subjects that had no nasal problems
+
+Exclusion Criteria:
+
+* Previous nasal surgery
+* Acute respiratory tract infection
+* Nasal polyposis
+* Nasal pathologies that causes nasal obstruction",True,ALL,,18 Years,80 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT01368133,The Observational Study of Growth Hormone-secreting Pituitary Tumors,"Inclusion Criteria:
+
+* Clinical diagnosis of acromegaly
+* \> 18 years old",True,ALL,,18 Years,70 Years,"['ADULT', 'OLDER_ADULT']","The acromegaly patients at Huashan Hospital will be recruited anf followed up prior to surgery and one month, 3 months, 6 months and 12 months after surgery.",PROBABILITY_SAMPLE
+NCT00046553,Brain Receptor Function in Post-Traumatic Stress Disorder,"INCLUSION CRITERIA:
+
+18 to 65 years of age.
+
+Male and female.
+
+Score greater than or equal to 50 on the Clinician-Administered PTSD Scale (CAPS-2) as a baseline measure of PTSD symptom severity.
+
+Capable of providing informed consent, obtained prior to any study procedures.
+
+Free of all psychotropic medication for at least 2 weeks, excluding short-term hypnotics. Patients who were treated with fluoxetine will only be included after a medication free period of at least 8 weeks.
+
+Good physical health, confirmed by a complete physical exam (including normal vital signs), electrocardiogram, neurologic exam, and routine laboratory tests of blood and urine. However, if patients have participated in other research studies or have had blood work through their primary MD within the last 6 months, these results will be used instead of repeating blood draws for inclusion into the study.
+
+EXCLUSION CRITERIA:
+
+Patients who meet DSM-IV criteria for substance abuse (alcohol or drugs) or substance dependence within 6 months prior to screening. The effect of abuse/dependence on phenomenology and biology could mask and exceed PTSD effect.
+
+Patients at current risk for homicide or suicide.
+
+All additional DSM IV Axis I comorbidity, excluding secondary diagnoses of major depressive disorder (MDD) or anxiety disorder (AD). Given the high comorbidity of these disorders in PTSD, and since excluding such patients would not provide the full spectrum of the disorder, only patients in whom axis I diagnoses of MDD and AD preceded onset of PTSD will be excluded.
+
+Pregnant women (all stages) and women of childbearing potential who are not practicing a clinically accepted method of contraception or who have a positive pregnancy test or who are lactating.
+
+Blood donation (1 Red Cross Unit) within the 8 weeks preceding the study. This is the minimal safe period between consecutive donations.
+
+Subjects who are doing well on medication. Although we will only recruit non-medicated patients, the decision to stop medication will be taken purely on clinical grounds. No subject will be taken off medication solely to participate in the study.
+
+Unable to comply with study procedures or assessments as regards the screening evaluation (i.e. PTSD diagnosis, health requirements, etc.) and the 3 hospitalization for evaluation of glucocorticoid and mineralocorticoid receptor function.
+
+Subjects who are allergic to mifepristone, paroxetine or spironolactone, and subjects with any contraindication to treatment with these agents (as described in their current labeling), will be excluded from participation in the study.",True,ALL,,,,"['CHILD', 'ADULT', 'OLDER_ADULT']",,
+NCT04409977,Circadian Changes of the Hypothalamic Activity in Patients Suffering From Cluster Headache,"Inclusion Criteria:
+
+* Diagnosis of cluster headache (CH) may enter the patient group, patients not suffering from CH may enter the control group.
+* knowledge of the german language suffices to understand the information sheet and consent form
+* having read, understood and signed the consent form
+
+Exclusion Criteria:
+
+* Pregnancy
+* contraindications for the MRI scan (particularly metal splinters, ferromagnetic devices and implants)
+* claustrophobia
+* obesity (MRI \> 35 kg/m2)
+* shift working (last night shift must date back more than one week)
+* jet lag (last travel over more than two time zones must date back more than one week)",True,ALL,,18 Years,85 Years,"['ADULT', 'OLDER_ADULT']",Patients suffering from cluster headache.,NON_PROBABILITY_SAMPLE
+NCT00552851,Changes of Left Ventricular Mass and Cardiac Function in Patients With Active Acromegaly During Treatment With the Growth Hormone Receptor Antagonist Pegvisomant,"Inclusion Criteria:
+
+* Active acromegaly in adult subjects (≥ 18 years) after surgery and/or radiation therapy with elevated IGF-1 levels despite treatment with somatostatin analogues or dopamine agonists
+* Pegvisomant therapy is indicated (i. e. patients who have had an inadequate response to surgery and/or radiation therapy and/or other medical therapy, or for whom these therapies are not appropriate)
+* Evidence of left ventricular hypertrophy (infero-lateral wall thickness ≥ 12 mm assessed by echocardiography) or
+* Evidence of impaired diastolic function (≥ stage 2 as assessed by echocardiography) or
+* Evidence of systolic dysfunction (Ejection fraction \< 50% assessed by echocardiography)
+* Stable medication for arterial hypertension and heart failure for 3 months
+* Written informed consent.
+
+Exclusion Criteria:
+
+* Pregnancy and lactation period
+* Previous therapy with Pegvisomant
+* Suspected or known hypersensitivity to the drug or any of its components
+* Contraindications for MRI
+* History of malignancy during the last 5 years
+* Suspected or known drug or alcohol abuse
+* Patients who are neither able to self administer study medication on a daily basis nor have a caregiver who can administer study medication to the patient on a daily basis
+* Any condition which in the opinion of the investigator makes the patient unsuitable for inclusion
+* Participation in another clinical trial
+* Pituitary adenoma with a distance to the optic chiasm of \< 3 mm
+* Any other drug for treatment of acromegaly (e.g. dopamine agonists, Somatostatin analogues) which would be necessary during the study or patients who apply for radiotherapy
+* Instable heart insufficiency classified as NYHA IV.
+* Severe renal insufficiency, liver transplantation",False,ALL,,18 Years,,"['ADULT', 'OLDER_ADULT']",,
+NCT01154153,Nasacort AQ Hypothalamic-Pituitary-Adrenal (HPA) Axis Study in Children With Allergic Rhinitis,"Participants who met the following criteria were eligible for this study:
+
+Inclusion Criteria:
+
+* History of AR documented by the investigator, as follows:
+
+  * At least a 1-year clinical history (6-month history if the participant was \>= 2 to \< 4 years of age) of perennial allergic rhinitis (PAR); or a clinical history of seasonal allergic rhinitis (SAR) over 2 seasons and
+  * positive skin test (prick or intradermal) to a seasonal or perennial allergen that was present in the participant's environment at time of screening.
+* Written informed consent and ability of parent/legal guardian of the participant to give a written informed consent before any study related procedures. Participants \>=7 years of age (or younger according to the governing institutional review board \[IRB\]) had to provide a signed assent form
+
+Exclusion Criteria:
+
+* Concomitant medical condition that might have interfered with the administration of a nasal spray, including anatomical abnormalities of the nose, face (eg, polyposis, markedly deviated septum)
+* Presence of any active, untreated, or clinically significant musculoskeletal, endocrinologic, gastrointestinal, hepatic, respiratory, cardiovascular, or neurological condition that might have interfered with the study
+* Any conditions or treatment that might have affected the HPA axis or the plasma cortisol assay, including but not limited to:
+
+  * Documented disorder involving the hypothalamus, pituitary, or adrenal gland
+  * Current use of serotonergic, dopaminergic, adrenergic, cholinergic agonists and antagonists, opiates, immunomodulatory, hormonal drugs, and lipid-lowering agents
+  * Treatment with systemic corticosteroids (oral, intravenous, intramuscular, or intra-articular) within 3 months prior to Visit 1
+  * Treatment with systemic corticosteroids for \> 2 courses received up to 1 year before Visit 1 was exclusionary. Up to 2 courses of systemic corticosteroids, each course not exceeding 14 days, up to 1 year before Visit 1 was allowed
+  * Treatment with inhaled, intranasal, or high-potency topical corticosteroids within 6 weeks of Visit 1
+  * History of hospitalization due to asthma within 1 year before screening. Participants with mild asthma that was well-controlled without the use of inhaled corticosteroids within 6 weeks prior to Visit 1 were eligible for the study
+* Any clinically significant (as determined by the investigator) abnormal laboratory test at Visit 1
+* Morning serum cortisol outside the reference range at Visit 1
+* Any of the following missing serum cortisol samples from the Visit-2 collection: first sample (before administration of investigational product), 20-hour sample, 24-hour sample, or any 2 consecutive samples
+* Any medical condition where use of corticosteroids might have been contraindicated or could have led to disease exacerbation (eg, glaucoma, cataract, ocular herpes simplex, tuberculosis, growth retardation)
+* History of hypersensitivity to corticosteroids or to the rescue medication, investigational product, or to any of their excipients
+* Unresolved upper respiratory tract infection, sinus infection, or nasal candidiasis (ie, symptomatic or under treatment) within the last 2 weeks prior to Visit 1 and Visit 3
+* Females of childbearing potential not protected by effective contraceptive method of birth control or were unwilling to abstain from sexual activity and/or, were unwilling or unable to test for pregnancy. Only female adolescent with onset of menses were to be checked by serum pregnancy test at Visit 1
+* Pregnant female adolescent (who tested positive for pregnancy at Visit 1) The above information was not intended to contain all considerations relevant to potential participation in a clinical trial.",False,ALL,,2 Years,12 Years,['CHILD'],,
+NCT02560233,Modulating Stress-Reactivity by Real-Time Multimodal Functional Neuroimaging Based Neurofeedback,"Inclusion Criteria:
+
+* Sufficient spoken and written knowledge of English
+* Right-handedness
+* Ability to participate in study procedures
+
+Exclusion Criteria:
+
+* Present or past psychological or psychiatric therapy
+* Major or unstable general medical conditions
+* Presence of cardiovascular disease
+* Current intake of any medication interfering hormonal assessments
+* History of major cerebral injury
+* Medical MRI contraindication",True,MALE,,18 Years,65 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT03775993,Treatment of GHD Associated With CHF,"Inclusion Criteria:
+
+1. patients of either sex affected by CHF NYHA class I-III, secondary to ischemic or idiopathic di-lated cardiomyopathy;
+2. age range 18-85 years;
+3. stable and optimal medical therapy for at least three months prior to randomization, including ACE inhibitors or AT1 antagonists and beta-blockers (unless untolerated);
+4. LV ejection fraction 40% or less and LV end-diastolic dimension 55 mm or more;
+5. GH deficiency diagnosed with GHRH + arginine provocative test;
+6. signed informed consent.
+
+Exclusion Criteria:
+
+1. inability to perform a bicycle exercise test;
+2. poorly controlled diabetes mellitus (HbA1c \>8.5) and/or active proliferative or severe non-proliferative diabetic retinopathy;
+3. active and/or history of malignancy;
+4. unstable angina or recent myocardial infarction (less than six months);
+5. severe liver or kidney disease (serum creatinine levels \>2.5 mg/dl",False,ALL,,18 Years,85 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT01373528,Impact of Topical Sinonasal Budesonide Irrigation on Hypothalamic-Pituitary-Adrenal Axis Function,"Inclusion Criteria:
+
+* Consenting adult patients (age ≥18) who are diagnosed with CRS
+* Patient already determined to need surgical treatment having failed medical management
+* Patients planned to be treated with budesonide irrigations as postoperative maintenance therapy
+
+Exclusion Criteria:
+
+* Patients with pre-operative symptoms and signs of HPA dysfunction
+* Patients with signs and symptoms of untreated endocrine disorders such as hypothyroidism, hypopituitarism, hypogonadism. Screening for thyroid disease will be done with a TSH, T3 and free T4 for each participant.
+* Patients with known history of liver disease or abnormal AST/ALT lab tests
+* Any history of oral glucocorticoid use in the past 4 months
+* Patients with a known history of glaucoma
+* Patients with known tuberculosis (TB)- active or latent
+* Patients taking drugs that affect cortisol synthesis (mifepristomine, itraconazole, ketoconazole, erythromycin, clarithromycin, cimetidine) or protein binding drugs (estrogens and androgens)
+* A known sensitivity to topical budesonide
+* Pregnant and/or breast feeding woman
+* Presence of multiple co-morbidities such as poorly controlled diabetes, chronic renal failure, hepatic failure
+* Inability to provide informed consent",False,ALL,,18 Years,,"['ADULT', 'OLDER_ADULT']",,
+NCT00116883,A Study Of GW685698X For The Treatment Of Perennial Allergic Rhinitis In Pediatrics,"Inclusion criteria:
+
+* Diagnosis and history of perennial allergic rhinitis.
+* Must be willing to stay overnight in the clinic at the beginning and end of the study for the collection of urine and blood samples over 24 hours.
+* Must comply with all study procedures and be literate.
+
+Exclusion criteria:
+
+* Significant concurrent medical conditions.
+* Certain medications such as corticosteroids and allergy medications.",False,ALL,,2 Years,11 Years,['CHILD'],,
+NCT06163261,Individualized Physical Activity or Patients With Non Functioning Pituitary Adenoma,"Inclusion Criteria:
+
+* Patients with clinically significant non-functioning pituitary adenoma treated with surgery during the last ten years
+* Stable hormone replacement therapy ≥ 6 months
+* Ability to communicate in Swedish.
+
+Exclusion Criteria:
+
+* Patients with any other pituitary tumors than non-functioning pituitary adenoma
+* Patients who possibly need tumor intervention, either with surgery or radiotherapy, within one year
+* Other diseases or co-morbidities that may have significant impact on the outcome variables, including:
+* Ongoing substance abuse and/or untreated psychiatric disorder, including psychoses and bipolar disease (except treatment with SSRI (Selective Serotonin Reuptake Inhibitor) and or SNRI (Serotonin-Norepinephrine Reuptake Inhibitor) for mild/moderate depression and/or anxiety which is allowed).
+* Medical therapy with opioids, sedatives or hypnotics (besides treatment with zopiclone and zolpidem which are allowed).
+* Current or previous history of neurological diseases with impaired mobility.
+* High alcohol consumption (more than 14 alcohol units per week)
+* Ongoing treatment for cancer.
+* Uncontrolled hypertension or presence of clinically significant cardiac disease
+* Severe respiratory insufficiency.
+* Severely impaired hepatic function (ALT (Alanine Aminotransferase) and/or AST (Aspartate Aminotransferase) concentrations two times above the upper limit of normal).
+* Severely impaired renal function (Glomerular filtration rate \<45 ml/min).
+* Untreated hypo- or hyperthyroidism
+* Pregnancy or breast feeding.",False,ALL,,18 Years,75 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT04840771,Predictive OCTA Biomarkers After Endoscopic Endonasal Pituitary Surgery,"Inclusion Criteria:
+
+* age older than 40 years
+* diagnosis of pituitary adenoma
+* treatment-naïve with Endoscopic Endonasal Pituitary Surgery
+* absence of other neurological diseases
+* absence of vitreoretinal and vascular retinal diseases
+
+Exclusion Criteria:
+
+* age younger than 40 years
+* No diagnosis of pituitary adenoma
+* previous treatments with Endoscopic Endonasal Pituitary Surgery
+* presence of neurological diseases
+* presence of vitreoretinal and vascular retinal diseases",False,ALL,,40 Years,65 Years,"['ADULT', 'OLDER_ADULT']",The participans were older than 4 years with pituitary adenoma. They did not present other ophthalmological and neurological diseases.,NON_PROBABILITY_SAMPLE
+NCT03877393,"The Effect of Probiotic Supplementation on the Mental Status, Inflammation, and Intestinal Barrier in Major Depressive Disorder Patients Using Gluten-free or Gluten-containing Diet","Inclusion Criteria:
+
+1. Outpatients aged 18-60 years old;
+2. Signed written Informed Consent Form;
+3. Meet the DSM-5 criteria for MDD;
+4. Body mass index (BMI) ≥18.5 kg/m2 and ≤30 kg/m2;
+5. MADRS (Montgomery-Asberg Depression Scale) total score at screening (V0) and at baseline (V1) of 20 points or more (moderate or severe depression);
+6. A willingness and motivation to follow the study protocol.
+
+Exclusion Criteria:
+
+1. Diagnosis of autoimmune, neurological, immunocompromised, thyroid, inflammatory bowel diseases, diabetes, cancers, and/or IgE-dependent allergy;
+2. Psychiatric comorbidities (except specific personality disorder) including mental retardation, organic brain dysfunction, or addiction (except nicotine and caffeine);
+3. High risk of suicide in the investigator's opinion;
+4. An infection one month before the study baseline visit (V1);
+5. The use of antibiotics and/or probiotics three months prior to the study;
+6. Glucocorticosteroids and/or metformin treatment;
+7. Intake of any other drugs which in the investigator' opinion may affect the results of study;
+8. Intake of any dietary supplementation (except for vitamin D according to the ""Vitamin D supplementation guidelines, 2018"") which in the investigator' opinion may affect the results of the study;
+9. Changes in a pharmacotherapy and/or psychotherapy of MDD 2 weeks before the trial entry;
+10. Electroconvulsive therapy (ECT) 12 months before the trial entry;
+11. No specific diet (e.g., elimination, vegan, reduction) and changes in physical activity 4 weeks before the trial entry;
+12. Pregnancy or lactation.",False,ALL,,18 Years,60 Years,['ADULT'],,
+NCT02507245,Observational Longitudinal Study in Children Affected by Idiopathic Growth Hormone Deficiency (GHD),"Inclusion Criteria:
+
+* GH deficiency
+
+Exclusion Criteria:
+
+* Respiratory infections 4 weeks before the recruitment
+* Children with autoimmune diseases
+* Therapy with drugs able to modify the lung function",False,ALL,,5 Years,15 Years,['CHILD'],"48 children affected by GH deficiency , recruited in the outpatient clinic of Pediatric Allergology \& Pulmonology (PAP) of Respiratory Disease Research Center (RDRC) within the Institute of Biomedicine and Molecular Immunology (IBIM) of the National Research Council (CNR) of Palermo (RDRC-IBIM CNR), Italy.",NON_PROBABILITY_SAMPLE
+NCT00934271,Fractionated Stereotactic Radiotherapy in Patients With Acromegaly,"Inclusion Criteria:
+
+adults active acromegaly pituitary tumour on MRI biochemical activity -
+
+Exclusion Criteria:
+
+pregnancy no visible tumour on MRI
+
+-",False,ALL,,18 Years,,"['ADULT', 'OLDER_ADULT']",34 patients with active acromegaly despite medical therapy,PROBABILITY_SAMPLE
+NCT03566511,Use of Functional MRI to Assess Functional Hypothalamic Activation in Response to Diazoxide,"Inclusion Criteria:
+
+* Type 2 Diabetes (T2D)
+
+  * Age: Between 21 and 70 y.o.
+  * BMI: \<35
+  * A1c 8.0-12.0%
+  * Negative drug screen
+  * Not suffering from proliferative retinopathy, significant diabetic renal disease or severe neuropathy (including cardiovascular and gastrointestinal autonomic dysfunction)
+* Healthy (ND)
+
+  * Age: Between 21 and 70 y.o.
+  * BMI: \<30
+  * Negative drug screen
+  * No family history of diabetes among first-degree relatives (mother, father)
+
+Exclusion Criteria:
+
+* Age: Under 21 or over 70 y.o.
+* BMI: \>35 for T2D and \>30 for ND
+* Hypertension
+* Severe polydipsia and polyuria
+* Uncontrolled hyperlipidemia
+* Clinically significant liver dysfunction
+* Clinically significant kidney dysfunction
+* Anemia
+* Clinically significant leukocytosis or leukopenia
+* Clinically significant thrombocytopenia or thrombocytosis
+* Coagulopathy
+* Positive urine drug screen
+* Urinalysis: Clinically significant abnormalities
+* Clinically significant electrolyte abnormalities
+* Smoking \>10 cig/day
+* Alcohol: Men \>14 drinks/wk or \> 4 drinks/day, Women \>7 drinks/wk or \>3 drinks/day
+* History of chronic liver disease, active hepatitis infection, HIV/AIDS, chronic kidney disease (stage 3 or greater), active cancer, cardiovascular disease or other heart disease, systemic rheumatologic conditions, seizures, bleeding disorders, muscle disease
+* Surgeries that involve removal of endocrine glands except for thyroidectomy
+* Pregnant women
+* Subject enrolled in another study less than one month prior to the anticipated start date of the proposed study
+* Family history: family history of premature cardiac death
+* Allergies to medication administered during study
+* Uncontrolled psychiatric disorders
+* Perimenopausal women who are experiencing/have experienced hot flashes
+* Any contraindications for MRI: presence of any non-MRI compatible implants including pacemaker, aneurysm clip, cochlear implant, neurostimulator; history of eye injury with metal; history of ever being a metal worker; history of gunshot wounds or any other imbedded metal objects; history of claustrophobia or prior episodes of significant anxiety or discomfort while obtaining an MRI.
+* Any condition which in the opinion of the PI makes the subject ill-suited for participation in the study",True,ALL,,21 Years,70 Years,"['ADULT', 'OLDER_ADULT']",,
+NCT02803697,"Predictive Factors of Recurrence of Non Functioning Pituitary Adenomas : a Retrospective Study of 220 Patients in the Reims University Hospital, France","Inclusion Criteria:
+
+* Patients \>18 year-old
+* diagnosis of NFPAs confirmed with hormonal and histological analysis
+* patients who underwent surgery in neurosurgery unit of the Reims university hospital between 01/01/1991 and 31/12/2004
+
+Exclusion Criteria:
+
+-",False,ALL,,18 Years,,"['ADULT', 'OLDER_ADULT']","All patients who underwent surgery for a NFPA in Reims university hospital between 01/01/1991 and 31/12/2004, at least 10 years of follow-up. One group.",NON_PROBABILITY_SAMPLE
