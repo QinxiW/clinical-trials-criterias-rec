@@ -76,7 +76,7 @@ def main(file_location_path: str, lemma=False):
     # clean text columns
     df = text_columns_process(df, text_columns=["eligibilityCriteria", "studyPopulation"])
 
-    columns_to_keep = [col for col in df.columns if '_cleaned' in col] + ["nctId", "healthyVolunteers",
+    columns_to_keep = [col for col in df.columns if '_cleaned' in col] + ["nctId", "briefTitle", "healthyVolunteers",
                                                                           "sex", "genderBased", "minimumAge",
                                                                           "maximumAge", "stdAges"]
     columns_with_mv = df[columns_to_keep].columns[df[columns_to_keep].isnull().any()]
