@@ -1,0 +1,2998 @@
+nctId,ec_single,relation
+NCT05410886,"```json
+[
+    {
+        ""entity"": ""woman"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""18-58 years"",
+        ""category"": ""Measurement""
+    },
+    {
+        ""entity"": ""age"",
+        ""category"": ""Observation""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Observation"",
+        ""name"": ""woman""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Observation"",
+        ""name"": ""age"",
+        ""value"": {
+            ""range"": {
+                ""lower_bound"": 18,
+                ""upper_bound"": 58,
+                ""unit"": ""years""
+            }
+        }
+    }
+]
+```"
+NCT05410886,"```json
+[
+    {
+        ""entity"": ""Secondary amenorrhea"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""menstrual cycle interval persistently exceeding 45 days"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""period loss for 3 months or more"",
+        ""category"": ""Condition""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""Secondary amenorrhea""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Condition"",
+        ""name"": ""menstrual cycle interval persistently exceeding 45 days""
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Condition"",
+        ""name"": ""period loss for 3 months or more""
+    }
+]
+```"
+NCT05410886,"```json
+[
+    {
+        ""entity"": ""primary amenorrhea"",
+        ""category"": ""Condition""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""primary amenorrhea""
+    }
+]
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""Female"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""age 14-25 years"",
+        ""category"": ""Measurement""
+    },
+    {
+        ""entity"": ""skeletally mature"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""bone age ≥ 14 years"",
+        ""category"": ""Measurement""
+    },
+    {
+        ""entity"": ""only 2% of growth left"",
+        ""category"": ""Measurement""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Observation"",
+        ""name"": ""Female""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Observation"",
+        ""name"": ""age"",
+        ""value"": {
+            ""range"": {
+                ""lower_bound"": 14,
+                ""upper_bound"": 25,
+                ""unit"": ""years""
+            }
+        }
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Condition"",
+        ""name"": ""skeletally mature""
+    },
+    {
+        ""id"": 4,
+        ""type"": ""Observation"",
+        ""name"": ""bone age"",
+        ""value"": {
+            ""range"": {
+                ""lower_bound"": 14,
+                ""unit"": ""years""
+            }
+        }
+    },
+    {
+        ""id"": 5,
+        ""type"": ""Observation"",
+        ""name"": ""growth left"",
+        ""value"": {
+            ""range"": {
+                ""upper_bound"": 2,
+                ""unit"": ""%""
+            }
+        }
+    }
+]
+```"
+NCT06533865,"```json
+[]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""Type 2 diabetes mellitus""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""Metformin""
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Measurement"",
+        ""name"": ""Serum creatinine""
+    },
+    {
+        ""id"": 4,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""Chemotherapy""
+    },
+    {
+        ""id"": 5,
+        ""type"": ""Observation"",
+        ""name"": ""Smoking""
+    },
+    {
+        ""id"": 6,
+        ""type"": ""Observation"",
+        ""name"": ""30 to 75 years old"",
+        ""value"": {
+            ""range"": {
+                ""lower_bound"": 30,
+                ""upper_bound"": 75,
+                ""unit"": ""years""
+            }
+        }
+    }
+]
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""Negative"",
+        ""category"": ""Qualifiers/Modifiers""
+    },
+    {
+        ""entity"": ""βHCG (pregnancy test)"",
+        ""category"": ""Observation""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Observation"",
+        ""name"": ""βHCG (pregnancy test)"",
+        ""value"": {
+            ""qualitative"": ""Negative""
+        }
+    }
+]
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""TSH"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""prolactin"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""potassium"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""magnesium"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""within the normal range"",
+        ""category"": ""Qualifiers/Modifiers""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Observation"",
+        ""name"": ""TSH"",
+        ""value"": {
+            ""qualitative"": ""within the normal range""
+        }
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Observation"",
+        ""name"": ""prolactin"",
+        ""value"": {
+            ""qualitative"": ""within the normal range""
+        }
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Observation"",
+        ""name"": ""potassium"",
+        ""value"": {
+            ""qualitative"": ""within the normal range""
+        }
+    },
+    {
+        ""id"": 4,
+        ""type"": ""Observation"",
+        ""name"": ""magnesium"",
+        ""value"": {
+            ""qualitative"": ""within the normal range""
+        }
+    }
+]
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""Serum ALT"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""≤ 3 times upper limit of normal"",
+        ""category"": ""Measurement""
+    },
+    {
+        ""entity"": ""LDL"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""≤ 190 mg/dl"",
+        ""category"": ""Measurement""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Observation"",
+        ""name"": ""Serum ALT"",
+        ""value"": {
+            ""range"": {
+                ""upper_bound"": 3.0,
+                ""unit"": ""times upper limit of normal""
+            }
+        }
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Observation"",
+        ""name"": ""LDL"",
+        ""value"": {
+            ""range"": {
+                ""upper_bound"": 190.0,
+                ""unit"": ""mg/dl""
+            }
+        }
+    }
+]
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""eGFR"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""≥ 30ml/minute"",
+        ""category"": ""Measurement""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Observation"",
+        ""name"": ""eGFR"",
+        ""value"": {
+            ""range"": {
+                ""lower_bound"": 30.0,
+                ""upper_bound"": null,
+                ""unit"": ""ml/minute""
+            }
+        }
+    }
+]
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""Less than 3 menses"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""in the preceding 6 months"",
+        ""category"": ""Temporal Constraints""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Observation"",
+        ""name"": ""Less than 3 menses"",
+        ""occurrence"": {
+            ""operator"": ""at most"",
+            ""number"": 3
+        },
+        ""temporal"": {
+            ""start"": {
+                ""number"": 6,
+                ""unit"": ""months""
+            },
+            ""end"": {
+                ""number"": 0,
+                ""unit"": ""months""
+            },
+            ""reference_event"": 1
+        }
+    }
+]
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""BMD Z-score"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""< -1.0"",
+        ""category"": ""Measurement""
+    },
+    {
+        ""entity"": ""≥ 1 skeletal site"",
+        ""category"": ""Measurement""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Observation"",
+        ""name"": ""BMD Z-score"",
+        ""value"": {
+            ""range"": {
+                ""lower_bound"": -1.0,
+                ""unit"": """"
+            }
+        },
+        ""occurrence"": {
+            ""operator"": ""at least"",
+            ""number"": 1
+        }
+    }
+]
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""Dental check-up"",
+        ""category"": ""Procedure/Device""
+    },
+    {
+        ""entity"": ""within the past year"",
+        ""category"": ""Temporal Constraints""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""Dental check-up"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 1,
+                ""unit"": ""year""
+            },
+            ""end"": {
+                ""number"": 0,
+                ""unit"": ""year""
+            },
+            ""reference_event"": 0
+        }
+    }
+]
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""disease"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""FHA"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""untreated thyroid dysfunction"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""Cushing's disease"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""renal failure"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""diabetes mellitus"",
+        ""category"": ""Condition""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""disease""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Condition"",
+        ""name"": ""FHA""
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Condition"",
+        ""name"": ""untreated thyroid dysfunction""
+    },
+    {
+        ""id"": 4,
+        ""type"": ""Condition"",
+        ""name"": ""Cushing's disease""
+    },
+    {
+        ""id"": 5,
+        ""type"": ""Condition"",
+        ""name"": ""renal failure""
+    },
+    {
+        ""id"": 6,
+        ""type"": ""Condition"",
+        ""name"": ""diabetes mellitus""
+    }
+]
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""bisphosphonates"",
+        ""category"": ""Drug/Substance""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""bisphosphonates""
+    }
+]
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""medications"",
+        ""category"": ""Drug/Substance""
+    },
+    {
+        ""entity"": ""affect bone metabolism"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""within 3 months"",
+        ""category"": ""Temporal Constraints""
+    },
+    {
+        ""entity"": ""calcium"",
+        ""category"": ""Drug/Substance""
+    },
+    {
+        ""entity"": ""vitamin D supplementation"",
+        ""category"": ""Drug/Substance""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""medications"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 3,
+                ""unit"": ""months""
+            },
+            ""end"": {
+                ""number"": 3,
+                ""unit"": ""months""
+            },
+            ""reference_event"": 1
+        }
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Condition"",
+        ""name"": ""affect bone metabolism""
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""calcium""
+    },
+    {
+        ""id"": 4,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""vitamin D supplementation""
+    }
+]
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""Substance abuse disorder"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""current smoker"",
+        ""category"": ""Condition""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""Substance abuse disorder""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Condition"",
+        ""name"": ""current smoker""
+    }
+]
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""History of malignancy"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""Paget disease of bone"",
+        ""category"": ""Condition""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""History of malignancy""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Condition"",
+        ""name"": ""Paget disease of bone""
+    }
+]
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""Pregnant"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""planning to become pregnant"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""within 12 months"",
+        ""category"": ""Temporal Constraints""
+    },
+    {
+        ""entity"": ""after the end of treatment"",
+        ""category"": ""Temporal Constraints""
+    },
+    {
+        ""entity"": ""breastfeeding"",
+        ""category"": ""Condition""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""Pregnant""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Condition"",
+        ""name"": ""planning to become pregnant"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 0,
+                ""unit"": ""months""
+            },
+            ""end"": {
+                ""number"": 12,
+                ""unit"": ""months""
+            },
+            ""reference_event"": 3
+        }
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Condition"",
+        ""name"": ""after the end of treatment""
+    },
+    {
+        ""id"": 4,
+        ""type"": ""Condition"",
+        ""name"": ""breastfeeding""
+    }
+]
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""Cardiovascular"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""Myocardial infarction"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""stroke"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""history of hypertension"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""anti-hypertensive medications"",
+        ""category"": ""Drug/Substance""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""Cardiovascular""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Condition"",
+        ""name"": ""Myocardial infarction""
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Condition"",
+        ""name"": ""stroke""
+    },
+    {
+        ""id"": 4,
+        ""type"": ""Condition"",
+        ""name"": ""history of hypertension""
+    },
+    {
+        ""id"": 5,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""anti-hypertensive medications""
+    }
+]
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""Immunodeficiency"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""immunosuppressive therapy"",
+        ""category"": ""Drug/Substance""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""Immunodeficiency""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""immunosuppressive therapy""
+    }
+]
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""conditions"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""oligo-amenorrhea"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""PCOS"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""premature ovarian insufficiency"",
+        ""category"": ""Condition""
+    }
+]
+```","```python
+def extract_events(inputs: Dict[str, Any]) -> str:
+    """"""
+    This is function is used to identify and extract structured events and attributes related to the specified entities from the input text.
+    The entities, along with their types and names, have been identified in a previous step and are provided for reference.
+
+     The function takes a dictionary of `inputs` as an argument, which contains the following keys:
+    - 'input_text': the input eligibility criteria in text format
+    - 'entities': a list of entities, each containing the type and name of an entity identified in the input text
+        e.g., [""Condition: Type 2 diabetes mellitus"", ""Drug/Substance: Metformin"", ""Measurement: Serum creatinine"", ""Procedure/Device: Chemotherapy"", ""Observation: Smoking"", ""Observation: 30 to 75 years old"", ...]
+
+    The function should return a list of dictionaries, each containing the extracted events and attributes for the specified entities.
+    - Event entity types include: `Condition`, `Observation`, `Procedure/Device`, `Drug/Substance`.
+    - Attribute entities include: `Measurement`, `Temporal Constraints`, `Qualifiers/Modifiers`.
+
+    The formats of the target extracted events are as follows:
+
+
+    Observation:
+    {{
+        ""id"": int, \\ the unique identifier of the event, starting from 1 to N
+        ""type"":""Observation"",
+        ""name"": str, \\ the name of the observation
+        ""occurrence"": {{
+            ""operator"": str, \\ the operator of the occurrence, in [""at least"", ""at most"", ""exactly""]
+            ""number"": int, \\ the number of occurrence
+        }},
+        ""temporal"": {{
+            ""start"": {{
+                ""number"": int, \\ the number of days/months/years/etc before the reference event
+                ""unit"": str, \\ the unit of the temporal, in [""days"", ""weeks"", ""months"", ""years""]
+            }},
+            ""end"":{{
+                ""number"": int, \\ the number of days/months/years/etc after the reference event
+                ""unit"": str, \\ the unit of the temporal, in [""days"", ""weeks"", ""months"", ""years""]
+            }},
+            ""reference_event"": int, \\ the reference event id for the start and end window
+        }},
+        ""value"":{{
+            ""range"": {{
+                ""lower_bound"": float, \\ the lower bound of the measurement value
+                ""upper_bound"": float, \\ the upper bound of the measurement value
+                ""unit"": str, \\ the unit of the measurement value
+            }},
+            ""qualitative"": str, \\  the qualitative value of the measurement, e.g., ""positive"", ""negative"", ""normal"", ""abnormal"", etc.
+        }},
+    }}
+
+    Condition:
+    {{
+        ""id"": int, \\ the unique identifier of the event, starting from 1 to N
+        ""type"":""Condition"", \\ the type of the entity
+        ""name"": str, \\ the name of the condition
+        ""occurrence"": {{
+            ""operator"": str, \\ the operator of the occurrence, in [""at least"", ""at most"", ""exactly""]
+            ""number"": int, \\ the number of occurrences 
+            }},
+        ""temporal"": {{
+            ""start"": {{
+                ""number"": int, \\ the number of days/months/years/etc before the reference event
+                ""unit"": str, \\ the unit of the temporal, in [""days"", ""weeks"", ""months"", ""years""]
+            }},
+            ""end"":{{
+                ""number"": int, \\ the number of days/months/years/etc after the reference event
+                ""unit"": str, \\ the unit of the temporal, in [""days"", ""weeks"", ""months"", ""years""]
+            }},
+            ""reference_event"": int, \\ the reference event id for the start and end window
+        }}
+    }}
+
+    Drug/Substance:
+    {{
+        ""id"": int, \\ the unique identifier of the event, starting from 1 to N
+        ""type"":""Drug/Substance"",
+        ""name"": str, \\ the name of the drug
+        ""occurrence"": {{
+            ""operator"": str, \\ the operator of the occurrence, in [""at least"", ""at most"", ""exactly""]
+            ""number"": int, \\ the number of occurrence
+        }},
+        ""temporal"": {{
+            ""start"": {{
+                ""number"": int, \\ the number of days/months/years/etc before the reference event
+                ""unit"": str, \\ the unit of the temporal, in [""days"", ""weeks"", ""months"", ""years""]
+            }},
+            ""end"":{{
+                ""number"": int, \\ the number of days/months/years/etc after the reference event
+                ""unit"": str, \\ the unit of the temporal, in [""days"", ""weeks"", ""months"", ""years""]
+            }},
+            ""reference_event"": int, \\ the reference event id for the start and end window
+        }}
+    }}
+
+
+    Procedure/Device:
+    {{
+        ""id"": int, \\ the unique identifier of the event, starting from 1 to N
+        ""type"":""Procedure/Device"",
+        ""name"": str, \\ the name of the procedure
+        ""occurrence"": {{
+            ""operator"": str, \\ the operator of the occurrence, in [""at least"", ""at most"", ""exactly""]
+            ""number"": int, \\ the number of occurrence
+        }},
+        ""temporal"": {{
+            ""start"": {{
+                ""number"": int, \\ the number of days/months/years/etc before the reference event
+                ""unit"": str, \\ the unit of the temporal, in [""days"", ""weeks"", ""months"", ""years""]
+            }},
+            ""end"":{{
+                ""number"": int, \\ the number of days/months/years/etc after the reference event
+                ""unit"": str, \\ the unit of the temporal, in [""days"", ""weeks"", ""months"", ""years""]
+            }},
+            ""reference_event"": int, \\ the reference event id for the start and end window
+        }}
+    }}
+
+    IMPORTANT: 
+    - for all the events, the fields 'id', 'type', 'name' are mandatory, the other fields are optional and should be included only if they are present in the input text.
+    - for all the events, the field 'type' must be one of the following: 'Condition', 'Observation', 'Procedure/Device', 'Drug/Substance'.
+
+    The function should return a syntactically correct JSON format string that contains a list of the extracted events, each event should be one of the above formats.
+    The output is wrapped within  ```json and ``` tags, for example:
+    ```json
+    [
+        {{
+            ""id"": 1, \\ the unique identifier of the event, starting from 1 to N
+            ""type"":""Observation"", \\ the type of the entity
+            ""name"": ""age"", \\ the name of the observation
+            ""value"":{{
+                ""range"": {{
+                    ""lower_bound"": float, \\ the lower bound of the age value
+                    ""upper_bound"": float, \\ the upper bound of the age value
+                    ""unit"": str, \\ the unit of the age value
+                }},
+            }},
+        }},
+        ... \\ other events
+    ]
+    ```
+
+    Returns:
+    - str: a JSON format string that contains a list of the extracted events, wrapped by ```json and ``` tags
+    """"""
+inputs = {
+    ""input_text"": ""The study includes patients with conditions such as oligo-amenorrhea, PCOS, and premature ovarian insufficiency."",
+    ""entities"": [
+        {""entity"": ""conditions"", ""category"": ""Condition""},
+        {""entity"": ""oligo-amenorrhea"", ""category"": ""Condition""},
+        {""entity"": ""PCOS"", ""category"": ""Condition""},
+        {""entity"": ""premature ovarian insufficiency"", ""category"": ""Condition""}
+    ]
+}
+
+def extract_events(inputs: Dict[str, Any]) -> str:
+    entities = inputs[""entities""]
+    events = []
+    id_counter = 1
+
+    for entity in entities:
+        if entity[""category""] == ""Condition"":
+            event = {
+                ""id"": id_counter,
+                ""type"": ""Condition"",
+                ""name"": entity[""entity""]
+            }
+            events.append(event)
+            id_counter += 1
+
+    return f""""""```json
+{json.dumps(events, indent=4)}
+```""""""
+
+print(extract_events(inputs))
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""Osteonecrosis of the jaw (ONJ)"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""risk factor for ONJ"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""invasive dental procedures"",
+        ""category"": ""Procedure/Device""
+    },
+    {
+        ""entity"": ""tooth extraction"",
+        ""category"": ""Procedure/Device""
+    },
+    {
+        ""entity"": ""dental implants"",
+        ""category"": ""Procedure/Device""
+    },
+    {
+        ""entity"": ""oral surgery"",
+        ""category"": ""Procedure/Device""
+    },
+    {
+        ""entity"": ""in the past 3 months"",
+        ""category"": ""Temporal Constraints""
+    },
+    {
+        ""entity"": ""poor oral hygiene"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""periodontal disease"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""pre-existing dental disease"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""current use of corticosteroids"",
+        ""category"": ""Drug/Substance""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""Osteonecrosis of the jaw (ONJ)""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Condition"",
+        ""name"": ""risk factor for ONJ""
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""invasive dental procedures"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 3,
+                ""unit"": ""months""
+            },
+            ""reference_event"": 1
+        }
+    },
+    {
+        ""id"": 4,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""tooth extraction"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 3,
+                ""unit"": ""months""
+            },
+            ""reference_event"": 1
+        }
+    },
+    {
+        ""id"": 5,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""dental implants"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 3,
+                ""unit"": ""months""
+            },
+            ""reference_event"": 1
+        }
+    },
+    {
+        ""id"": 6,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""oral surgery"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 3,
+                ""unit"": ""months""
+            },
+            ""reference_event"": 1
+        }
+    },
+    {
+        ""id"": 7,
+        ""type"": ""Condition"",
+        ""name"": ""poor oral hygiene""
+    },
+    {
+        ""id"": 8,
+        ""type"": ""Condition"",
+        ""name"": ""periodontal disease""
+    },
+    {
+        ""id"": 9,
+        ""type"": ""Condition"",
+        ""name"": ""pre-existing dental disease""
+    },
+    {
+        ""id"": 10,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""current use of corticosteroids""
+    }
+]
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""Planned invasive dental procedure"",
+        ""category"": ""Procedure/Device""
+    },
+    {
+        ""entity"": ""over the next 12 months"",
+        ""category"": ""Temporal Constraints""
+    },
+    {
+        ""entity"": ""the duration of the study"",
+        ""category"": ""Temporal Constraints""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""Planned invasive dental procedure"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 0,
+                ""unit"": ""months""
+            },
+            ""end"": {
+                ""number"": 12,
+                ""unit"": ""months""
+            },
+            ""reference_event"": 2
+        }
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Observation"",
+        ""name"": ""the duration of the study""
+    }
+]
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""Known sensitivity"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""absolute contraindication"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""products or components of the medications"",
+        ""category"": ""Drug/Substance""
+    },
+    {
+        ""entity"": ""romosozumab"",
+        ""category"": ""Drug/Substance""
+    },
+    {
+        ""entity"": ""zoledronic acid"",
+        ""category"": ""Drug/Substance""
+    },
+    {
+        ""entity"": ""transdermal estradiol"",
+        ""category"": ""Drug/Substance""
+    },
+    {
+        ""entity"": ""micronized progesterone"",
+        ""category"": ""Drug/Substance""
+    },
+    {
+        ""entity"": ""calcium supplements"",
+        ""category"": ""Drug/Substance""
+    },
+    {
+        ""entity"": ""vitamin D supplements"",
+        ""category"": ""Drug/Substance""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""Known sensitivity""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Condition"",
+        ""name"": ""absolute contraindication""
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""products or components of the medications""
+    },
+    {
+        ""id"": 4,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""romosozumab""
+    },
+    {
+        ""id"": 5,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""zoledronic acid""
+    },
+    {
+        ""id"": 6,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""transdermal estradiol""
+    },
+    {
+        ""id"": 7,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""micronized progesterone""
+    },
+    {
+        ""id"": 8,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""calcium supplements""
+    },
+    {
+        ""id"": 9,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""vitamin D supplements""
+    }
+]
+```"
+NCT06533865,"```json
+[
+    {
+        ""entity"": ""BMD Z-score"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""<-2.5"",
+        ""category"": ""Measurement""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Observation"",
+        ""name"": ""BMD Z-score"",
+        ""value"": {
+            ""range"": {
+                ""upper_bound"": -2.5,
+                ""unit"": """"
+            }
+        }
+    }
+]
+```"
+NCT00453219,"```json
+[
+    {
+        ""entity"": ""gynecological age"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""age since menarche"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""> 5 and < 25 years"",
+        ""category"": ""Measurement""
+    },
+    {
+        ""entity"": ""chronological age"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""> 18 years"",
+        ""category"": ""Measurement""
+    },
+    {
+        ""entity"": ""within 90-110% of ideal body weight"",
+        ""category"": ""Measurement""
+    },
+    {
+        ""entity"": ""1983 Metropolitan height and weight table for women"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""exercise < 10 h/wk"",
+        ""category"": ""Measurement""
+    },
+    {
+        ""entity"": ""run < 10 mi/wk"",
+        ""category"": ""Measurement""
+    },
+    {
+        ""entity"": ""day-awake/night-asleep schedule"",
+        ""category"": ""Observation""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Observation"",
+        ""name"": ""gynecological age""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Observation"",
+        ""name"": ""age since menarche""
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Observation"",
+        ""name"": ""chronological age"",
+        ""value"": {
+            ""range"": {
+                ""lower_bound"": 18,
+                ""unit"": ""years""
+            }
+        }
+    },
+    {
+        ""id"": 4,
+        ""type"": ""Observation"",
+        ""name"": ""1983 Metropolitan height and weight table for women""
+    },
+    {
+        ""id"": 5,
+        ""type"": ""Observation"",
+        ""name"": ""day-awake/night-asleep schedule""
+    }
+]
+```"
+NCT00453219,"```json
+[
+    {
+        ""entity"": ""FHA"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""PCOS"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""amenorrhea"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""anovulation"",
+        ""category"": ""Condition""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""FHA""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Condition"",
+        ""name"": ""PCOS""
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Condition"",
+        ""name"": ""amenorrhea""
+    },
+    {
+        ""id"": 4,
+        ""type"": ""Condition"",
+        ""name"": ""anovulation""
+    }
+]
+```"
+NCT00453219,"```json
+[
+    {
+        ""entity"": ""smoking"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""medications"",
+        ""category"": ""Drug/Substance""
+    },
+    {
+        ""entity"": ""psychotropic drugs"",
+        ""category"": ""Drug/Substance""
+    },
+    {
+        ""entity"": ""illicit drugs"",
+        ""category"": ""Drug/Substance""
+    },
+    {
+        ""entity"": ""medical disease"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""neurological disease"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""ophthalmologic disease"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""acuity problems"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""weight loss"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""weight gain"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""> 10 lb"",
+        ""category"": ""Measurement""
+    },
+    {
+        ""entity"": ""within a year"",
+        ""category"": ""Temporal Constraints""
+    },
+    {
+        ""entity"": ""onset of amenorrhea"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""major Axis I disorder"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""depression"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""parturition"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""in the last 12 months"",
+        ""category"": ""Temporal Constraints""
+    },
+    {
+        ""entity"": ""lactating"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""in the last 6 months"",
+        ""category"": ""Temporal Constraints""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Observation"",
+        ""name"": ""smoking""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""medications""
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""psychotropic drugs""
+    },
+    {
+        ""id"": 4,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""illicit drugs""
+    },
+    {
+        ""id"": 5,
+        ""type"": ""Condition"",
+        ""name"": ""medical disease""
+    },
+    {
+        ""id"": 6,
+        ""type"": ""Condition"",
+        ""name"": ""neurological disease""
+    },
+    {
+        ""id"": 7,
+        ""type"": ""Condition"",
+        ""name"": ""ophthalmologic disease""
+    },
+    {
+        ""id"": 8,
+        ""type"": ""Condition"",
+        ""name"": ""acuity problems""
+    },
+    {
+        ""id"": 9,
+        ""type"": ""Observation"",
+        ""name"": ""weight loss"",
+        ""value"": {
+            ""range"": {
+                ""lower_bound"": 10,
+                ""unit"": ""lb""
+            }
+        },
+        ""temporal"": {
+            ""start"": {
+                ""number"": 1,
+                ""unit"": ""year""
+            }
+        }
+    },
+    {
+        ""id"": 10,
+        ""type"": ""Observation"",
+        ""name"": ""weight gain"",
+        ""value"": {
+            ""range"": {
+                ""lower_bound"": 10,
+                ""unit"": ""lb""
+            }
+        },
+        ""temporal"": {
+            ""start"": {
+                ""number"": 1,
+                ""unit"": ""year""
+            }
+        }
+    },
+    {
+        ""id"": 11,
+        ""type"": ""Condition"",
+        ""name"": ""onset of amenorrhea""
+    },
+    {
+        ""id"": 12,
+        ""type"": ""Condition"",
+        ""name"": ""major Axis I disorder""
+    },
+    {
+        ""id"": 13,
+        ""type"": ""Condition"",
+        ""name"": ""depression""
+    },
+    {
+        ""id"": 14,
+        ""type"": ""Condition"",
+        ""name"": ""parturition"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 12,
+                ""unit"": ""months""
+            }
+        }
+    },
+    {
+        ""id"": 15,
+        ""type"": ""Condition"",
+        ""name"": ""lactating"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 6,
+                ""unit"": ""months""
+            }
+        }
+    }
+]
+```"
+NCT02697136,"```json
+[
+    {
+        ""entity"": ""Male and female"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""aged 18 and above"",
+        ""category"": ""Measurement""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Observation"",
+        ""name"": ""gender"",
+        ""value"": {
+            ""qualitative"": ""Male and female""
+        }
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Observation"",
+        ""name"": ""age"",
+        ""value"": {
+            ""range"": {
+                ""lower_bound"": 18,
+                ""upper_bound"": null,
+                ""unit"": ""years""
+            }
+        }
+    }
+]
+```"
+NCT02697136,"```json
+[
+    {
+        ""entity"": ""ApoA-I"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""< 70 mg/dL"",
+        ""category"": ""Measurement""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Observation"",
+        ""name"": ""ApoA-I"",
+        ""value"": {
+            ""range"": {
+                ""upper_bound"": 70.0,
+                ""unit"": ""mg/dL""
+            }
+        }
+    }
+]
+```"
+NCT02697136,"```json
+[
+    {
+        ""entity"": ""Symptomatic cardiovascular disease"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""asymptomatic cardiovascular disease"",
+        ""category"": ""Condition""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""Symptomatic cardiovascular disease""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Condition"",
+        ""name"": ""asymptomatic cardiovascular disease""
+    }
+]
+```"
+NCT02697136,"```json
+[
+    {
+        ""entity"": ""Diagnosis"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""genetically confirmed"",
+        ""category"": ""Qualifiers/Modifiers""
+    },
+    {
+        ""entity"": ""HDL-c deficiency"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""defects in genes coding for ABCA1 and/or ApoA-1"",
+        ""category"": ""Condition""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Observation"",
+        ""name"": ""Diagnosis""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Condition"",
+        ""name"": ""HDL-c deficiency""
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Condition"",
+        ""name"": ""defects in genes coding for ABCA1 and/or ApoA-1""
+    }
+]
+```"
+NCT02697136,"```json
+[
+    {
+        ""entity"": ""Stable doses"",
+        ""category"": ""Qualifier/Modifier""
+    },
+    {
+        ""entity"": ""lipid lowering therapies"",
+        ""category"": ""Drug/Substance""
+    },
+    {
+        ""entity"": ""at least 6 weeks"",
+        ""category"": ""Temporal Constraints""
+    },
+    {
+        ""entity"": ""prior to baseline procedures"",
+        ""category"": ""Temporal Constraints""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""lipid lowering therapies"",
+        ""occurrence"": {
+            ""operator"": ""at least"",
+            ""number"": 1
+        },
+        ""temporal"": {
+            ""start"": {
+                ""number"": 6,
+                ""unit"": ""weeks""
+            },
+            ""reference_event"": 0
+        }
+    }
+]
+```"
+NCT02697136,"```json
+[
+    {
+        ""entity"": ""Females"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""childbearing potential"",
+        ""category"": ""Condition""
+    }
+]
+```","```python
+def extract_events(inputs: Dict[str, Any]) -> str:
+    """"""
+    This function is used to identify and extract structured events and attributes related to the specified entities from the input text.
+    The entities, along with their types and names, have been identified in a previous step and are provided for reference.
+
+    The function takes a dictionary of `inputs` as an argument, which contains the following keys:
+    - 'input_text': the input eligibility criteria in text format
+    - 'entities': a list of entities, each containing the type and name of an entity identified in the input text
+        e.g., [""Condition: Type 2 diabetes mellitus"", ""Drug/Substance: Metformin"", ""Measurement: Serum creatinine"", ""Procedure/Device: Chemotherapy"", ""Observation: Smoking"", ""Observation: 30 to 75 years old"", ...]
+
+    The function should return a list of dictionaries, each containing the extracted events and attributes for the specified entities.
+    - Event entity types include: `Condition`, `Observation`, `Procedure/Device`, `Drug/Substance`.
+    - Attribute entities include: `Measurement`, `Temporal Constraints`, `Qualifiers/Modifiers`.
+
+    The formats of the target extracted events are as follows:
+
+
+    Observation:
+    {
+        ""id"": int, \\ the unique identifier of the event, starting from 1 to N
+        ""type"":""Observation"",
+        ""name"": str, \\ the name of the observation
+        ""occurrence"": {
+            ""operator"": str, \\ the operator of the occurrence, in [""at least"", ""at most"", ""exactly""]
+            ""number"": int, \\ the number of occurrence
+        },
+        ""temporal"": {
+            ""start"": {
+                ""number"": int, \\ the number of days/months/years/etc before the reference event
+                ""unit"": str, \\ the unit of the temporal, in [""days"", ""weeks"", ""months"", ""years""]
+            },
+            ""end"":{
+                ""number"": int, \\ the number of days/months/years/etc after the reference event
+                ""unit"": str, \\ the unit of the temporal, in [""days"", ""weeks"", ""months"", ""years""]
+            },
+            ""reference_event"": int, \\ the reference event id for the start and end window
+        },
+        ""value"":{
+            ""range"": {
+                ""lower_bound"": float, \\ the lower bound of the measurement value
+                ""upper_bound"": float, \\ the upper bound of the measurement value
+                ""unit"": str, \\ the unit of the measurement value
+            },
+            ""qualitative"": str, \\  the qualitative value of the measurement, e.g., ""positive"", ""negative"", ""normal"", ""abnormal"", etc.
+        },
+    }
+
+    Condition:
+    {
+        ""id"": int, \\ the unique identifier of the event, starting from 1 to N
+        ""type"":""Condition"", \\ the type of the entity
+        ""name"": str, \\ the name of the condition
+        ""occurrence"": {
+            ""operator"": str, \\ the operator of the occurrence, in [""at least"", ""at most"", ""exactly""]
+            ""number"": int, \\ the number of occurrences 
+            }},
+        ""temporal"": {
+            ""start"": {
+                ""number"": int, \\ the number of days/months/years/etc before the reference event
+                ""unit"": str, \\ the unit of the temporal, in [""days"", ""weeks"", ""months"", ""years""]
+            },
+            ""end"":{
+                ""number"": int, \\ the number of days/months/years/etc after the reference event
+                ""unit"": str, \\ the unit of the temporal, in [""days"", ""weeks"", ""months"", ""years""]
+            },
+            ""reference_event"": int, \\ the reference event id for the start and end window
+        }}
+    }
+
+    Drug/Substance:
+    {
+        ""id"": int, \\ the unique identifier of the event, starting from 1 to N
+        ""type"":""Drug/Substance"",
+        ""name"": str, \\ the name of the drug
+        ""occurrence"": {
+            ""operator"": str, \\ the operator of the occurrence, in [""at least"", ""at most"", ""exactly""]
+            ""number"": int, \\ the number of occurrence
+        }},
+        ""temporal"": {
+            ""start"": {
+                ""number"": int, \\ the number of days/months/years/etc before the reference event
+                ""unit"": str, \\ the unit of the temporal, in [""days"", ""weeks"", ""months"", ""years""]
+            },
+            ""end"":{
+                ""number"": int, \\ the number of days/months/years/etc after the reference event
+                ""unit"": str, \\ the unit of the temporal, in [""days"", ""weeks"", ""months"", ""years""]
+            },
+            ""reference_event"": int, \\ the reference event id for the start and end window
+        }}
+    }
+
+    Procedure/Device:
+    {
+        ""id"": int, \\ the unique identifier of the event, starting from 1 to N
+        ""type"":""Procedure/Device"",
+        ""name"": str, \\ the name of the procedure
+        ""occurrence"": {
+            ""operator"": str, \\ the operator of the occurrence, in [""at least"", ""at most"", ""exactly""]
+            ""number"": int, \\ the number of occurrence
+        }},
+        ""temporal"": {
+            ""start"": {
+                ""number"": int, \\ the number of days/months/years/etc before the reference event
+                ""unit"": str, \\ the unit of the temporal, in [""days"", ""weeks"", ""months"", ""years""]
+            },
+            ""end"":{
+                ""number"": int, \\ the number of days/months/years/etc after the reference event
+                ""unit"": str, \\ the unit of the temporal, in [""days"", ""weeks"", ""months"", ""years""]
+            },
+            ""reference_event"": int, \\ the reference event id for the start and end window
+        }}
+    }
+
+    IMPORTANT: 
+    - for all the events, the fields 'id', 'type', 'name' are mandatory, the other fields are optional and should be included only if they are present in the input text.
+    - for all the events, the field 'type' must be one of the following: 'Condition', 'Observation', 'Procedure/Device', 'Drug/Substance'.
+
+    The function should return a syntactically correct JSON format string that contains a list of the extracted events, each event should be one of the above formats.
+    The output is wrapped within  ```json and ``` tags, for example:
+    ```json
+    [
+        {
+            ""id"": 1, \\ the unique identifier of the event, starting from 1 to N
+            ""type"":""Observation"", \\ the type of the entity
+            ""name"": ""age"", \\ the name of the observation
+            ""value"":{
+                ""range"": {
+                    ""lower_bound"": float, \\ the lower bound of the age value
+                    ""upper_bound"": float, \\ the upper bound of the age value
+                    ""unit"": str, \\ the unit of the age value
+                }},
+        },
+        ... \\ other events
+    ]
+    ```
+
+    Returns:
+    - str: a JSON format string that contains a list of the extracted events, wrapped by ```json and ``` tags
+    """"""
+    input_text = inputs[""input_text""]
+    entities = inputs[""entities""]
+
+    events = []
+    id_counter = 1
+
+    for entity in entities:
+        entity_type, entity_name = entity.split("": "")
+        event = {
+            ""id"": id_counter,
+            ""type"": entity_type,
+            ""name"": entity_name
+        }
+        events.append(event)
+        id_counter += 1
+
+    return f""""""```json
+{json.dumps(events, indent=4)}
+```""""""
+
+# Provided inputs
+input_text = """"""Females of childbearing potential must have a negative pregnancy test prior to enrollment.""""""
+entities = [
+    ""Observation: Females"",
+    ""Condition: childbearing potential""
+]
+
+inputs = {
+    ""input_text"": input_text,
+    ""entities"": entities
+}
+
+# Call the function with the provided inputs
+output = extract_events(inputs)
+print(output)
+```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Observation"",
+        ""name"": ""Females""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Condition"",
+        ""name"": ""childbearing potential""
+    }
+]
+```"
+NCT02697136,"```json
+[
+    {
+        ""entity"": ""LCAT mutations"",
+        ""category"": ""Condition""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""LCAT mutations""
+    }
+]
+```"
+NCT02697136,"```json
+[
+    {
+        ""entity"": ""recent cardiovascular events"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""recent cerebrovascular events"",
+        ""category"": ""Condition""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""recent cardiovascular events""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Condition"",
+        ""name"": ""recent cerebrovascular events""
+    }
+]
+```"
+NCT02697136,"```json
+[
+    {
+        ""entity"": ""Hypertriglyceridemia"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": "">500 mg/dL"",
+        ""category"": ""Measurement""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""Hypertriglyceridemia""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Observation"",
+        ""name"": ""Triglyceride level"",
+        ""value"": {
+            ""range"": {
+                ""lower_bound"": 500.0,
+                ""upper_bound"": null,
+                ""unit"": ""mg/dL""
+            }
+        }
+    }
+]
+```"
+NCT02697136,"```json
+[
+    {
+        ""entity"": ""Severe"",
+        ""category"": ""Qualifiers/Modifiers""
+    },
+    {
+        ""entity"": ""anemia"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""Hgb"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""< 10 g/dL"",
+        ""category"": ""Measurement""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""anemia"",
+        ""occurrence"": {
+            ""operator"": ""at least"",
+            ""number"": 1
+        }
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Observation"",
+        ""name"": ""Hgb"",
+        ""value"": {
+            ""range"": {
+                ""upper_bound"": 10.0,
+                ""unit"": ""g/dL""
+            }
+        }
+    }
+]
+```"
+NCT02697136,"```json
+[
+    {
+        ""entity"": ""Uncontrolled"",
+        ""category"": ""Qualifiers/Modifiers""
+    },
+    {
+        ""entity"": ""diabetes"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""HbA1c"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": "">10%"",
+        ""category"": ""Measurement""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""diabetes"",
+        ""occurrence"": {
+            ""operator"": ""at least"",
+            ""number"": 1
+        }
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Observation"",
+        ""name"": ""HbA1c"",
+        ""value"": {
+            ""range"": {
+                ""lower_bound"": 10.0,
+                ""upper_bound"": null,
+                ""unit"": ""%""
+            }
+        }
+    }
+]
+```"
+NCT02697136,"```json
+[
+    {
+        ""entity"": ""Congestive heart failure"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""NYHA class II or higher"",
+        ""category"": ""Measurement""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""Congestive heart failure""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Observation"",
+        ""name"": ""NYHA class II or higher""
+    }
+]
+```"
+NCT02697136,"```json
+[
+    {
+        ""entity"": ""Contraindication"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""MRI scanning"",
+        ""category"": ""Procedure/Device""
+    },
+    {
+        ""entity"": ""implanted metal objects"",
+        ""category"": ""Procedure/Device""
+    },
+    {
+        ""entity"": ""claustrophobia"",
+        ""category"": ""Condition""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""Contraindication""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""MRI scanning""
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""implanted metal objects""
+    },
+    {
+        ""id"": 4,
+        ""type"": ""Condition"",
+        ""name"": ""claustrophobia""
+    }
+]
+```"
+NCT00870350,"```json
+[
+    {
+        ""entity"": ""healthy"",
+        ""category"": ""Condition""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""healthy""
+    }
+]
+```"
+NCT00870350,"```json
+[
+    {
+        ""entity"": ""14-15 years old"",
+        ""category"": ""Measurement""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Observation"",
+        ""name"": ""age"",
+        ""value"": {
+            ""range"": {
+                ""lower_bound"": 14,
+                ""upper_bound"": 15,
+                ""unit"": ""years""
+            }
+        }
+    }
+]
+```"
+NCT00870350,"```json
+[
+    {
+        ""entity"": ""eligible"",
+        ""category"": ""Qualifiers/Modifiers""
+    },
+    {
+        ""entity"": ""school-leaving booster"",
+        ""category"": ""Procedure/Device""
+    },
+    {
+        ""entity"": ""DTP"",
+        ""category"": ""Drug/Substance""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""school-leaving booster""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""DTP""
+    }
+]
+```"
+NCT00870350,"```json
+[
+    {
+        ""entity"": ""complete primary vaccination"",
+        ""category"": ""Procedure/Device""
+    },
+    {
+        ""entity"": ""5-component acellular pertussis vaccine (DT5aP-IPV-Hib)"",
+        ""category"": ""Drug/Substance""
+    },
+    {
+        ""entity"": ""3, 5 and 12 months of age"",
+        ""category"": ""Temporal Constraints""
+    },
+    {
+        ""entity"": ""vaccinated"",
+        ""category"": ""Procedure/Device""
+    },
+    {
+        ""entity"": ""5-component acellular pertussis vaccine (Td5aP-IPV or Td5aP + IPV)"",
+        ""category"": ""Drug/Substance""
+    },
+    {
+        ""entity"": ""booster"",
+        ""category"": ""Procedure/Device""
+    },
+    {
+        ""entity"": ""5½ years of age"",
+        ""category"": ""Temporal Constraints""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""complete primary vaccination"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 3,
+                ""unit"": ""months""
+            },
+            ""end"": {
+                ""number"": 12,
+                ""unit"": ""months""
+            },
+            ""reference_event"": 1
+        }
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""5-component acellular pertussis vaccine (DT5aP-IPV-Hib)"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 3,
+                ""unit"": ""months""
+            },
+            ""end"": {
+                ""number"": 12,
+                ""unit"": ""months""
+            },
+            ""reference_event"": 1
+        }
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""vaccinated"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 3,
+                ""unit"": ""months""
+            },
+            ""end"": {
+                ""number"": 12,
+                ""unit"": ""months""
+            },
+            ""reference_event"": 1
+        }
+    },
+    {
+        ""id"": 4,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""5-component acellular pertussis vaccine (Td5aP-IPV or Td5aP + IPV)"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 5.5,
+                ""unit"": ""years""
+            },
+            ""reference_event"": 1
+        }
+    },
+    {
+        ""id"": 5,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""booster"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 5.5,
+                ""unit"": ""years""
+            },
+            ""reference_event"": 1
+        }
+    }
+]
+```"
+NCT00870350,"```json
+[]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""Type 2 diabetes mellitus""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""Metformin""
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Measurement"",
+        ""name"": ""Serum creatinine""
+    },
+    {
+        ""id"": 4,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""Chemotherapy""
+    },
+    {
+        ""id"": 5,
+        ""type"": ""Observation"",
+        ""name"": ""Smoking""
+    },
+    {
+        ""id"": 6,
+        ""type"": ""Observation"",
+        ""name"": ""30 to 75 years old"",
+        ""value"": {
+            ""range"": {
+                ""lower_bound"": 30,
+                ""upper_bound"": 75,
+                ""unit"": ""years""
+            }
+        }
+    }
+]
+```"
+NCT00870350,"```json
+[]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""Type 2 diabetes mellitus""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""Metformin""
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Measurement"",
+        ""name"": ""Serum creatinine""
+    },
+    {
+        ""id"": 4,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""Chemotherapy""
+    },
+    {
+        ""id"": 5,
+        ""type"": ""Observation"",
+        ""name"": ""Smoking""
+    },
+    {
+        ""id"": 6,
+        ""type"": ""Observation"",
+        ""name"": ""30 to 75 years old"",
+        ""value"": {
+            ""range"": {
+                ""lower_bound"": 30,
+                ""upper_bound"": 75,
+                ""unit"": ""years""
+            }
+        }
+    }
+]
+```"
+NCT00870350,"```json
+[]
+```","```json
+[]
+```"
+NCT00870350,"```json
+[
+    {
+        ""entity"": ""acute febrile illness"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""axillary temperature"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""≥38.0°C"",
+        ""category"": ""Measurement""
+    },
+    {
+        ""entity"": ""at the time of vaccination"",
+        ""category"": ""Temporal Constraints""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""acute febrile illness""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Observation"",
+        ""name"": ""axillary temperature"",
+        ""value"": {
+            ""range"": {
+                ""lower_bound"": 38.0,
+                ""unit"": ""°C""
+            }
+        },
+        ""temporal"": {
+            ""start"": {
+                ""number"": 0,
+                ""unit"": ""days""
+            },
+            ""end"": {
+                ""number"": 0,
+                ""unit"": ""days""
+            },
+            ""reference_event"": 3
+        }
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Observation"",
+        ""name"": ""vaccination""
+    }
+]
+```"
+NCT00870350,"```json
+[
+    {
+        ""entity"": ""receipt of immunoglobulin"",
+        ""category"": ""Procedure/Device""
+    },
+    {
+        ""entity"": ""within the previous 3 months"",
+        ""category"": ""Temporal Constraints""
+    },
+    {
+        ""entity"": ""immunosuppression"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""evidence of impaired cell mediated immunity"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""receipt of immunosuppressant drugs"",
+        ""category"": ""Procedure/Device""
+    },
+    {
+        ""entity"": ""within the previous 3 months"",
+        ""category"": ""Temporal Constraints""
+    },
+    {
+        ""entity"": ""receipt of systemic corticosteroids"",
+        ""category"": ""Procedure/Device""
+    },
+    {
+        ""entity"": ""given daily or on alternate days"",
+        ""category"": ""Temporal Constraints""
+    },
+    {
+        ""entity"": ""≥20 mg/day prednisone equivalent"",
+        ""category"": ""Measurement""
+    },
+    {
+        ""entity"": ""during >14 days"",
+        ""category"": ""Temporal Constraints""
+    },
+    {
+        ""entity"": ""within the past 30 days"",
+        ""category"": ""Temporal Constraints""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""receipt of immunoglobulin"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 3,
+                ""unit"": ""months""
+            },
+            ""end"": {
+                ""number"": 0,
+                ""unit"": ""months""
+            },
+            ""reference_event"": 0
+        }
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Condition"",
+        ""name"": ""immunosuppression""
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Observation"",
+        ""name"": ""evidence of impaired cell mediated immunity""
+    },
+    {
+        ""id"": 4,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""receipt of immunosuppressant drugs"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 3,
+                ""unit"": ""months""
+            },
+            ""end"": {
+                ""number"": 0,
+                ""unit"": ""months""
+            },
+            ""reference_event"": 0
+        }
+    },
+    {
+        ""id"": 5,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""receipt of systemic corticosteroids"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 0,
+                ""unit"": ""days""
+            },
+            ""end"": {
+                ""number"": 14,
+                ""unit"": ""days""
+            },
+            ""reference_event"": 0
+        },
+        ""value"": {
+            ""range"": {
+                ""lower_bound"": 20,
+                ""upper_bound"": null,
+                ""unit"": ""mg/day prednisone equivalent""
+            }
+        }
+    }
+]
+```"
+NCT00870350,"```json
+[
+    {
+        ""entity"": ""receipt of a non-study vaccine"",
+        ""category"": ""Procedure/Device""
+    },
+    {
+        ""entity"": ""in the past 30 days"",
+        ""category"": ""Temporal Constraints""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""receipt of a non-study vaccine"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 30,
+                ""unit"": ""days""
+            },
+            ""end"": {
+                ""number"": 0,
+                ""unit"": ""days""
+            },
+            ""reference_event"": 1
+        }
+    }
+]
+```"
+NCT00870350,"```json
+[
+    {
+        ""entity"": ""evolving encephalopathy"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""not attributable to another identifiable cause"",
+        ""category"": ""Qualifiers/Modifiers""
+    },
+    {
+        ""entity"": ""within 7 days"",
+        ""category"": ""Temporal Constraints""
+    },
+    {
+        ""entity"": ""administration of a previous dose of any vaccine"",
+        ""category"": ""Procedure/Device""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""evolving encephalopathy""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""administration of a previous dose of any vaccine"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 7,
+                ""unit"": ""days""
+            },
+            ""reference_event"": 1
+        }
+    }
+]
+```"
+NCT00870350,"```json
+[
+    {
+        ""entity"": ""booster vaccination"",
+        ""category"": ""Procedure/Device""
+    },
+    {
+        ""entity"": ""tetanus"",
+        ""category"": ""Drug/Substance""
+    },
+    {
+        ""entity"": ""low dose diphtheria"",
+        ""category"": ""Drug/Substance""
+    },
+    {
+        ""entity"": ""acellular pertussis vaccine"",
+        ""category"": ""Drug/Substance""
+    },
+    {
+        ""entity"": ""since the booster vaccination at 5½ years of age"",
+        ""category"": ""Temporal Constraints""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""booster vaccination"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 5.5,
+                ""unit"": ""years""
+            },
+            ""reference_event"": 1
+        }
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""tetanus""
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""low dose diphtheria""
+    },
+    {
+        ""id"": 4,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""acellular pertussis vaccine""
+    }
+]
+```"
+NCT00870350,"```json
+[
+    {
+        ""entity"": ""previous"",
+        ""category"": ""Temporal Constraints""
+    },
+    {
+        ""entity"": ""clinical or bacteriological diagnosis"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""diphtheria"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""tetanus"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""pertussis"",
+        ""category"": ""Condition""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Observation"",
+        ""name"": ""clinical or bacteriological diagnosis""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Condition"",
+        ""name"": ""diphtheria""
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Condition"",
+        ""name"": ""tetanus""
+    },
+    {
+        ""id"": 4,
+        ""type"": ""Condition"",
+        ""name"": ""pertussis""
+    }
+]
+```"
+NCT00870350,"```json
+[
+    {
+        ""entity"": ""hypersensitivity"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""any component"",
+        ""category"": ""Drug/Substance""
+    },
+    {
+        ""entity"": ""any of the study vaccines"",
+        ""category"": ""Drug/Substance""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""hypersensitivity""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""any component""
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Drug/Substance"",
+        ""name"": ""any of the study vaccines""
+    }
+]
+```"
+NCT00870350,"```json
+[
+    {
+        ""entity"": ""current"",
+        ""category"": ""Temporal Constraints""
+    },
+    {
+        ""entity"": ""participation in any other clinical trial"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""participation in any clinical trial"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""in the previous month"",
+        ""category"": ""Temporal Constraints""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Observation"",
+        ""name"": ""participation in any other clinical trial"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 1,
+                ""unit"": ""month""
+            },
+            ""end"": {
+                ""number"": 0,
+                ""unit"": ""month""
+            },
+            ""reference_event"": 2
+        }
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Observation"",
+        ""name"": ""participation in any clinical trial"",
+        ""temporal"": {
+            ""start"": {
+                ""number"": 0,
+                ""unit"": ""month""
+            },
+            ""end"": {
+                ""number"": 0,
+                ""unit"": ""month""
+            },
+            ""reference_event"": 1
+        }
+    }
+]
+```"
+NCT00870350,"```json
+[
+    {
+        ""entity"": ""inability"",
+        ""category"": ""Observation""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Observation"",
+        ""name"": ""inability""
+    }
+]
+```"
+NCT00870350,"```json
+[
+    {
+        ""entity"": ""severe"",
+        ""category"": ""Qualifiers/Modifiers""
+    },
+    {
+        ""entity"": ""chronic disease"",
+        ""category"": ""Condition""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""chronic disease"",
+        ""occurrence"": {
+            ""operator"": ""at least"",
+            ""number"": 1
+        },
+        ""temporal"": {
+            ""start"": {
+                ""number"": 0,
+                ""unit"": ""days""
+            },
+            ""end"": {
+                ""number"": 0,
+                ""unit"": ""days""
+            },
+            ""reference_event"": 0
+        }
+    }
+]
+```"
+NCT00870350,"```json
+[
+    {
+        ""entity"": ""family history"",
+        ""category"": ""Observation""
+    },
+    {
+        ""entity"": ""congenital immunodeficiency"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""hereditary immunodeficiency"",
+        ""category"": ""Condition""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Observation"",
+        ""name"": ""family history""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Condition"",
+        ""name"": ""congenital immunodeficiency""
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Condition"",
+        ""name"": ""hereditary immunodeficiency""
+    }
+]
+```"
+NCT00870350,"```json
+[
+    {
+        ""entity"": ""sever thrombocytopenia"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""coagulation disorder"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""contraindicate"",
+        ""category"": ""Condition""
+    },
+    {
+        ""entity"": ""intramuscular injection"",
+        ""category"": ""Procedure/Device""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""severe thrombocytopenia""
+    },
+    {
+        ""id"": 2,
+        ""type"": ""Condition"",
+        ""name"": ""coagulation disorder""
+    },
+    {
+        ""id"": 3,
+        ""type"": ""Condition"",
+        ""name"": ""contraindicate""
+    },
+    {
+        ""id"": 4,
+        ""type"": ""Procedure/Device"",
+        ""name"": ""intramuscular injection""
+    }
+]
+```"
+NCT00870350,"```json
+[
+    {
+        ""entity"": ""medical condition"",
+        ""category"": ""Condition""
+    }
+]
+```","```json
+[
+    {
+        ""id"": 1,
+        ""type"": ""Condition"",
+        ""name"": ""medical condition""
+    }
+]
+```"
