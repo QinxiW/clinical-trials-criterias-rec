@@ -1,5 +1,6 @@
 import requests
 import csv
+import re
 
 def write_data_to_csv(eligibility_criteria, cond='FHA'):
     # save data to csv
@@ -18,10 +19,11 @@ def call_endpoint_for_search_trails():
     # https://clinicaltrials.gov/data-api/api
     API_SERVER = "https://clinicaltrials.gov/api/v2"
     # different conditions to check
-    cond_set = ['FHA', 'FHA (Functional Hypothalamic Amenorrhea)', 'Hypothalamic Amenorrhea',
-                'Functional Hypothalamic Amenorrhea)', 'Exercise-Induced Amenorrhea', 'Energy Deficiency Amenorrhea',
-                'Stress-Induced Amenorrhea', # 32 records if using all previous ones here
-                'Functional Amenorrhea', 'Functional Hypothalamic Disorder', 'FHA-related']
+    # cond_set = ['FHA', 'FHA (Functional Hypothalamic Amenorrhea)', 'Hypothalamic Amenorrhea',
+    #             'Functional Hypothalamic Amenorrhea)', 'Exercise-Induced Amenorrhea', 'Energy Deficiency Amenorrhea',
+    #             'Stress-Induced Amenorrhea', # 32 records if using all previous ones here
+    #             'Functional Amenorrhea', 'Functional Hypothalamic Disorder', 'FHA-related']
+    cond_set = ['Advanced Melanoma']
     queried_nctIds = set()
 
     # Initialize lists for csv kept data
@@ -96,7 +98,7 @@ def call_endpoint_for_search_trails():
 def main():
     # https://clinicaltrials.gov/data-api/api
     API_SERVER = "https://clinicaltrials.gov/api/v2"
-    cond = 'FHA'
+    cond = 'Advanced_Melanoma'
 
     eligibility_criteria = call_endpoint_for_search_trails()
     write_data_to_csv(eligibility_criteria=eligibility_criteria, cond=cond)

@@ -1,5 +1,5 @@
 .ipynb_checkpoints/
 myenv/
 
-ner.py
-re.py
+ner_prompt.py
+re_prompt.py
